@@ -613,7 +613,7 @@
 }
 
 .btSelect .icone {
-	background: url('https://github.com/srpastel/sr/blob/master/lista_select.png?raw=true') no-repeat;
+	background: url('https://cdn.rawgit.com/srpastel/sr/b6dc5999/lista_select.png?raw=true') no-repeat;
 	position: absolute;
 	top: 50%;
 	right: 20px;
@@ -660,7 +660,7 @@
 }
 
 .selectLink {
-	background: url('https://github.com/srpastel/sr/blob/master/lista_select.png?raw=true') no-repeat;
+	background: url('https://cdn.rawgit.com/srpastel/sr/b6dc5999/lista_select.png?raw=true') no-repeat;
 	color: #febf32;
 	font-size: 18px;
 	line-height: 26px;
@@ -703,7 +703,7 @@
    SESSAO TEXTURA
    ============ */
 #sectionTextura {
-	background: #f17a25 url('..sr/textura.png') repeat;
+	background: #f17a25 url('https://cdn.rawgit.com/srpastel/sr/b6dc5999/textura.png?raw=true') repeat;
 	height: 315px;
 	position: relative;
 	margin-top: -75px;
@@ -715,7 +715,7 @@
    SESSAO + DIVERSAO
    ============ */
 #sessaoDiversao {
-	background-image: url('../img/backgrounds/srpastel-sabor-pizza.jpg');
+	background-image: url('https://cdn.rawgit.com/srpastel/sr/e3f8dfdf/srpastel-sabor-pizza.jpg?raw=true');
 	-webkit-background-size: cover;
 	-moz-background-size: cover;
 	-o-background-size: cover;
@@ -917,7 +917,7 @@ width: 100%;
 }
 
 .boxCirculo .icone {
-	background: url('https://dl.dropboxusercontent.com/u/91921664/srpastel/img/bate_papo.png') no-repeat;
+	background: url('https://cdn.rawgit.com/srpastel/sr/85b59bd4/bate_papo.png?raw=true') no-repeat;
 	width: 59px;
 	height: 82px;
 	margin-top: 65px;
