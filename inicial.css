@@ -924,7 +924,7 @@ width: 100%;
 }
 
 .boxCirculoFamilia .icone {
-	background: url('https://dl.dropboxusercontent.com/u/91921664/srpastel/img/mais_familia.png') no-repeat;
+	background: url('https://cdn.rawgit.com/srpastel/sr/48a4892b/mais_familia.png?raw=true') no-repeat;
 	width: 75px;
 	height: 77px;
 	margin-top: 80px;
@@ -955,7 +955,7 @@ width: 100%;
 }
 
 #sessaoMapa .bg {
-	background: url('https://dl.dropboxusercontent.com/u/91921664/srpastel/img/textura.png') repeat center -60px;
+	background: url('https://cdn.rawgit.com/srpastel/sr/48a4892b/textura.png?raw=true') repeat center -60px;
 	position: absolute;
 	top: 0;
 	bottom: 0;
@@ -963,7 +963,7 @@ width: 100%;
 }
 
 #sessaoMapa .ondulado {
-	background: url('https://dl.dropboxusercontent.com/u/91921664/srpastel/img/ondulado.png') repeat-x;
+	background: url('https://cdn.rawgit.com/srpastel/sr/48a4892b/ondulado.png?raw=true') repeat-x;
 	height: 49px;
 	top: -21px;
 }
@@ -976,7 +976,7 @@ width: 100%;
 }
 
 #sessaoMapa .titulo {
-	background: url('../img/wazer.png') no-repeat;
+	background: url('https://cdn.rawgit.com/srpastel/sr/48a4892b/wazer.png?raw=true') no-repeat;
 	font-size: 63px;
 	line-height: 0.8em;
 	min-height: 100px;
@@ -1096,7 +1096,7 @@ img[src="http://www.google.com/intl/en_us/mapfiles/close.gif"] {
    SESSAO CONTATO
    ============ */
 #sessaoContato {
-	background: #f17a25 url('../img/backgrounds/textura.png') repeat;
+	background: #f17a25 url('https://cdn.rawgit.com/srpastel/sr/48a4892b/textura.png?raw=true') repeat;
 }
 
 .bgContato {
@@ -1124,7 +1124,7 @@ img[src="http://www.google.com/intl/en_us/mapfiles/close.gif"] {
 }
 
 .linha {
-	background: url('https://dl.dropboxusercontent.com/u/91921664/srpastel/img/separador.png') repeat;
+	background: url('https://cdn.rawgit.com/srpastel/sr/48a4892b/separador.png?raw=true') repeat;
 	display: block;
 	height: 3px;
 }
@@ -1138,7 +1138,7 @@ img[src="http://www.google.com/intl/en_us/mapfiles/close.gif"] {
 .locaisLi {
 	display: inline-block;
 	vertical-align: top;
-	background: url('../img/logo_menu_fixo.png') no-repeat top center;
+	background: url('https://cdn.rawgit.com/srpastel/sr/48a4892b/logo_menu_fixo.png?raw=true') no-repeat top center;
 	/*float: left;*/
 	margin: 0 35px 20px;
 	padding-top: 50px;
@@ -1283,7 +1283,7 @@ img[src="http://www.google.com/intl/en_us/mapfiles/close.gif"] {
 	-moz-border-radius: 30px;
 	-webkit-border-radius: 30px;
 	border-radius: 30px;
-	background: url('../img/icons/anexo.png') no-repeat center right;
+	background: url('https://cdn.rawgit.com/srpastel/sr/48a4892b/anexo.png?raw=true') no-repeat center right;
 }
 
 #contatoForm .file {
@@ -1327,7 +1327,7 @@ img[src="http://www.google.com/intl/en_us/mapfiles/close.gif"] {
 }
 
 .btSubmit .icone {
-	background: url('https://dl.dropboxusercontent.com/u/91921664/srpastel/img/enviar.png') no-repeat;
+	background: url('https://cdn.rawgit.com/srpastel/sr/48a4892b/enviar.png?raw=true') no-repeat;
 	position: absolute;
 	top: 50%;
 	left: 50%;
@@ -1341,7 +1341,7 @@ img[src="http://www.google.com/intl/en_us/mapfiles/close.gif"] {
 }
 
 .btEnviandoContato .icone {
-	background: url('../img/icons/enviando.gif') no-repeat;
+	background: url('https://cdn.rawgit.com/srpastel/sr/48a4892b/enviando.gif?raw=true') no-repeat;
 	position: absolute;
 	top: 50%;
 	left: 50%;
@@ -1386,7 +1386,7 @@ img[src="http://www.google.com/intl/en_us/mapfiles/close.gif"] {
 }
 
 .message .icone {
-	background: url('../img/icons/respostas.png') no-repeat;
+	background: url('https://cdn.rawgit.com/srpastel/sr/48a4892b/respostas.png?raw=true') no-repeat;
 	width: 23px;
 	height: 23px;
 	position: absolute;
@@ -1915,37 +1915,37 @@ img[src="http://www.google.com/intl/en_us/mapfiles/close.gif"] {
    ============ */
 @media only screen and (min--moz-device-pixel-ratio: 2), only screen and (-o-min-device-pixel-ratio: 2/1), only screen and (-webkit-min-device-pixel-ratio: 2), only screen and (min-device-pixel-ratio: 2) {
 	.btSelect .icone {
-		background-image: url('../img/icons/seta_select_2x.png');
+		background-image: url('https://cdn.rawgit.com/srpastel/sr/48a4892b/seta_select_2x.png?raw=true');
 		background-size: 26px 26px;
 	}
 
 	.btSelectCardapio .icone {
-		background-image: url('../img/icons/seta_select_cardapio_2x.png');
+		background-image: url('https://cdn.rawgit.com/srpastel/sr/48a4892b/seta_select_cardapio_2x.png?raw=true');
 		background-size: 26px 26px;
 	}
 
 	.selectLink {
-		background-image: url('../img/icons/lista_select_2x.png');
+		background-image: url('https://cdn.rawgit.com/srpastel/sr/48a4892b/lista_select_2x.png?raw=true');
 		background-size: 26px 26px;
 	}
 
 	.blocoSelectCardapio .txtSelect {
-		background-image: url("../img/icons/menu_filtro_mobile_2x.png");
+		background-image: url("https://cdn.rawgit.com/srpastel/sr/48a4892b/menu_filtro_mobile_2x.png?raw=true");
 		background-size: 19px 15px;
 	}
 
 	.styleCheckbox {
-		background-image: url('../img/icons/filtros_2x.png');
+		background-image: url('https://cdn.rawgit.com/srpastel/sr/48a4892b/filtros_2x.png?raw=true');
 		background-size: 26px 52px;
 	}
 
 	.circuloBatePapo .icone {
-		background-image: url('../img/icons/bate_papo_2x.png');
+		background-image: url('https://cdn.rawgit.com/srpastel/sr/48a4892b/bate_papo.png?raw=true');
 		background-size: 59px 82px;
 	}
 
 	.circuloFamilia .icone {
-		background-image: url('../img/icons/mais_familia_2x.png');
+		background-image: url('https://cdn.rawgit.com/srpastel/sr/48a4892b/mais_familia_2x.png?raw=true');
 		background-size: 75px 77px;
 	}
 
@@ -1955,22 +1955,22 @@ img[src="http://www.google.com/intl/en_us/mapfiles/close.gif"] {
 	}
 
 	.locaisLi {
-		background-image: url('../img/icons/locais_2x.png');
+		background-image: url('https://cdn.rawgit.com/srpastel/sr/48a4892b/locais_2x.png?raw=true');
 		background-size: 60px 72px;
 	}
 
 	.btSubmit .icone {
-		background-image: url('../img/icons/enviar_2x.png');
+		background-image: url('https://cdn.rawgit.com/srpastel/sr/48a4892b/enviar_2x.png?raw=true');
 		background-size: 30px 42px;
 	}
 
 	.message .icone {
-		background-image: url('../img/icons/respostas_2x.png');
+		background-image: url('https://cdn.rawgit.com/srpastel/sr/48a4892b/respostas_2x.png?raw=true');
 		background-size: 23px 46px;
 	}
 
 	#contatoForm .relativeFile {
-		background-image: url('../img/icons/anexo_2x.png');
+		background-image: url('https://cdn.rawgit.com/srpastel/sr/48a4892b/anexo_2x.png?raw=true');
 		background-size: 50px 18px;
 	}
 
