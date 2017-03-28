@@ -300,7 +300,7 @@
 }
 
 #btVerCardapio span {
-	background: url('https://dl.dropboxusercontent.com/u/91921664/srpastel/img/ver_cardapio.png') no-repeat 25px center;
+	background: url('https://cdn.rawgit.com/srpastel/sr/c32c45f3/ver_cardapio.png?raw=true') no-repeat 25px center;
 	color: #FFF;
 	display: inline-block;
 	font-size: 20px;
@@ -421,7 +421,7 @@
 }
 
 .encontrarLink span {
-	background: url('https://dl.dropboxusercontent.com/u/91921664/srpastel/img/seta.png') no-repeat;
+	background: url('https://cdn.rawgit.com/srpastel/sr/c32c45f3/seta.png?raw=true') no-repeat;
 	color: #FFF;
 	display: block;
 	font-size: 18px;
@@ -456,7 +456,7 @@
 }
 
 .filtroUl {
-	background: #f17a25 url('../img/icons/menu_filtro.png') no-repeat 23px 23px;
+	background: #f17a25 url('https://cdn.rawgit.com/srpastel/sr/c32c45f3/menu_filtro.png?raw=true') no-repeat 23px 23px;
 	height: 45px;
 	display: block;
 	padding: 20px 0 0 45px;
@@ -474,7 +474,7 @@
 }
 
 .styleCheckbox {
-	background: url('https://dl.dropboxusercontent.com/u/91921664/srpastel/img/filtros.png') no-repeat;
+	background: url('https://cdn.rawgit.com/srpastel/sr/c32c45f3/filtros.png?raw=true') no-repeat;
 	cursor: pointer;
 	height: 26px;
 	display: block;
@@ -564,7 +564,7 @@
 }
 
 .produtosLi .linha {
-	background: url('https://dl.dropboxusercontent.com/u/91921664/srpastel/img/linha-bullet.png') repeat-x;
+	background: url('https://cdn.rawgit.com/srpastel/sr/c32c45f3/linha-bullet.png?raw=true') repeat-x;
 	width: 172px;
 	height: 2px;
 	margin: 15px 20px 0 0;
@@ -613,7 +613,7 @@
 }
 
 .btSelect .icone {
-	background: url('https://dl.dropboxusercontent.com/u/91921664/srpastel/img/lista_select.png') no-repeat;
+	background: url('https://github.com/srpastel/sr/blob/master/lista_select.png?raw=true') no-repeat;
 	position: absolute;
 	top: 50%;
 	right: 20px;
@@ -660,7 +660,7 @@
 }
 
 .selectLink {
-	background: url('https://dl.dropboxusercontent.com/u/91921664/srpastel/img/lista_select.png') no-repeat;
+	background: url('https://github.com/srpastel/sr/blob/master/lista_select.png?raw=true') no-repeat;
 	color: #febf32;
 	font-size: 18px;
 	line-height: 26px;
@@ -675,7 +675,7 @@
 }
 
 .blocoSelectCardapio .txtSelect {
-	background: url('https://dl.dropboxusercontent.com/u/91921664/srpastel/img/menu_filtro_mobile.png') no-repeat 0 21px;
+	background: url('https://cdn.rawgit.com/srpastel/sr/c32c45f3/menu_filtro_mobile.png?raw=true') no-repeat 0 21px;
 	display: block;
 	padding-left: 40px;
 }
@@ -687,7 +687,7 @@
 }
 
 .btSelectCardapio .icone {
-	background: url('https://dl.dropboxusercontent.com/u/91921664/srpastel/img/seta_select_cardapio.png') no-repeat;
+	background: url('https://cdn.rawgit.com/srpastel/sr/c32c45f3/seta_select_cardapio.png?raw=true') no-repeat;
 }
 
 .listaSelectCardapio {
@@ -703,7 +703,7 @@
    SESSAO TEXTURA
    ============ */
 #sectionTextura {
-	background: #f17a25 url('https://dl.dropboxusercontent.com/u/91921664/srpastel/img/textura.png') repeat;
+	background: #f17a25 url('..sr/textura.png') repeat;
 	height: 315px;
 	position: relative;
 	margin-top: -75px;
