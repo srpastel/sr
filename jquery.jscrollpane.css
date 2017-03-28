@@ -103,7 +103,7 @@
 	bottom:0;
 	left:0;
 	width:100%;
-	background:url('../img/backgrounds/bg_scroll.png') repeat-x;
+	background:url('https://cdn.rawgit.com/srpastel/sr/dd87755c/bg-paper@2x.jpg?raw=true') repeat-x;
 	height:32px;
 	z-index:101;
 }
@@ -117,7 +117,7 @@
 
 .jspHorizontalBar .jspDragLeft,
 .jspHorizontalBar .jspDragRight {
-	background:#505052 url('../img/backgrounds/scroll.png') no-repeat top left;
+	background:#505052 url('https://cdn.rawgit.com/srpastel/sr/dd87755c/bg-paper@2x.jpg?raw=true') no-repeat top left;
 	width:32px;
 	height:30px;
 	position:absolute;
