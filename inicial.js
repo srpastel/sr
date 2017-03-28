@@ -334,7 +334,7 @@ function validaForm(){
 			$('#btEnviandoContato').show();
 			var formData = new FormData(form);
 			$.ajax({
-				url: 'https://dl.dropboxusercontent.com/u/91921664/SrPastel/post.contato.php',
+				url: 'https://cdn.rawgit.com/srpastel/sr/master/post.contato.php',
 				type: 'POST',
 				data:  formData,
 				mimeType: 'multipart/form-data',
