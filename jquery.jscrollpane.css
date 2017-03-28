@@ -1,0 +1,167 @@
+﻿.jspContainer {
+	overflow:hidden;
+	position:relative;
+}
+
+.jspPane {
+	position:absolute;
+}
+
+.jspVerticalBar {
+	position:absolute;
+	top:0;
+	right:0px;
+	height:100%;
+	width: 0;
+}
+
+.jspHorizontalBar {
+	position:absolute;
+	left:0;
+	width:0;
+	height:0;
+	z-index:15;
+}
+
+.jspVerticalBar *,
+.jspHorizontalBar * {
+	margin:0;
+	padding:0;
+}
+
+.jspCap {
+	display: none;
+}
+
+.jspCapTop {
+}
+
+.jspDragTop {
+}
+
+.jspDragBottom {
+}
+
+.jspHorizontalBar .jspCap {
+	float:left;
+}
+
+.jspTrack {
+	position:relative;
+}
+
+.jspHorizontalBar .jspTrack,
+.jspHorizontalBar .jspDrag {
+	float:left;
+	height:30px;
+}
+
+.jspArrow {
+	background:#50506d;
+	text-indent:-20000px;
+	display:block;
+	cursor:pointer;
+}
+
+.jspArrow.jspDisabled {
+	cursor:default;
+	background:#80808d;
+}
+
+.jspVerticalBar .jspArrow {
+	height:16px;
+}
+
+.jspHorizontalBar .jspArrow {
+	width:16px;
+	float:left;
+	height:30px;
+}
+
+.jspVerticalBar .jspArrow:focus {
+	outline:none;
+}
+
+.jspCorner {
+	background:#eeeef4;
+	float:left;
+	height:30px;
+	display: none;
+}
+
+/* Yuk! CSS Hack for IE6 3 pixel bug :( */
+* html .jspCorner {
+	margin:0 -3px 0 0;
+	display: none;
+}
+
+
+
+/* SCROLL WRAPPER */
+#wrapper .jspHorizontalBar {
+	position:absolute;
+	bottom:0;
+	left:0;
+	width:100%;
+	background:url('../img/backgrounds/bg_scroll.png') repeat-x;
+	height:32px;
+	z-index:101;
+}
+
+.jspHorizontalBar .jspDrag {
+	background:#505052 ;
+	position:relative;
+	cursor:pointer;
+	margin: 2px 0 0;
+}
+
+.jspHorizontalBar .jspDragLeft,
+.jspHorizontalBar .jspDragRight {
+	background:#505052 url('../img/backgrounds/scroll.png') no-repeat top left;
+	width:32px;
+	height:30px;
+	position:absolute;
+	top:0;
+}
+
+.jspHorizontalBar .jspDragLeft {
+	left:0
+}
+
+
+.jspHorizontalBar .jspDragRight {
+	background-position:top right;
+	right:0
+}
+
+#wrapper .horizontal-only .jspVerticalBar {
+	position:relative;
+	height:0;
+	width: 0;
+	padding: 0;
+	margin: 0;
+	visibility: hidden;
+	display:none;
+}
+
+
+/* SCROLL GERAL */
+.jspVerticalBar,
+.jspVerticalBar .jspDrag {
+	-webkit-border-radius: 10px;
+	-moz-border-radius: 10px;
+	border-radius: 10px;
+}
+
+.jspVerticalBar {
+	background: #ffefcc;
+	width: 12px;
+}
+
+.jspVerticalBar .jspDrag {
+	background: #febf32;
+	position: relative;
+	top: 0;
+	left: 0;
+	cursor: pointer;
+}

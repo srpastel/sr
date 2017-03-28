@@ -1,0 +1,269 @@
+/* SEM SCRIPT */
+.no-js #wrapper {
+	display: none;
+}
+
+.no-js .bgLoader {
+	display: none;
+}
+
+#boxNoscript,
+#boxErroPagina {
+	position: absolute;
+	top: 0;
+	left: 0;
+	bottom: 0;
+	right: 0;
+	z-index: 9999;
+}
+
+#boxSemScript,
+#erroPagina {
+	background: url('../img/erros/bg_noscript.png') repeat;
+	display: block;
+	position: fixed;
+	top: 0;
+	right: 0;
+	bottom: 0;
+	left: 0;
+	z-index: 5000;
+}
+
+#boxSemScript .arrowSemScript,
+#erroPagina .arrowSemScript {
+	background: url('../img/erros/setas_noscript.png') no-repeat;
+	width: 184px;
+	height: 368px;
+	position: absolute;
+	top: 50%;
+	margin-top: -184px;
+	z-index: 10;
+}
+
+#boxSemScript .arrowLeft,
+#erroPagina .arrowLeft {
+	background-position: 0 0;
+	left: 0;
+}
+
+#boxSemScript .arrowRight,
+#erroPagina .arrowRight {
+	background-position: -206px 0;
+	right: 0;
+}
+
+#boxSemScript .box,
+#erroPagina .box {
+	width: 623px;
+	height: 320px;
+	position: fixed;
+	top: 50%;
+	left: 50%;
+	margin: -160px 0 0 -311px;
+	z-index: 50;
+}
+
+#boxSemScript .box {
+	background: url('../img/erros/bg_erro_script.png') no-repeat;
+}
+
+#erroPagina .box {
+	background: url('../img/erros/bg_erro_pagina.png') no-repeat;
+}
+
+#boxSemScript .txtOops,
+#erroPagina .txtOops {
+	font-family: Georgia, serif;
+	color: #000;
+	display: block;
+	font-style: italic;
+	font-weight:bold;
+	line-height: 100%;
+	font-size: 100px;
+	float: right;
+	letter-spacing: -0.06em;
+	margin-right: 5px;
+}
+
+#boxSemScript .txtOops {
+	margin-top: 0;
+}
+
+#erroPagina .txtOops {
+	margin-top: 60px;
+}
+
+#boxSemScript .boxTxtErro,
+#erroPagina .boxTxtErro {
+	text-align: left;
+	position: absolute;
+}
+
+#boxSemScript .boxTxtErro {
+	width: 250px;
+	top: 137px;
+	right: 20px;
+}
+
+#erroPagina .boxTxtErro {
+	width: 290px;
+	top: 185px;
+	right: -20px;
+}
+
+#boxSemScript .boxTxtErro .txtErro {
+	font-size: 12px;
+	padding-bottom: 7px;
+}
+
+#erroPagina .boxTxtErro .txtErro {
+	font-size: 16px;
+	padding-bottom: 4px;
+}
+
+.txtErroSemScript {
+	font-family: Georgia, serif;
+	color: #7b7d6c;
+	display: block;
+	font-style: italic;
+	line-height: 100%;
+}
+
+#boxSemScript .boxGoogle {
+	width: 250px;
+	text-align: left;
+	position: absolute;
+	bottom: 32px;
+	right: 20px;
+}
+
+#boxSemScript .boxGoogle .txtGoogle {
+	font-size: 16px;
+	font-weight: bold;
+	padding-bottom: 3px;
+}
+
+#boxSemScript .linkSemScript {
+	color: #000;
+	text-decoration: underline;
+}
+
+#boxSemScript .linkSemScript:hover {
+	text-decoration: none;
+}
+
+
+/* ERRO NAVEGADOR */
+#boxErro {
+	width: 100%;
+	background: url('../img/erros/bg_erro_navegador.png') repeat;
+	height: 0;
+}
+
+#boxErro .containerErro {
+	margin: 0 auto;
+	width: 880px;
+	height: 100%;
+	position: relative;
+}
+
+.boxAtualize {
+	background: url('../img/erros/sprite_erro.png') no-repeat;
+	padding-left: 90px;
+	height: 83px;
+	text-align: left;
+	margin: 63px 0 0 -200px;
+	float: left;
+	opacity: 0;
+	-moz-opacity: 0;
+	filter:alpha(opacity=0);
+}
+
+.boxAtualize .txt {
+	font-family: georgia, sans-serif;
+	color: #000;
+	display: block;
+	font-weight: bold;
+	font-style: italic;
+}
+
+.boxAtualize .txtMenor {
+	font-size: 27px;
+	line-height: 31px;
+}
+
+.boxAtualize .txtMaior {
+	font-size: 44px;
+	line-height: 27px;
+}
+
+.boxTxtAtualize {
+	margin: 63px 0 0 22px;
+	float: left;
+	text-align: left;
+	opacity: 0;
+	-moz-opacity: 0;
+	filter:alpha(opacity=0);
+}
+
+.boxTxtAtualize .txt {
+	font-family: georgia, sans-serif;
+	font-style: italic;
+	color: #a39f9f;
+	font-size: 12px;
+	display: block;
+	line-height: 100%;
+	letter-spacing: 0.03em;
+	padding-bottom: 4px;
+}
+
+#boxErro .btDownload {
+	background: url('../img/erros/sprite_erro.png') no-repeat;
+	background-position: 0 -138px;
+	width: 302px;
+	height: 96px;
+	position: absolute;
+	top: 63px;
+	right: -100px;
+	opacity: 0;
+	-moz-opacity: 0;
+	filter:alpha(opacity=0);
+	cursor: pointer;
+	z-index: 3;
+}
+
+#boxErro .btDownload span {
+	background: url('../img/erros/sprite_erro.png') no-repeat;
+	background-position: -312px -138px;
+	width: 302px;
+	height: 96px;
+	position: absolute;
+	top: 0;
+	left: 0;
+	display: none;
+}
+
+#boxErro .btClose {
+	background: url('../img/erros/sprite_erro.png') no-repeat;
+	background-position: 0 -285px;
+	width: 30px;
+	height: 30px;
+	position: absolute;
+	top: 0;
+	right: 0;
+	opacity: 0;
+	-moz-opacity: 0;
+	filter:alpha(opacity=0);
+	cursor: pointer;
+}
+
+#boxErro .btClose span {
+	background: url('../img/erros/sprite_erro.png') no-repeat;
+	background-position: -38px -285px;
+	width: 30px;
+	height: 30px;
+	position: absolute;
+	top: 0;
+	right: 0;
+	display: none;
+}
