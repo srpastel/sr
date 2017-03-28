@@ -98,7 +98,7 @@
 }
 
 .fancybox-close {
-	background: #f17a25 url('../img/icons/close_modal.png') no-repeat;
+	background: #f17a25 url('https://cdn.rawgit.com/srpastel/sr/8a9727c6/close_modal.png?raw=true') no-repeat;
 	position: fixed;
 	top: 15px;
 	right: 50px;
@@ -196,7 +196,7 @@
 }
 
 .fancybox-overlay {
-	background: #febf32 url('../img/backgrounds/textura.png') repeat;
+	background: #febf32 url('https://cdn.rawgit.com/srpastel/sr/8a9727c6/textura.png?raw=true') repeat;
 	position: absolute;
 	top: 0;
 	left: 0;
@@ -286,7 +286,7 @@
 	}
 
 	.fancybox-close {
-		background-image: url('../img/icons/close_modal_2x.png');
+		background-image: url('https://cdn.rawgit.com/srpastel/sr/8a9727c6/close_modal_2x.png?raw=true');
 		background-size: 52px 104px;
 	}
 
