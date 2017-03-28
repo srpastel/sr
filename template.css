@@ -267,7 +267,7 @@ h1,h2,h3,h4,h5,h6 {
    TOPO
    ============ */
 .facebook {
-	background: url('https://dl.dropboxusercontent.com/u/91921664/srpastel/img/facebook.png') no-repeat center top;
+	background: url('https://cdn.rawgit.com/srpastel/sr/c6ba9184/facebook.png?raw=true') no-repeat center top;
 	position: absolute;
 	top: 5px;
 	right: 5px;
@@ -339,7 +339,7 @@ h1,h2,h3,h4,h5,h6 {
 }
 
 .menuLink .icone {
-	background: url('https://dl.dropboxusercontent.com/u/91921664/srpastel/img/menu.png') no-repeat;
+	background: url('https://cdn.rawgit.com/srpastel/sr/c6ba9184/menu.png?raw=true') no-repeat;
 	display: inline-block;
 	width: 52px;
 	height: 39px;
@@ -404,7 +404,7 @@ h1,h2,h3,h4,h5,h6 {
 }
 
 .btMenu {
-	background: url('../img/icons/linha.png') repeat-x;
+	background: url('https://cdn.rawgit.com/srpastel/sr/c6ba9184/linha.png?raw=true') repeat-x;
 	display: block;
 	padding: 20px 0;
 	position: relative;
@@ -413,11 +413,11 @@ h1,h2,h3,h4,h5,h6 {
 }
 
 .btMenuAberto {
-	background: #FFF url('../img/icons/linha_azul.png') repeat-x;
+	background: #FFF url('https://cdn.rawgit.com/srpastel/sr/c6ba9184/linha_azul.png?raw=true') repeat-x;
 }
 
 .btMenu .titulo {
-	background: url('../img/icons/menu_mobile.png') no-repeat 0 12px;
+	background: url('https://cdn.rawgit.com/srpastel/sr/c6ba9184/menu_mobile.png?raw=true') no-repeat 0 12px;
 	color: #FFF;
 	display: inline-block;
 	font-size: 34px;
@@ -542,7 +542,7 @@ h1,h2,h3,h4,h5,h6 {
 }
 
 .menuLinkFacebook {
-	background: url('https://dl.dropboxusercontent.com/u/91921664/srpastel/img/menu_facebook.png') no-repeat center top;
+	background: url('https://cdn.rawgit.com/srpastel/sr/c6ba9184/menu_facebook.png?raw=true') no-repeat center top;
 	width: 40px !important;
 	height: 40px !important;
 	display: inline-block;
@@ -924,22 +924,22 @@ h1,h2,h3,h4,h5,h6 {
    ============ */
 @media only screen and (min--moz-device-pixel-ratio: 2), only screen and (-o-min-device-pixel-ratio: 2/1), only screen and (-webkit-min-device-pixel-ratio: 2), only screen and (min-device-pixel-ratio: 2) {
 	.facebook {
-		background-image: url('../img/icons/facebook_2x.png');
+		background-image: url('https://cdn.rawgit.com/srpastel/sr/c6ba9184/facebook_2x.png?raw=true');
 		background-size: 52px 104px;
 	}
 
 	.btMenu .titulo {
-		background-image: url('../img/icons/menu_mobile_2x.png');
+		background-image: url('https://cdn.rawgit.com/srpastel/sr/c6ba9184/menu_mobile_2x.png?raw=true');
 		background-size: 16px 32px;
 	}
 
 	.menuLink .icone {
-		background-image: url('../img/icons/menu_2x.png');
+		background-image: url('https://cdn.rawgit.com/srpastel/sr/c6ba9184/menu_2x.png?raw=true');
 		background-size: 605px 78px;
 	}
 
 	.menuLinkFacebook {
-		background-image: url('../img/icons/menu_facebook_2x.png');
+		background-image: url('https://cdn.rawgit.com/srpastel/sr/c6ba9184/menu_facebook_2x.png?raw=true');
 		background-size: 40px 80px;
 	}
 }
