@@ -94,7 +94,7 @@
 #fancybox-loading div {
 	width: 44px;
 	height: 44px;
-	background: url('https://dl.dropboxusercontent.com/u/91921664/srpastel/img/icons/loading.gif') center center no-repeat;
+	background: url('https://cdn.rawgit.com/srpastel/sr/1f24fd2a/loading.gif?raw=true') center center no-repeat;
 }
 
 .fancybox-close {
