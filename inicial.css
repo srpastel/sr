@@ -1949,7 +1949,7 @@ img[src="http://www.google.com/intl/en_us/mapfiles/close.gif"] {
 	}
 
 	#sessaoMapa .titulo {
-		background-image: url('../img/icons/mapa_2x.png');
+		background-image: url('https://cdn.rawgit.com/srpastel/sr/d7cf8451/mapa_2x.png?raw=true');
 		background-size: 89px 110px;
 	}
 
