@@ -413,11 +413,11 @@ h1,h2,h3,h4,h5,h6 {
 }
 
 .btMenuAberto {
-	background: #FFF url('https://cdn.rawgit.com/srpastel/sr/c6ba9184/linha_azul.png?raw=true') repeat-x;
+	background: #FFF url('https://cdn.rawgit.com/srpastel/sr/6ec543e7/linha_azul.png?raw=true') repeat-x;
 }
 
 .btMenu .titulo {
-	background: url('https://cdn.rawgit.com/srpastel/sr/c6ba9184/menu_mobile.png?raw=true') no-repeat 0 12px;
+	background: url('https://cdn.rawgit.com/srpastel/sr/6ec543e7/menu_mobile.png?raw=true') no-repeat 0 12px;
 	color: #FFF;
 	display: inline-block;
 	font-size: 34px;
@@ -924,7 +924,7 @@ h1,h2,h3,h4,h5,h6 {
    ============ */
 @media only screen and (min--moz-device-pixel-ratio: 2), only screen and (-o-min-device-pixel-ratio: 2/1), only screen and (-webkit-min-device-pixel-ratio: 2), only screen and (min-device-pixel-ratio: 2) {
 	.facebook {
-		background-image: url('https://cdn.rawgit.com/srpastel/sr/c6ba9184/facebook_2x.png?raw=true');
+		background-image: url('https://cdn.rawgit.com/srpastel/sr/6ec543e7/facebook_2x.png?raw=true');
 		background-size: 52px 104px;
 	}
 
