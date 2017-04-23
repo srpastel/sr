@@ -1,0 +1,30 @@
+﻿.blog-posts.hfeed{overflow:hidden}
+.post{float:left;width:22%;margin:0 0 15px;border:1px solid #E0E0E0;-moz-box-shadow:0 2px 4px #E7E7E7;-webkit-box-shadow:0 2px 4px #E7E7E7;padding:0 0 5px;box-shadow:0 2px 4px #E7E7E7;overflow:hidden}
+.post:hover{-moz-box-shadow:0 2px 5px #CACACA;-webkit-box-shadow:0 2px 5px #CACACA;box-shadow:0 2px 5px #CACACA}
+.post img{border:0;width:100%}
+.post h2.post-title{padding:4px 8px 0;margin:0 0 5px;font-size:160%}
+.post h2.post-title a{color:#0F0F0F}
+.post h2.post-title a:hover{color:#C20404}
+.post-body p{margin:0;padding:0 8px}
+.post .jump-link{position:absolute;bottom:-25px;right:5px;line-height:25px;padding:0 10px;background-color:#EBEBEB;-moz-border-radius:5px 5px 0 0;-webkit-border-radius:5px 5px 0 0;border-radius:5px 5px 0 0;-moz-box-shadow:inset 0 2px 4px #D1CACA;-webkit-box-shadow:inset 0 2px 4px #D1CACA;box-shadow:inset 0 2px 4px #D1CACA}
+.post .jump-link a:hover{color:black;text-decoration:none}
+.post .thumbx{display:block;padding:5px;background-color:#F0F0F0;position:relative;border-bottom:1px solid #DFDFDF}
+.post .thumbx::before{position:absolute;content:&quot;&quot;;width:100%;height:100%;display:block;background-image:url(http://1.bp.blogspot.com/-EX2YR9llSBE/UYl9pMDGVUI/AAAAAAAAI-w/UrGqdmtCvp8/s000/overlay.png);top:0;background-position:100% 0;background-repeat:no-repeat;left:0}
+.post-body{margin-bottom:20px}
+.post img.noimage{height:100px}
+a.loadpost{display:block;width:200px;margin:0 auto;text-decoration:none;background-color:#EEE;line-height:35px;border:1px solid #007AFF;border-radius:3px;box-shadow:0 0 3px #E7E7E7,inset 0 0 2px white}
+.imgload {width:73px; height:73px}
+#blog-pager{display:none}
+@media only screen and (min-width:768px) and (max-width:983px){
+  .post{width:48%}
+}
+@media only screen and (max-width:767px){
+  .post{width:48%;margin:0 1% 15px}
+}
+@media only screen and (max-width:499px){
+  .post{margin:0 0.8% 15px}
+  a.loadpost{width:90%}
+}
+@media only screen and (max-width:479px){
+  .post{width:100%;margin:0 0 15px}
+}

@@ -1,0 +1,33 @@
+﻿#main-wrapper{padding:10px}
+.post,#comments,#related_posts,.breadcrumbs{margin:0 0 15px;border:1px solid #E0E0E0;-moz-box-shadow:0 2px 4px #E7E7E7;-webkit-box-shadow:0 2px 4px #E7E7E7;padding:0 10px 15px;box-shadow:0 2px 4px #E7E7E7;background-color:white;overflow:hidden}
+
+
+.post .datex{color:#3366ff; top:-2px;right:0px;left:100%;width:40px;height:55px;padding:5px 0;-moz-border-radius:0 0 2px 2px;-webkit-border-radius:0 0 2px 2px;border-radius:0 0 2px 2px}
+.post .datex strong{font-size:22px;width:100%;padding:0 0 3px;float:right}
+.post .datex span,.post .datex small{float:right;width:100%;font-size:9px;line-height:12px, }
+
+.post h1.post-title{background-color:#fff; margin:5px 0 15px;border-bottom:4px solid #ff9933;padding:0 0 3px;font-size:200%}
+.post h1.post-title a{color:#6699ff}
+
+.pager-isi{overflow:hidden}
+.pager-isi a,.pager-isi .linkgrey{width:50%;display:block;float:left;padding:10px 0;font-size:120%;text-decoration:none}
+.pager-isi h6{color:#2C2C2C;font-size:125%}
+.pager-isi h5{font-size:120%}
+a.blog-pager-newer-link{padding-left:15px;text-align:left;position:relative}
+a.blog-pager-older-link{padding-right:15px;text-align:right;position:relative}
+.pager-isi .linkgrey.left{padding-left:15px;text-align:left}
+.pager-isi .linkgrey.right{padding-right:15px;text-align:right}
+a.blog-pager-newer-link::after{content:&quot;&quot;;width:0;height:0;border-width:8px 6px;border-style:solid;border-color:transparent #777676 transparent transparent;position:absolute;top:50%;left:-3px;margin-top:-8px}
+a.blog-pager-older-link::after{content:&quot;&quot;;width:0;height:0;border-width:8px 6px;border-style:solid;border-color:transparent transparent transparent #777676;position:absolute;top:50%;right:-3px;margin-top:-8px}
+#related_posts ul,#related_posts li{overflow:hidden;padding:0;margin:0;list-style:none}
+#related_posts ul{margin-top:10px}
+#related_posts li{float:left;width:50%;padding:5px}
+#related_posts .gmbrrltd{float:left;margin:0 5px 5px 0;padding:3px;border:1px solid silver}
+#related_posts p{margin:5px 0 0}
+.breadcrumbs{padding:5px;font-size:80%}
+@media only screen and (min-width:768px) and (max-width:983px){
+  #related_posts li{width:100%;float:none}
+}
+@media only screen and (max-width:767px){
+  #related_posts li{width:100%;float:none}
+}
