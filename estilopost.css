@@ -1,0 +1,58 @@
+﻿table { 
+  width: 100%; 
+  border-collapse: collapse; 
+}
+
+.imagem {
+   position:relative;
+}
+.imagem-mascara {
+   width:320px; /* largura da imagem máscara */
+   height:263px; /* altura da imagem máscara */
+   position:absolute;
+   top: 0px;
+   left:212px;
+   background:url(https://lh4.googleusercontent.com/-wNGbI2ap4aA/UxnrqUO19cI/AAAAAAAAG-g/77WS7zFt8HM/s33/icon-zoom.png) 0 0 no-repeat; /* imagem máscara */
+}
+
+@media 
+only screen and (max-width: 760px),
+(min-device-width: 768px) and (max-device-width: 1024px)  {
+
+ /* Force table to not be like tables anymore */
+ table, thead, tbody, th, td, tr { 
+  display: block; 
+ }
+ 
+ /* Hide table headers (but not display: none;, for accessibility) */
+ thead tr { 
+  position: absolute;
+  top: -9999px;
+  left: -9999px;
+ }
+ 
+ tr { border: 1px solid #ccc; }
+ 
+ td { 
+  /* Behave  like a "row" */
+  border: none;
+  border-bottom: 1px solid #eee; 
+  position: relative;
+  padding-left: 0; 
+ }
+ 
+ td:before { 
+  /* Now like a table header */
+  position: absolute;
+  /* Top/left values mimic padding */
+  top: 6px;
+  left: 6px;
+  width: 100%; 
+  padding-right: 10px; 
+  white-space: nowrap;
+ }
+}
+
+li,td,tr {
+list-style-type: none;
+}
