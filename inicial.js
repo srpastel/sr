@@ -474,7 +474,7 @@ function initialize() {
 
 var locais = [
 	
-	['Sr. Pastel Pastelaria', -23.5057449, -47.6150007, 100, 250, -200,  '<div class="containerInfoBox"><span class="tituloLocal"><span>Sr. Pastel</span><span>Pastelaria</span></span><p class="enderecoLocal">Rua 7 de Setembro, 27 - Centro - Araçoiaba da Serra - São Paulo /SP</p><span class="foneLocal">(15) 3281-1102</span><p class="atendimentoLocal"><span>Atendimento</span><span>Seg. a Sáb. das 8h às 19h00</span></p></div>'],
+	['Sr. Pastel Pastelaria', -23.5057449, -47.6150007, 100, 250, -200,  '<span class="tituloLocal"><span>Sr. Pastel</span><span>Pastelaria</span></span><p class="enderecoLocal">Rua 7 de Setembro, 27 - Centro - Araçoiaba da Serra - São Paulo /SP</p><span class="foneLocal">(15) 3281-1102</span><p class="atendimentoLocal"><span>Atendimento</span><span>Seg. a Sáb. das 8h às 19h00</span></p>'],
 ];
 
 function createMarker(locais, map){
