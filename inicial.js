@@ -466,7 +466,7 @@ function initialize() {
 
 	// google.maps.event.addListener(map, "click", function() { ib.close(); });
 
-	setMarkers(map, locais);
+	
 	infowindow = new google.maps.InfoWindow({
 		content: "Carregando..."
 	});
@@ -511,7 +511,7 @@ function createMarker(locais, map){
 		//map.setCenter(marker.getPosition());
 	});
 
-	ib = new InfoBox(myOptions);
+	
 	ib.open(map, marker);
 
 	// return marker;
@@ -519,7 +519,7 @@ function createMarker(locais, map){
 
 function setMarkers(map, markers) {
 	for (var i = 0; i < markers.length; i++) {
-		createMarker(markers[i], map);
+		
 	}
 }
 
