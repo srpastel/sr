@@ -731,14 +731,14 @@
 	width: 260px;
 	height: 580px;
 	position: absolute;
-	top: -205px;
+	top: -120px;
 	left: 50%;
-	margin-left: -600px;
-	-o-border-radius: 150px;
-	-moz-border-radius: 150px;
-	-webkit-border-radius: 150px;
-	border-radius: 150px;
-	padding: 55px 155px 0;
+	margin-left: -225px;
+	-o-border-radius: 300px;
+	-moz-border-radius: 300px;
+	-webkit-border-radius: 300px;
+	border-radius: 300px;
+	padding: 55px 95px 0;
 	text-align: center;
 }
 
@@ -755,11 +755,12 @@
 	display: block;
 	color: #00afab;
 	font-size: 49px;
-	line-height: 55px;
+	line-height: 1em;
 }
 
 #blocoMaisDiversao .titulo .diversao {
 	color: #80bd01;
+	font-size: 63px;
 	
 }
 
