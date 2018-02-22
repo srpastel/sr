@@ -23,7 +23,7 @@ table {
 	border-spacing: 0;
 }
 #banner{
-    background: url(https://rawgit.com/srpastel/sr/master/banner-bg.jpg) no-repeat center top;
+    background: url('https://rawgit.com/srpastel/sr/master/banner-bg.jpg') no-repeat center top;
     background-size: cover;
     min-height: 630px;
 }
@@ -265,7 +265,7 @@ table {
     border-radius: 2px;
 }
 #event{
-    background: url('../img/res02.jpg') no-repeat;
+    background: url('https://rawgit.com/srpastel/sr/master/srpastel-bg.jpg') no-repeat;
     background-size: cover;
 }
 .left-images img {
