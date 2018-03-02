@@ -345,13 +345,14 @@ table {
     position: absolute;
     right: 0;
     top: 0;
+    color: #B1B1B1;
 }
 .menu-restaurant .menu-subtitle {
     display: block;
     float: left;
     color: #B1B1B1;
     font-family: Satisfy,'Open Sans',arial;
-    font-size: 1.2rem;
+    font-size: 15px;
 }
 .menu-restaurant span.clearfix {
     position: relative;
