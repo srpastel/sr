@@ -1,0 +1,945 @@
+@import url(&#39;https://cdn.rawgit.com/srpastel/sr/master/erros.css&#39;);
+
+/* ============
+   RESET
+   ============ */
+html {
+	height: 100%;
+	overflow: auto;
+}
+
+html,body,div,span,applet,object,iframe,h1,h2,h3,h4,h5,h6,p,blockquote,pre,abbr,acronym,address,big,cite,code,del,dfn,em,font,img,ins,kbd,q,s,samp,small,strike,strong,sub,sup,tt,var,b,u,i,center,dl,dt,dd,ol,ul,li,fieldset,form,label,legend,table,caption,tbody,tfoot,thead,tr,th,td{margin:0;padding:0;border:0;font-size:100%;vertical-align:baseline;background:transparent;}
+
+h1,h2,h3,h4,h5,h6 {
+	font-weight: normal;
+}
+
+a {
+color: #fff;
+font-size: 60%;
+}
+
+a:link, a:visited {
+	text-decoration: none
+	}
+a:hover {
+	text-decoration: underline; 
+	color: #f00
+	}
+a:active {
+	text-decoration: none
+	}
+
+body {
+	line-height: 1em;
+	text-align: center;
+	font-size: 12px;
+}
+
+ul {
+	list-style: none;
+}
+
+blockquote,q{
+	quotes:none;
+}
+
+hr {
+	display: none;
+}
+
+textarea {
+	overflow: auto;
+}
+
+select {
+	-webkit-appearance: none;
+}
+
+span {
+	font-size: 90%;
+}
+
+button {
+	padding: 0;
+	border: none;
+	cursor: pointer;
+	background: none;
+}
+
+iframe {
+	border: none;
+	overflow: hidden;
+}
+
+* {
+	outline: 0 none;
+}
+
+a,a:hover {
+	text-decoration: none;
+}
+
+
+/* ============
+   CLEARFIX
+   ============ */
+.clearfix:after {
+	content: &quot;.&quot;;
+	display: block;
+	clear: both;
+	visibility: hidden;
+	line-height: 0;
+	height: 0;
+}
+
+.clearfix {
+	display: inline-block;
+}
+
+
+}
+
+
+/* ============
+   CLASSES PADROES
+   ============ */
+.ir {
+	text-indent: -100%;
+	overflow: hidden;
+	white-space: nowrap;
+	display: inline-block;
+	font-size: 0;
+	line-height: 0;
+}
+
+.table {
+	display: table;
+}
+
+.tableCell {
+	display: table-cell;
+	vertical-align: middle;
+	text-align: center;
+}
+
+
+body {
+	background: #f17a25;
+	color: #FFF;
+	font-family: &#39;Architects Daughter&#39;, cursive;
+}
+
+.bgLaranja {
+	background: #f17a25;
+}
+
+.bgAzul {
+	background: #ff6633;
+}
+
+h1,h2,h3,h4,h5,h6 {
+}
+
+/* ============
+   CMS - FORMATACAO DE TAGS DO EDITOR
+   ============ */
+.cms p{}
+.cms a{text-decoration:underline;}
+.cms em,.cms i{}
+.cms b,.cms strong{}
+.cms u{}
+.cms ul,.cms ol{}
+.cms ul li{list-style:square inside;}
+.cms ol li{list-style:decimal inside;}
+.cms li{}
+.cms strike{}
+
+
+/* ============
+   ESTRUTURA
+   ============ */
+#wrapper {
+	position: relative;
+	z-index: 100;
+}
+
+#header {
+	position: relative;
+	padding-top: 30px;
+	padding-bottom: 320px;
+}
+
+#content {
+}
+
+#main {
+}
+
+#footer {
+	background: #FFF;
+	padding: 135px 0 105px;
+	position: relative;
+}
+
+
+
+/* ============
+   GERAIS
+   ============ */
+.container.
+.containerGeral {
+	-moz-transition: all .3s;
+	-webkit-transition: all .3s;
+	-o-transition: all .3s;
+	transition: all .3s;
+}
+
+.container {
+	margin: 0 auto;
+	width: 100%;
+	max-width: 1214px;
+	position: relative;
+}
+
+.containerGeral {
+	margin: 0 20px;
+	display: block;
+}
+
+.containerBloco {
+	background: #f17a25;
+	padding: 100px 65px 0;
+	width: 720px;
+}
+
+.geralTransition {
+	-moz-transition: all .3s;
+	-webkit-transition: all .3s;
+	-o-transition: all .3s;
+	transition: all .3s;
+}
+
+.bgFixo {
+	background-attachment: fixed;
+	background-repeat: no-repeat;
+	background-position: 50% 0;
+	width: 100%;
+	/*max-width: 1920px;*/
+	position: relative;
+}
+
+.bt {
+}
+
+.barrasUl {
+	position: absolute;
+	top: 0;
+	left: 0;
+	right: 0;
+}
+
+.barrasLi {
+	background: #f17a25;
+	float: left;
+	width: 20%;
+	height: 10px;
+}
+
+.barrasLiVermelha {
+	background: #d9232e;
+}
+
+.barrasLiVerde {
+	background: #80bd01;
+}
+
+.barrasLiAzul {
+	background: #f1a225;
+}
+
+.barrasLiVerdeEscuro {
+	background: #00afab;
+}
+
+
+/* ============
+   TOPO
+   ============ */
+.facebook {
+	background: url(&#39;https://cdn.rawgit.com/srpastel/sr/c6ba9184/facebook.png?raw=true&#39;) no-repeat center top;
+	position: absolute;
+	top: 5px;
+	right: 5px;
+	width: 52px;
+	height: 52px;
+	-moz-transition: all .3s;
+	-webkit-transition: all .3s;
+	-o-transition: all .3s;
+	transition: all .3s;
+}
+
+.facebook:hover {
+	background-position: center bottom;
+}
+
+.menu {
+	height: 210px;
+	position: relative;
+}
+
+.containerMenu {
+	padding-top: 65px;
+}
+
+.menuLi {
+	float: left;
+	margin-right: 75px;
+}
+
+.menuLiLogo {
+	margin-top: -60px;
+	position: relative;
+	z-index: 5;
+}
+
+.menuLiFacebook {
+	display: none
+}
+
+.logo a {
+	background: #f17a25;
+	display: block;
+	position: relative;
+	width: 369px;
+}
+
+.logoImg {
+	width: 100%;
+	left: 30px;
+}
+
+.menuLiLast {
+	margin-right: 0;
+}
+
+.menuLink {
+	color: #FFF;
+	display: block;
+	font-family: &#39;Architects Daughter&#39;, cursive;
+	font-size: 22px;
+	height: 80px;
+	position: relative;
+	text-align: center;
+}
+
+.menuLink:hover,
+.menuLinkAtivo {
+	border-bottom: 2px solid #febf32;
+}
+
+.menuLink .icone {
+	background: url(&#39;https://cdn.rawgit.com/srpastel/sr/c6ba9184/menu.png?raw=true&#39;) no-repeat;
+	display: inline-block;
+	width: 52px;
+	height: 39px;
+}
+
+.menuLink .iconeMaisPastel {
+	background-position: -184px 0;
+	width: 48px;
+	margin-left: 3px;
+}
+
+.menuLink .iconeLocalizacao {
+	background-position: -370px 0;
+	width: 50px;
+}
+
+.menuLink .iconeAtendimento {
+	background-position: -558px 0;
+	width: 46px;
+}
+
+.menuLink:hover .icone {
+	background-position: 0 -39px;
+}
+
+.menuLink:hover .iconeMaisPastel {
+	background-position: -184px -39px;
+}
+
+.menuLink:hover .iconeLocalizacao {
+	background-position: -370px -39px;
+}
+
+.menuLink:hover .iconeAtendimento {
+	background-position: -558px -39px;
+}
+
+.menuLink .titulo {
+	top: 15px;
+	display: block;
+}
+
+.menu .linha {
+	position: absolute;
+	top: 8px;
+	left: 0;
+	right: 0;
+}
+
+.menu .linhaBottom {
+	top: auto;
+	bottom: 2px;
+}
+
+.blocoLogoMobile {
+	display: none;
+}
+
+.logoMobile {
+	display: inline-block;
+	width: 250px;
+}
+
+.btMenu {
+	background: url(&#39;https://cdn.rawgit.com/srpastel/sr/c6ba9184/linha.png?raw=true&#39;) repeat-x;
+	display: block;
+	padding: 20px 0;
+	position: relative;
+	margin-top: 50px;
+	z-index: 101;
+}
+
+.btMenuAberto {
+	background: #FFF url(&#39;https://cdn.rawgit.com/srpastel/sr/c6ba9184/linha_azul.png?raw=true&#39;) repeat-x;
+}
+
+.btMenu .titulo {
+	background: url(&#39;https://cdn.rawgit.com/srpastel/sr/6ec543e7/menu_mobile.png?raw=true&#39;) no-repeat 0 12px;
+	color: #FFF;
+	display: inline-block;
+	font-size: 34px;
+	line-height: 1em;
+	height: 29px;
+	padding-left: 30px;
+}
+
+.btMenuAberto .titulo {
+	background-position: 0 -4px;
+	color: #00b3e3;
+}
+
+.btMenu .linha {
+	position: absolute;
+	left: 0;
+	right: 0;
+	bottom: 0;
+}
+
+.btMenuAberto .linha {
+	display: none;
+}
+
+.menuFixo {
+	background: #FFF;
+	position: fixed;
+	top: -90px;
+	left: 0;
+	right: 0;
+	height: 67px;
+	z-index: 9999;
+	padding-top: 23px;
+	-moz-transition: all .4s;
+	-webkit-transition: all .4s;
+	-o-transition: all .4s;
+	transition: all .4s;
+}
+
+.menuFixoShow {
+	top: 0;
+}
+
+.containerMenuFixo {
+	padding: 0 55px;
+	display: block;
+}
+
+.menuFixo nav {
+	float: right;
+	padding-top: 4px;
+}
+
+.menuFixo .logo {
+	width: 115px;
+	float: left;
+}
+
+.menuFixo .menuLiLast {
+	margin-right: 75px;
+}
+
+.menuFixo .menuLiLogo {
+	display: none;
+}
+
+.menuFixo .menuLiFacebook {
+	display: block;
+	margin-right: 0;
+}
+
+.menuFixo .menuLink {
+	font-family: &#39;Architects Daughter&#39;, cursive;
+	font-size: 14px;
+	color: #f17a25;
+	text-transform: uppercase;
+	height: 50px;
+}
+
+.menuFixo .menuLink:hover,
+.menuFixo .menuLinkAtivo {
+	border: none;
+}
+
+.menuFixo .menuLink .icone {
+}
+
+.menuFixo .menuLink .titulo {
+	top: 13px;
+	
+	padding-bottom: 5px;
+}
+
+.menuFixo .menuLinkAtivo .titulo {
+	border: none;
+}
+
+.menuFixo .menuLink:hover .titulo {
+	border-bottom: 2px solid #febf32;
+}
+
+.menuFixo .menuLink .icone,
+.menuFixo .menuLink:hover .icone {
+	width: 67px;
+	background-position: 0 -39px;
+}
+
+.menuFixo .menuLink .iconeMaisPastel,
+.menuFixo .menuLink:hover .iconeMaisPastel {
+	background-position: -180px -39px;
+	margin-left: 0;
+}
+
+.menuFixo .menuLink .iconeLocalizacao,
+.menuFixo .menuLink:hover .iconeLocalizacao {
+	background-position: -371px -39px;
+}
+
+.menuFixo .menuLink .iconeAtendimento,
+.menuFixo .menuLink:hover .iconeAtendimento {
+	background-position: -558px -39px;
+}
+
+.menuLinkFacebook {
+	background: url(&#39;https://cdn.rawgit.com/srpastel/sr/c6ba9184/menu_facebook.png?raw=true&#39;) no-repeat center top;
+	width: 40px !important;
+	height: 40px !important;
+	display: inline-block;
+	-moz-transition: all .3s;
+	-webkit-transition: all .3s;
+	-o-transition: all .3s;
+	transition: all .3s;
+}
+
+.menuLinkFacebook:hover {
+	background-position: center bottom;
+}
+
+
+
+
+
+.banner {
+	margin-bottom: 115px;
+}
+
+#banners {	
+	width: 550px;
+	height: 270px;
+	margin: 0 auto;
+}
+
+#bannersMobile {
+	display: none;
+}
+
+.liSlider {
+	height: 100%;
+	position: relative;
+}
+
+.blocoCoracao,
+.blocoSorvete,
+.txtslider,
+.sliderDois .blocoTaca,
+.sliderDois .blocoTaca2 {
+	position: absolute;
+	opacity: 0;
+	-moz-opacity: 0;
+	filter: alpha(opacity=0);
+}
+
+.txtslider {
+	font-family: &#39;Architects Daughter&#39;, cursive;
+	font-size: 73px;
+	line-height: 1em;
+	display: block;
+	text-transform: lowercase;
+}
+
+.txtslider span {
+	padding-right: 50px;
+}
+
+.blocoImagem img {
+	display: block;
+	width: 100%;
+}
+
+
+/* ============
+   SLIDER UM
+   ============ */
+.sliderUm .blocoCoracao {
+	top: 100px;
+	left: 0;
+	width: 250px;
+}
+
+.sliderUm .blocoSorvete {
+	bottom: -320px;
+	left: 80px;
+	width: 150px;
+}
+
+.sliderUm .txtslider {
+	top: 250px;
+	left: 100px;
+}
+
+
+
+/* ============
+   SLIDER DOIS
+   ============ */
+.sliderDois .blocoTaca {
+	width: 190px;
+	top: 300px;
+	left: -500px;
+}
+
+.sliderDois .blocoTaca2 {
+	width: 200px;
+	bottom: -110px;
+	left: 400px;
+	position: absolute;
+	top: 150px;
+}
+
+.sliderDois .blocoCoracao {
+	top: 130px;
+	left: 200px;
+	width: 150px;
+}
+
+.sliderDois .txtslider {
+	top: 130px;
+	left: 130px;
+}
+
+
+
+
+/* ============
+   RODAPE
+   ============ */
+#logoRodape {
+	margin: 0 auto;
+	width: 298px;
+}
+
+#spr {
+	position: absolute;
+	bottom: 40px;
+	right: 40px;
+	width: 29px;
+}
+
+#logoRodape img,
+#spr img {
+	display: block;
+	width: 100%;
+}
+
+
+
+
+
+/* ============
+   MEDIA QUERIES
+   ============ */
+
+@media only screen and (max-width: 1160px) {
+	.menuLi {
+		margin-right: 45px;
+	}
+}
+
+@media only screen and (max-width: 1023px) {
+	/* ============
+	   ESTRUTURA
+	   ============ */
+	#header {
+		position: relative;		
+	}
+
+	.containerGeral {
+		margin: 0 20px;
+	}
+
+	.containerBloco {
+		width: auto;
+		padding-left: 30px;
+		padding-right: 30px;
+	}
+
+	.menuFixo {
+		display: none;
+	}
+
+	/* ============
+	   TOPO
+	   ============ */
+	.facebook {
+		display: none;
+	}
+
+	.containerMenu {
+		padding-top: 45px;
+	}
+
+	.menu {
+		height: 165px;
+	}
+
+	.menuLink {
+		font-size: 16px;
+	}
+
+	.logo a {
+		width: 280px;
+	}
+
+	.menuLi {
+		margin-right: 30px;
+	}
+
+	.menuLiLast {
+		margin-right: 0;
+	}
+
+	.menuLiLogo {
+		margin-top: -40px;
+	}
+
+
+	/* ============
+	   RODAPE
+	   ============ */
+	#logoRodape {
+		width: 256px;
+	}
+
+	#spr {
+		bottom: 30px;
+		right: 30px;
+	}
+}
+
+@media only screen and (max-width: 767px) {
+	body {
+		background: #f16825;
+	}
+
+	/* ============
+	   ESTRUTURA
+	   ============ */
+	.containerBloco {
+		padding: 100px 0 0;
+		width: auto;
+	}
+
+
+
+	/* ============
+	   TOPO
+	   ============ */
+	#header {
+		padding-bottom: 120px;
+	}
+
+	.barrasUlTopo {
+		z-index: 100;
+	}
+
+	.banner {
+		margin-bottom: 50px;
+	}
+
+	#banners {
+		display: none;
+	}
+
+	#bannersMobile {
+		display: block;
+		width: 206px;
+		height: 201px;
+		margin: 0 auto;
+	}
+
+	.sliderImg {
+		width: 100%;
+		display: block;
+	}
+
+	.blocoLogoMobile {
+		display: block;
+	}
+
+	.menu {
+		height: 505px !important;
+		background: #FFF;
+		position: absolute;
+		top: 0;
+		left: 0;
+		right: 0;
+		z-index: 99;
+		height: auto;
+		display: none;
+	}
+
+	.containerMenu {
+		padding-top: 75px;
+	}
+
+	.menu .linha {
+		display: none;
+	}
+
+	.menuLi {
+		float: none;
+		display: block;
+		margin: 0;
+	}
+
+	.menuLiLogo {
+		display: none;
+	}
+
+	.menuLiFacebook {
+		display: block;
+	}
+
+	.menuLink {
+		font-family: &#39;Architects Daughter&#39;, cursive;
+		font-size: 14px;
+		color: #f17a25;
+		text-transform: uppercase;
+		height: 85px;
+	}
+
+	.menuLink:hover,
+	.menuLinkAtivo {
+		border: none;
+	}
+
+	.menuLink .icone {
+		float: left;
+	}
+
+	.menuLink .titulo {
+		top: 13px;
+		float: left;
+	}
+
+	.menuLink .icone,
+	.menuLink:hover .icone {
+		width: 67px;
+		background-position: 0 -39px;
+	}
+
+	.menuLink .iconeMaisPastel,
+	.menuLink:hover .iconeMaisPastel {
+		background-position: -180px -39px;
+		margin-left: 0;
+	}
+
+	.menuLink .iconeLocalizacao,
+	.menuLink:hover .iconeLocalizacao {
+		background-position: -371px -39px;
+	}
+
+	.menuLink .iconeAtendimento,
+	.menuLink:hover .iconeAtendimento {
+		background-position: -558px -39px;
+	}
+
+
+
+
+	/* ============
+	   RODAPE
+	   ============ */
+	#logoRodape {
+		width: 256px;
+	}
+
+	#spr {
+		bottom: 30px;
+		right: 30px;
+	}
+}
+
+
+@media only screen and (max-width: 480px) {
+	.bolha12 {
+		display: none;
+	}
+}
+
+
+/* ============
+   RETINA
+   ============ */
+@media only screen and (min--moz-device-pixel-ratio: 2), only screen and (-o-min-device-pixel-ratio: 2/1), only screen and (-webkit-min-device-pixel-ratio: 2), only screen and (min-device-pixel-ratio: 2) {
+	.facebook {
+		background-image: url(&#39;https://cdn.rawgit.com/srpastel/sr/c6ba9184/facebook_2x.png?raw=true&#39;);
+		background-size: 52px 104px;
+	}
+
+	.btMenu .titulo {
+		background-image: url(&#39;https://cdn.rawgit.com/srpastel/sr/c6ba9184/menu_mobile_2x.png?raw=true&#39;);
+		background-size: 16px 32px;
+	}
+
+	.menuLink .icone {
+		background-image: url(&#39;https://cdn.rawgit.com/srpastel/sr/c6ba9184/menu_2x.png?raw=true&#39;);
+		background-size: 605px 78px;
+	}
+
+	.menuLinkFacebook {
+		background-image: url(&#39;https://cdn.rawgit.com/srpastel/sr/c6ba9184/menu_facebook_2x.png?raw=true&#39;);
+		background-size: 40px 80px;
+	}
+}
