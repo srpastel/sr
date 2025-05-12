@@ -291,6 +291,7 @@
 	border: 2px solid #febf32;
 	display: block;
 	margin-top: 85px;
+	max-width: 250px;
 	padding: 20px 0;
 	-o-border-radius: 50px;
 	-moz-border-radius: 50px;
@@ -302,6 +303,7 @@
 	background: url('https://cdn.rawgit.com/srpastel/sr/c32c45f3/ver_cardapio.png?raw=true') no-repeat 25px center;
 	color: #FFF;
 	display: inline-block;
+	max-width: 250px;
 	font-size: 20px;
 	padding: 0 25px 0 75px;
 	min-height: 34px;
