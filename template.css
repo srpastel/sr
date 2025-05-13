@@ -1,4 +1,4 @@
-@import url(&#39;https://cdn.rawgit.com/srpastel/sr/master/erros.css&#39;);
+@import url('https://cdn.jsdelivr.net/gh/srpastel/sr@967d64749d667a8ef16ce1e4e95d6d92403833af/erros.css#L13');
 
 /* ============
    RESET
@@ -131,7 +131,7 @@ body {
 }
 
 .bgLaranja {
-	background: #f17a25;
+	background: #ebeba0;
 }
 
 .bgAzul {
