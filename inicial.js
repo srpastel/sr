@@ -68,7 +68,7 @@ function sliderUm(tipo){
 	var slider = $('.sliderUm');
 	switch(tipo){
 		case 'entrada':
-			$("body,.logo a").animate({ backgroundColor: "#fcf7e3" }, 400 );
+			$("body,.logo a").animate({ backgroundColor: "#faf1cf" }, 400 );
 			slider.find('.blocoCoracao').animate({
 				top: 0,
 				opacity: 1
@@ -104,7 +104,7 @@ function sliderDois(tipo){
 	var slider = $('.sliderDois');
 	switch(tipo){
 		case 'entrada':
-			$("body, .logo a").animate({ backgroundColor: "#faf1cf" }, 400 );
+			$("body, .logo a").animate({ backgroundColor: "#f2e7b8" }, 400 );
 			slider.find('.blocoTaca').animate({
 				top: 80,
 				left: 0,
