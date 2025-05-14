@@ -104,7 +104,7 @@ function sliderDois(tipo){
 	var slider = $('.sliderDois');
 	switch(tipo){
 		case 'entrada':
-			$("body, .logo a").animate({ backgroundColor: "#f2e7b8" }, 400 );
+			$("body, .logo a").animate({ backgroundColor: "#e3facf" }, 400 );
 			slider.find('.blocoTaca').animate({
 				top: 80,
 				left: 0,
