@@ -28,7 +28,7 @@
 	top: 0;
 	left: 0;
 	right: 0;
-	max-width: 1280px;
+	max-width: 1023px;
 	height: 230px;
 	margin: 0 auto;
 }
@@ -448,7 +448,7 @@
 	background: #FFF;
 	float: right;
 	width: 75%;
-	min-height: 545px;
+	min-height: 625px;
 }
 
 .contentProdutos {
