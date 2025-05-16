@@ -404,7 +404,7 @@ h1,h2,h3,h4,h5,h6 {
 }
 
 .btMenu {
-	background: url(&#39;https://cdn.rawgit.com/srpastel/sr/c6ba9184/linha.png?raw=true&#39;) repeat-x;
+	background: url(&#39;https://cdn.jsdelivr.net/gh/srpastel/sr@refs/heads/master/linha_azul.png;) repeat-x;
 	display: block;
 	padding: 20px 0;
 	position: relative;
@@ -413,11 +413,11 @@ h1,h2,h3,h4,h5,h6 {
 }
 
 .btMenuAberto {
-	background: #FFF url(&#39;https://cdn.rawgit.com/srpastel/sr/c6ba9184/linha_azul.png?raw=true&#39;) repeat-x;
+	background: #FFF url(&#39;https://cdn.jsdelivr.net/gh/srpastel/sr@refs/heads/master/linha_azul.png;) repeat-x;
 }
 
 .btMenu .titulo {
-	background: url(&#39;https://cdn.rawgit.com/srpastel/sr/6ec543e7/menu_mobile.png?raw=true&#39;) no-repeat 0 12px;
+	background: url(&#39;https://cdn.jsdelivr.net/gh/srpastel/sr@6ec543e7/menu_mobile.png;) no-repeat 0 12px;
 	color: #FFF;
 	display: inline-block;
 	font-size: 34px;
