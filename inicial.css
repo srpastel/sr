@@ -298,6 +298,8 @@
 	-webkit-border-radius: 50px;
 	border-radius: 50px;
 	margin: 0 auto;
+	right: 50%;
+  	bottom: 1%;
 }
 
 #btVerCardapio span {
