@@ -336,13 +336,16 @@ h1,h2,h3,h4,h5,h6 {
 	border-bottom: 2px solid #febf32;
 }
 
-.menuLink .icone {
+.menuLink .icone .iconecardapio {
 	background: url(&#39;https://cdn.rawgit.com/srpastel/sr/c6ba9184/menu.png?raw=true&#39;) no-repeat;
 	display: inline-block;
 	width: 52px;
 	height: 39px;
 }
-
+.menuLink .iconecardapio {
+	background-position: 0px 0;
+	width: 48px;
+}
 .menuLink .iconeMaisPastel {
 	background-position: -184px 0;
 	width: 48px;
