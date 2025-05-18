@@ -1538,6 +1538,7 @@ img[src="http://www.google.com/intl/en_us/mapfiles/close.gif"] {
 	}
 
 	.contentProdutos {
+		max-width: 800px;
 		padding: 20px 20px 60px;
 	}
 
