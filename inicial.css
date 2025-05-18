@@ -456,8 +456,9 @@
 }
 
 .contentProdutos {
-	display: none;
+	display: block;
 	padding: 40px;
+	max-height: 625px;
 }
 
 .filtroUl {
