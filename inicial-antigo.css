@@ -661,7 +661,7 @@
 }
 
 .selectLink {
-	background: url('/web/20141228182004im_/http://maispastel.com.br/img/icons/lista_select.png') no-repeat;
+	background: url('https://cdn.jsdelivr.net/gh/srpastel/sr@master/lista_select.png?raw=true') no-repeat;
 	color: #febf32;
 	font-size: 18px;
 	line-height: 26px;
@@ -676,7 +676,7 @@
 }
 
 .blocoSelectCardapio .txtSelect {
-	background: url("/web/20141228182004im_/http://maispastel.com.br/img/icons/menu_filtro_mobile.png") no-repeat 0 21px;
+	background: url('https://cdn.jsdelivr.net/gh/srpastel/sr@master/menu_filtro_mobile.png?raw=true') no-repeat 0 21px;
 	display: block;
 	padding-left: 40px;
 }
@@ -688,7 +688,7 @@
 }
 
 .btSelectCardapio .icone {
-	background: url('/web/20141228182004im_/http://maispastel.com.br/img/icons/seta_select_cardapio.png') no-repeat;
+	background: url('https://cdn.jsdelivr.net/gh/srpastel/sr@master/seta_select_cardapio.png?raw=true') no-repeat;
 }
 
 .listaSelectCardapio {
@@ -716,7 +716,7 @@
    SESSAO + DIVERSAO
    ============ */
 #sessaoDiversao {
-	background-image: url('/web/20141228182004im_/http://maispastel.com.br/img/backgrounds/diversao.jpg');
+	background-image: url('https://cdn.jsdelivr.net/gh/srpastel/sr@refs/heads/master/bg1-_1_.webp');
 	-webkit-background-size: cover;
 	-moz-background-size: cover;
 	-o-background-size: cover;
@@ -768,7 +768,7 @@
 
 .unirTxt {
 	color: #6e6e6e;
-	font-family: 'source_sans_prosemibold', arial, sans-serif;
+	font-family: 'Architects Daughter', cursive;
 	font-size: 18px;
 	line-height: 18px;
 	padding-bottom: 30px;
@@ -776,7 +776,7 @@
 
 .diversaoDescricao {
 	color: #6e6e6e;
-	font-family: 'source_sans_proregular', arial, sans-serif;
+	font-family: 'Architects Daughter', cursive;
 	font-size: 16px;
 	line-height: 20px;
 }
@@ -918,21 +918,21 @@
 }
 
 .boxCirculo .icone {
-	background: url('/web/20141228182004im_/http://maispastel.com.br/img/icons/bate_papo.png') no-repeat;
+	background: url('https://cdn.jsdelivr.net/gh/srpastel/sr@master/conversation.png?raw=true') no-repeat;
 	width: 59px;
 	height: 82px;
 	margin-top: 65px;
 }
 
 .boxCirculoFamilia .icone {
-	background: url('/web/20141228182004im_/http://maispastel.com.br/img/icons/mais_familia.png') no-repeat;
+	background: url('https://cdn.jsdelivr.net/gh/srpastel/sr@master/beach-vacation.png?raw=true') no-repeat;
 	width: 75px;
 	height: 77px;
 	margin-top: 80px;
 }
 
 .circulo .titulo {
-	font-family: 'banda_regularregular', arial, sans-serif;
+	font-family: 'Dancing Script', cursive;
 	font-size: 25px;
 	line-height: 1em;
 	display: block;
@@ -956,7 +956,7 @@
 }
 
 #sessaoMapa .bg {
-	background: url('/web/20141228182004im_/http://maispastel.com.br/img/backgrounds/textura.png') repeat center -60px;
+	background: url('https://cdn.jsdelivr.net/gh/srpastel/sr@b6dc5999/textura.png') repeat center -60px;
 	position: absolute;
 	top: 0;
 	bottom: 0;
@@ -964,7 +964,7 @@
 }
 
 #sessaoMapa .ondulado {
-	background: url('/web/20141228182004im_/http://maispastel.com.br/img/backgrounds/ondulado.png') repeat-x;
+	background: url('https://cdn.jsdelivr.net/gh/srpastel/sr@master/ondulado.png?raw=true') repeat-x;
 	height: 49px;
 	top: -21px;
 }
@@ -977,7 +977,7 @@
 }
 
 #sessaoMapa .titulo {
-	background: url('/web/20141228182004im_/http://maispastel.com.br/img/icons/mapa.png') no-repeat;
+	background: url('https://cdn.jsdelivr.net/gh/srpastel/sr@master/mapa.png?raw=true') no-repeat;
 	font-size: 63px;
 	line-height: 0.8em;
 	min-height: 110px;
@@ -1097,7 +1097,7 @@ img[src="http://www.google.com/intl/en_us/mapfiles/close.gif"] {
    SESSAO CONTATO
    ============ */
 #sessaoContato {
-	background: #f17a25 url('/web/20141228182004im_/http://maispastel.com.br/img/backgrounds/textura.png') repeat;
+	background: #f17a25 url('https://cdn.jsdelivr.net/gh/srpastel/sr@b6dc5999/textura.png') repeat;
 }
 
 .bgContato {
@@ -1125,7 +1125,7 @@ img[src="http://www.google.com/intl/en_us/mapfiles/close.gif"] {
 }
 
 .linha {
-	background: url('/web/20141228182004im_/http://maispastel.com.br/img/icons/linha.png') repeat;
+	background: url('https://cdn.jsdelivr.net/gh/srpastel/sr@master/linha.png?raw=true') repeat;
 	display: block;
 	height: 3px;
 }
@@ -1139,7 +1139,7 @@ img[src="http://www.google.com/intl/en_us/mapfiles/close.gif"] {
 .locaisLi {
 	display: inline-block;
 	vertical-align: top;
-	background: url('/web/20141228182004im_/http://maispastel.com.br/img/icons/locais.png') no-repeat top center;
+	background: url('https://cdn.jsdelivr.net/gh/srpastel/sr@48a4892b/locais.png') no-repeat top center;
 	/*float: left;*/
 	margin: 0 35px 20px;
 	padding-top: 87px;
@@ -1284,7 +1284,7 @@ img[src="http://www.google.com/intl/en_us/mapfiles/close.gif"] {
 	-moz-border-radius: 30px;
 	-webkit-border-radius: 30px;
 	border-radius: 30px;
-	background: url('/web/20141228182004im_/http://maispastel.com.br/img/icons/anexo.png') no-repeat center right;
+	background: url('https://cdn.jsdelivr.net/gh/srpastel/sr@master/anexo.png?raw=true') no-repeat center right;
 }
 
 #contatoForm .file {
@@ -1328,7 +1328,7 @@ img[src="http://www.google.com/intl/en_us/mapfiles/close.gif"] {
 }
 
 .btSubmit .icone {
-	background: url('/web/20141228182004im_/http://maispastel.com.br/img/icons/enviar.png') no-repeat;
+	background: url('https://cdn.jsdelivr.net/gh/srpastel/sr@master/enviar.png?raw=true') no-repeat;
 	position: absolute;
 	top: 50%;
 	left: 50%;
@@ -1342,7 +1342,7 @@ img[src="http://www.google.com/intl/en_us/mapfiles/close.gif"] {
 }
 
 .btEnviandoContato .icone {
-	background: url('/web/20141228182004im_/http://maispastel.com.br/img/icons/enviando.gif') no-repeat;
+	background: url('https://cdn.jsdelivr.net/gh/srpastel/sr@master/enviando.gif?raw=true') no-repeat;
 	position: absolute;
 	top: 50%;
 	left: 50%;
@@ -1387,7 +1387,7 @@ img[src="http://www.google.com/intl/en_us/mapfiles/close.gif"] {
 }
 
 .message .icone {
-	background: url('/web/20141228182004im_/http://maispastel.com.br/img/icons/respostas.png') no-repeat;
+	background: url('https://cdn.jsdelivr.net/gh/srpastel/sr@master/respostas.png?raw=true') no-repeat;
 	width: 23px;
 	height: 23px;
 	position: absolute;
@@ -1913,85 +1913,63 @@ img[src="http://www.google.com/intl/en_us/mapfiles/close.gif"] {
    ============ */
 @media only screen and (min--moz-device-pixel-ratio: 2), only screen and (-o-min-device-pixel-ratio: 2/1), only screen and (-webkit-min-device-pixel-ratio: 2), only screen and (min-device-pixel-ratio: 2) {
 	.btSelect .icone {
-		background-image: url('/web/20141228182004im_/http://maispastel.com.br/img/icons/seta_select_2x.png');
+		background-image: url('https://cdn.jsdelivr.net/gh/srpastel/sr@master/seta_select_2x.png?raw=true');
 		background-size: 26px 26px;
 	}
 
 	.btSelectCardapio .icone {
-		background-image: url('/web/20141228182004im_/http://maispastel.com.br/img/icons/seta_select_cardapio_2x.png');
+		background-image: url('https://cdn.jsdelivr.net/gh/srpastel/sr@master/seta_select_cardapio_2x.png?raw=true');
 		background-size: 26px 26px;
 	}
 
 	.selectLink {
-		background-image: url('/web/20141228182004im_/http://maispastel.com.br/img/icons/lista_select_2x.png');
+		background-image: url('https://cdn.jsdelivr.net/gh/srpastel/sr@master/lista_select_2x.png?raw=true');
 		background-size: 26px 26px;
 	}
 
 	.blocoSelectCardapio .txtSelect {
-		background-image: url("/web/20141228182004im_/http://maispastel.com.br/img/icons/menu_filtro_mobile_2x.png");
+		background-image: url('https://cdn.jsdelivr.net/gh/srpastel/sr@master/menu_filtro_mobile_2x.png?raw=true');
 		background-size: 19px 15px;
 	}
 
 	.styleCheckbox {
-		background-image: url('/web/20141228182004im_/http://maispastel.com.br/img/icons/filtros_2x.png');
+		background-image: url('https://cdn.jsdelivr.net/gh/srpastel/sr@master/filtros_2x.png?raw=true');
 		background-size: 26px 52px;
 	}
 
 	.circuloBatePapo .icone {
-		background-image: url('/web/20141228182004im_/http://maispastel.com.br/img/icons/bate_papo_2x.png');
+		background-image: url('https://cdn.jsdelivr.net/gh/srpastel/sr@master/bate_papo_2x.png?raw=true');
 		background-size: 59px 82px;
 	}
 
 	.circuloFamilia .icone {
-		background-image: url('/web/20141228182004im_/http://maispastel.com.br/img/icons/mais_familia_2x.png');
+		background-image: url('https://cdn.jsdelivr.net/gh/srpastel/sr@master/mais_familia_2x.png?raw=true');
 		background-size: 75px 77px;
 	}
 
 	#sessaoMapa .titulo {
-		background-image: url('/web/20141228182004im_/http://maispastel.com.br/img/icons/mapa_2x.png');
+		background-image: url('https://cdn.jsdelivr.net/gh/srpastel/sr@master/mapa_2x.png?raw=true');
 		background-size: 89px 110px;
 	}
 
 	.locaisLi {
-		background-image: url('/web/20141228182004im_/http://maispastel.com.br/img/icons/locais_2x.png');
+		background-image: url('https://cdn.jsdelivr.net/gh/srpastel/sr@master/locais_2x.png?raw=true');
 		background-size: 60px 72px;
 	}
 
 	.btSubmit .icone {
-		background-image: url('/web/20141228182004im_/http://maispastel.com.br/img/icons/enviar_2x.png');
+		background-image: url('https://cdn.jsdelivr.net/gh/srpastel/sr@master/enviar_2x.png?raw=true');
 		background-size: 30px 42px;
 	}
 
 	.message .icone {
-		background-image: url('/web/20141228182004im_/http://maispastel.com.br/img/icons/respostas_2x.png');
+		background-image: url('https://cdn.jsdelivr.net/gh/srpastel/sr@master/respostas_2x.png?raw=true');
 		background-size: 23px 46px;
 	}
 
 	#contatoForm .relativeFile {
-		background-image: url('/web/20141228182004im_/http://maispastel.com.br/img/icons/anexo_2x.png');
+		background-image: url('https://cdn.jsdelivr.net/gh/srpastel/sr@master/anexo_2x.png?raw=true');
 		background-size: 50px 18px;
 	}
 
 }
-
-
-/*
-     FILE ARCHIVED ON 18:20:04 Dec 28, 2014 AND RETRIEVED FROM THE
-     INTERNET ARCHIVE ON 02:00:04 May 20, 2025.
-     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
-
-     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
-     SECTION 108(a)(3)).
-*/
-/*
-playback timings (ms):
-  captures_list: 0.523
-  exclusion.robots: 0.026
-  exclusion.robots.policy: 0.015
-  esindex: 0.011
-  cdx.remote: 10.656
-  LoadShardBlock: 298.605 (3)
-  PetaboxLoader3.datanode: 72.69 (4)
-  PetaboxLoader3.resolve: 321.408 (2)
-  load_resource: 139.825
-*/
