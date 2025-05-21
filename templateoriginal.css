@@ -1,3 +1,4 @@
+@import url('http://web.archive.org/web/20141228224831cs_/http://maispastel.com.br/css/erros.css');
 /* ============
    RESET
    ============ */
@@ -338,19 +339,19 @@ h1,h2,h3,h4,h5,h6 {
 .menuLink .icone {
 	background: url('https://cdn.rawgit.com/srpastel/sr/c6ba9184/menu.png?raw=true') no-repeat;
 	display: inline-block;
-	width: 52px;
+	width: 48px;
 	height: 39px;
 }
 
 .menuLink .iconeMaisPastel {
 	background-position: -184px 0;
-	width: 48px;
+	width: 39px;
 	margin-left: 3px;
 }
 
 .menuLink .iconeLocalizacao {
-	background-position: -370px 0;
-	width: 50px;
+	background-position: -380px 0;
+	width: 29px;
 }
 
 .menuLink .iconeAtendimento {
