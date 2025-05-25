@@ -1,0 +1,1974 @@
+/* ============
+   SESSAO TELE ENTREGA
+   ============ */
+#sessaoTeleEntrega {
+	background: #febf32;
+	padding: 95px 0 100px;
+	position: relative;
+}
+
+.blocoBolhas {
+	background: none;
+	position: absolute;
+	height: auto;
+	top: -270px;
+	left: -30px;
+	right: 0;
+	z-index: 3;
+}
+
+.bolhasImg {
+	display: block;
+	width: 100%;
+	max-height: 270px;
+}
+
+.containerBolhas {
+	position: absolute;
+	top: 0;
+	left: 0;
+	right: 0;
+	max-width: 1280px;
+	height: 230px;
+	margin: 0 auto;
+}
+
+.bolha {
+	position: absolute;
+}
+
+.bolha span {
+	background: #fecf65;
+	-o-border-radius: 100%;
+	-moz-border-radius: 100%;
+	-webkit-border-radius: 100%;
+	border-radius: 100%;
+	top: 50%;
+	left: 50%;
+	width: 0;
+	height: 0;
+	position: absolute;
+}
+
+.bolhaStyle1 {
+	width: 48px;
+	height: 48px;
+}
+
+.bolhaStyle2 {
+	width: 20px;
+	height: 20px;
+}
+
+.bolhaStyle3 {
+	width: 56px;
+	height: 56px;
+}
+
+.bolhaStyle4 {
+	width: 10px;
+	height: 10px;
+}
+
+.bolha1 {
+	top: 20%;
+	left: 10%;
+}
+
+.bolha2 {
+	top: 0;
+	left: 20%;
+}
+
+.bolha3 {
+	bottom: 30%;
+	left: 18%;
+}
+
+.bolha4 {
+	top: 35%;
+	left: 25%;
+}
+
+.bolha5 {
+	bottom: 10%;
+	left: 40%;
+}
+
+.bolha6 {
+	top: 10%;
+	left: 35%;
+}
+
+.bolha7 {
+	top: 10%;
+	left: 45%;
+}
+
+.bolha8 {
+	top: 20%;
+	left: 50%;
+}
+
+.bolha9 {
+	bottom: 30%;
+	left: 50%;
+}
+
+.bolha10 {
+	top: 30%;
+	right: 30%;
+}
+
+.bolha11 {
+	bottom: 10%;
+	right: 35%;
+}
+
+.bolha12 {
+	bottom: 20%;
+	right: 40%;
+}
+
+.bolha13 {
+	top: 20%;
+	right: 10%;
+}
+
+.bolha14 {
+	bottom: 20%;
+	right: 20%;
+}
+
+.bolha15 {
+	top: 5%;
+	right: 15%;
+}
+
+.bolha16 {
+	bottom: 5%;
+	right: 5%;
+}
+
+.bolha17 {
+	left: 5%;
+	bottom: 5%;
+}
+
+.bolha18 {
+	right: 0%;
+	bottom: 30%;
+}
+
+.bolha .animabolha {
+	width: 100%;
+	height: 100%;
+	top: 0;
+	left: 0;
+	-moz-transition: all .4s ease-out;
+	-webkit-transition: all .4s ease-out;
+	-o-transition: all .4s ease-out;
+	transition: all .4s ease-out;
+}
+
+.containerTeleEntrega {
+	max-width: 760px;
+	z-index: 4;
+}
+
+#maisSabor {
+	float: left;
+}
+
+#sessaoTeleEntrega .entregaImg {
+	display: block;
+	width: 155px;
+	margin-bottom: 20px;
+}
+
+#sessaoTeleEntrega .titulo {
+	color: #f17a25;
+	font-size: 63px;
+	line-height: 0.9em;
+	text-align: left;
+}
+
+#sessaoTeleEntrega .titulo .sabor {
+	font-size: 110px;
+}
+
+#sessaoTeleEntrega .titulo span {
+	display: block;
+}
+
+#teleEntrega {
+	float: right;
+}
+
+.teleEntregaLi {
+	padding-left: 100px;
+	margin-bottom: 10px;
+	position: relative;
+}
+
+.teleEntregaLiLast {
+	margin-bottom: 0;
+}
+
+.teleEntregaLiHorario {
+	background-position: 0 -90px;
+}
+
+.teleEntregaLiLocais {
+	background-position: 0 -180px;
+}
+
+.teleEntregaLi .table {
+	height: 80px;
+}
+
+.teleEntregaLi .tableCell {
+	text-align: left;
+}
+
+.teleEntregaLi .icone {
+	display: block;
+	width: 80px;
+	position: absolute;
+	top: 0;
+	left: 0;
+}
+
+.teleEntregaLi span,
+.teleEntregaLi span a {
+	color: #f17a25;
+}
+
+.teleEntregaLi span {
+	display: block;
+	font-size: 30px;
+	line-height: 1.15em;
+}
+
+.teleEntregaLi .fone {
+	font-size: 26px;
+}
+
+.teleEntregaLi .texto {
+	display: block;
+	font-family: 'Architects Daughter', cursive;
+	font-size: 16px;
+}
+
+
+
+
+
+/* ============
+   MODAL TELENTREGA
+   ============ */
+#modalTelentrega {
+	background: #febf32;
+	position: relative;
+	display: none;
+	margin-top: 80px;
+}
+
+.containerModal {
+	padding: 80px 0 50px;
+}
+
+.modalBloco {
+	position: relative;
+	float: left;
+}
+
+.modalBlocoTelentrega {
+	margin-right: 100px;
+}
+
+#btVerCardapio {
+	background: #f17a25;
+	border: 2px solid #febf32;
+	display: block;
+	margin-top: 85px;
+	padding: 20px 0;
+	-o-border-radius: 50px;
+	-moz-border-radius: 50px;
+	-webkit-border-radius: 50px;
+	border-radius: 50px;
+}
+
+#btVerCardapio span {
+	background: url('https://cdn.jsdelivr.net/gh/srpastel/sr@c32c45f3/ver_cardapio.png?raw=true') no-repeat 25px center;
+	color: #FFF;
+	display: inline-block;
+	font-size: 20px;
+	padding: 0 25px 0 75px;
+	min-height: 34px;
+	line-height: 34px;
+}
+
+#btVerCardapio:hover {
+	background: #febf32;
+	border-color: #f17a25;
+}
+
+.teleEntregaLocaisTitulo {
+	line-height: 1em;
+	padding-top: 15px;
+}
+
+.listaLocais {
+	padding-top: 30px;
+	display: block;
+}
+
+.listaLocais .tituloLocais {
+	padding-bottom: 20px;
+}
+
+.tituloLocais span {
+	color: #FFF;
+	font-family: 'Architects Daughter', cursive;
+	font-size: 18px;
+	display: block;
+}
+
+.bairrosUl {
+	float: left;
+	margin-right: 50px;
+}
+
+.bairrosUlLast {
+	margin-right: 0;
+}
+
+.bairrosLi {
+	color: #f17a25;
+	font-family: 'Architects Daughter', cursive;
+	font-size: 14px;
+	padding-bottom: 7px;
+}
+
+
+
+
+
+
+
+/* ============
+   SESSAO CARDAPIO
+   ============ */
+#sessaoCardapio {
+	background: #febf32 url('https://cdn.jsdelivr.net/gh/srpastel/sr@raw/refs/heads/master/textura.webp') repeat;
+	
+}
+
+.containerCardapio {
+	background: #febf32;
+	position: relative;
+}
+
+#cardapio {
+	max-width: 1075px;
+	position: relative;
+	z-index: 2;
+	top: -35px;
+}
+
+#locais {
+	float: left;
+	width: 25%;
+	padding-top: 65px;
+}
+
+#locais .titulo {
+	text-align: left;
+	font-size: 30px;
+	color: #f17a25;
+	line-height: 1em;
+	margin: 0 0 40px 33px;
+}
+
+#locais .titulo img {
+	display: block;
+	width: 60px;
+	margin-bottom: 10px;
+}
+
+#locais .titulo span {
+	display: block;
+}
+
+.encontrarLink {
+	text-align: left;
+	padding: 20px;
+	display: block;
+	-o-border-radius: 10px;
+	-moz-border-radius: 10px;
+	-webkit-border-radius: 10px;
+	border-radius: 10px;
+	border-top-right-radius:0;
+	border-bottom-right-radius:0;
+}
+
+.encontrarLinkAtivo,
+.encontrarLink:hover {
+	background: #FFF;
+}
+
+.encontrarLink span {
+	background: url('https://cdn.jsdelivr.net/gh/srpastel/sr@refs/heads/master/seta.png?raw=true') no-repeat;
+	color: #FFF;
+	display: block;
+	font-size: 18px;
+	line-height: 26px;
+	padding-left: 45px;
+}
+
+.encontrarLinkAtivo span,
+.encontrarLink:hover span {
+	background-position: 0 -26px;
+	color: #f17a25;
+}
+
+#blocoProdutos,
+.filtroUl {
+	-o-border-radius: 10px;
+	-moz-border-radius: 10px;
+	-webkit-border-radius: 10px;
+	border-radius: 10px;
+}
+
+#blocoProdutos {
+	background: #FFF;
+	float: right;
+	width: 75%;
+	min-height: 545px;
+}
+
+.contentProdutos {
+	display: none;
+	padding: 40px;
+}
+
+.filtroUl {
+	background: #f17a25 url('https://cdn.jsdelivr.net/gh/srpastel/sr@refs/heads/master/menu_filtro.png?raw=true') no-repeat 23px 23px;
+	height: 45px;
+	display: block;
+	padding: 20px 0 0 45px;
+}
+
+.filtroLi {
+	float: left;
+	margin-left: 45px;
+}
+
+.styleCheckbox input {
+	cursor: pointer;
+	filter: alpha(opacity=0);
+	opacity: 0;
+}
+
+.styleCheckbox {
+	background: url('https://cdn.jsdelivr.net/gh/srpastel/sr@master/filtros.png?raw=true') no-repeat;
+	cursor: pointer;
+	height: 26px;
+	display: block;
+	line-height: 26px;
+	padding-left: 10px;
+	font-size: 16px;
+}
+
+.styleCheckbox {
+	background-position: 0 0;
+}
+
+.inputCheckboxChecked {
+	background-position: 0 -26px;
+}
+
+.listaProdutos {
+	position: relative;
+	padding-top: 40px;
+}
+
+.produtosUl {
+	width: 100%;
+	height: 355px;
+	overflow: hidden;
+	text-align: left;
+}
+
+.produtosLi {
+	display: block;
+	padding-right: 30px;
+	margin-bottom: 19px;
+}
+
+.produtoInativo { display: none; }
+.produtoAtivo { display: block; }
+
+.produtosLiLast {
+	margin-bottom: 0;
+}
+
+.produtosLi .numero,
+.produtosLi .produtoInfo,
+.produtosLi .linha,
+.produtosLi .valor {
+	float: left;
+}
+
+.blocoValor {
+	float: right;
+}
+
+.produtosLi .numero {
+	border: 2px solid #febf32;
+	color: #f17a25;
+	font-size: 16px;
+	line-height: 48px;
+	text-align: center;
+	width: 48px;
+	height: 48px;
+	-o-border-radius: 100%;
+	-moz-border-radius: 100%;
+	-webkit-border-radius: 100%;
+	border-radius: 100%
+}
+
+.produtosLi .produtoInfo {
+	padding: 10px 0 0 20px;
+	max-width: 330px;
+}
+
+.produtosLi .produtoInfo span {
+	line-height: 1em;
+	display: block;
+	color: #f17a25;
+	font-size: 20px;
+}
+
+.produtosLi .produtoInfo .produtoDescricao {
+	color: #6e6e6e;
+	font-family: 'Dancing Script', cursive;
+	font-size: 18px;
+	padding-top: 4px;
+}
+
+.blocoValor {
+	padding-top: 30px;
+}
+
+.produtosLi .linha {
+	background: url('https://cdn.jsdelivr.net/gh/srpastel/sr@master/linha.png?raw=true') repeat-x;
+	width: 172px;
+	height: 2px;
+	margin: 15px 20px 0 0;
+}
+
+.produtosLi .valor {
+	color: #f17a25;
+	font-size: 18px;
+	line-height: 1em;
+}
+
+
+
+/* ============
+   SELECT MOBILE
+   ============ */
+.blocoSelect {
+	height: 60px;
+	margin: 0 20px 20px;
+	text-align: left;
+	position: relative;
+	display: none;
+	z-index: 5;
+}
+
+.btSelect {
+	background: #FFF;
+	cursor: pointer;
+	color: #f17a25;
+	display: block;
+	font-size: 18px;
+	line-height: 60px;
+	padding-left: 25px;
+	-webkit-border-radius: 10px;
+	-moz-border-radius: 10px;
+	border-radius: 10px;
+	border: 2px solid #FFF;
+	position: relative;
+}
+
+.selectAberto .btSelect {
+	border-color: #f17a25;
+	border-bottom-left-radius:0;
+	border-bottom-right-radius:0;
+	border-bottom: none;
+}
+
+.btSelect .icone {
+	background: url('https://cdn.jsdelivr.net/gh/srpastel/sr@master/seta_select.png?raw=true') no-repeat;
+	position: absolute;
+	top: 50%;
+	right: 20px;
+	width: 26px;
+	height: 26px;
+	margin-top: -13px;
+	-moz-transform:rotate(180deg);
+	-webkit-transform:rotate(180deg);
+	-o-transform:rotate(180deg);
+	-ms-transform:rotate(180deg);
+	transform:rotate(180deg);
+}
+
+.selectAberto .btSelect .icone {
+ 	-moz-transform:rotate(0);
+	-webkit-transform:rotate(0);
+	-o-transform:rotate(0);
+	-ms-transform:rotate(0);
+	transform:rotate(0);
+ }
+
+.listaSelect {
+	background: #FFF;
+	border: 2px solid #f17a25;
+	position: absolute;
+	top: 60px;
+	left: 0;
+	right: 0;
+	-webkit-border-radius: 10px;
+	-moz-border-radius: 10px;
+	border-radius: 10px;
+	border-top-left-radius:0;
+	border-top-right-radius:0;
+	border-top: none;
+	display: none;
+}
+
+.selectUl {
+	padding: 10px 25px 0;
+}
+
+.selectLi {
+	padding-bottom: 25px;
+}
+
+.selectLink {
+	background: url('https://cdn.jsdelivr.net/gh/srpastel/sr@master/lista_select.png?raw=true') no-repeat;
+	color: #febf32;
+	font-size: 18px;
+	line-height: 26px;
+	display: block;
+	height: 26px;
+	padding-left: 48px;
+}
+
+.blocoSelectCardapio {
+	margin: 0;
+	z-index: 4;
+}
+
+.blocoSelectCardapio .txtSelect {
+	background: url('https://cdn.jsdelivr.net/gh/srpastel/sr@master/menu_filtro_mobile.png?raw=true') no-repeat 0 21px;
+	display: block;
+	padding-left: 40px;
+}
+
+.btSelectCardapio {
+	background: #f17a25;
+	color: #FFF;
+	border-color: #f17a25;
+}
+
+.btSelectCardapio .icone {
+	background: url('https://cdn.jsdelivr.net/gh/srpastel/sr@master/seta_select_cardapio.png?raw=true') no-repeat;
+}
+
+.listaSelectCardapio {
+	background: #f17a25;
+	border-top: 2px solid #f49551;
+	padding-top: 15px;
+}
+
+
+
+
+/* ============
+   SESSAO TEXTURA
+   ============ */
+#sectionTextura {
+	background: #f17a25 url(url('https://cdn.jsdelivr.net/gh/srpastel/sr@raw/refs/heads/master/textura.webp') repeat;
+	height: 315px;
+	position: relative;
+	margin-top: -75px;
+}
+
+
+
+/* ============
+   SESSAO + DIVERSAO
+   ============ */
+#sessaoDiversao {
+	background-image: url('https://cdn.jsdelivr.net/gh/srpastel/sr@refs/heads/master/bg1-_1_.webp');
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+ 	background-size: cover;
+	background-position: 50% 50%;
+	width: 100%;
+	height: 430px;
+	position: relative;
+	z-index: 6;
+}
+
+#blocoMaisDiversao {
+	background: #FFF;
+	background: rgba(255,255,255,0.97);
+	width: 260px;
+	height: 580px;
+	position: absolute;
+	top: -220px;
+	left: 50%;
+	margin-left: -225px;
+	-o-border-radius: 300px;
+	-moz-border-radius: 300px;
+	-webkit-border-radius: 300px;
+	border-radius: 300px;
+	padding: 55px 95px 0;
+	text-align: center;
+}
+
+#blocoMaisDiversao .maisImg {
+	display: inline-block;
+	width: 73px;
+}
+
+#blocoMaisDiversao .titulo {
+	padding: 40px 0 30px;
+}
+
+#blocoMaisDiversao .titulo span {
+	display: block;
+	color: #00afab;
+	font-size: 49px;
+	line-height: 1em;
+}
+
+#blocoMaisDiversao .titulo .diversao {
+	color: #80bd01;
+	font-size: 63px;
+}
+
+.unirTxt {
+	color: #6e6e6e;
+	font-family: 'Architects Daughter', cursive;
+	font-size: 18px;
+	line-height: 18px;
+	padding-bottom: 30px;
+}
+
+.diversaoDescricao {
+	color: #6e6e6e;
+	font-family: 'Architects Daughter', cursive;
+	font-size: 16px;
+	line-height: 20px;
+}
+
+.unirTxt span,
+.diversaoDescricao span {
+	display: block;
+}
+
+
+/* ============
+   SESSAO FOTOS
+   ============ */
+#sessaoFotos {
+	background: #d9232e;
+}
+
+.containerFotos {
+	height: 1610px;
+	overflow: hidden;
+}
+
+.foto {
+	position: absolute;
+}
+
+.maskFoto {
+	-o-border-radius: 100%;
+	-moz-border-radius: 100%;
+	-webkit-border-radius: 100%;
+	border-radius: 100%;
+	overflow: hidden;
+	top: 50%;
+	left: 50%;
+	width: 0;
+	height: 0;
+	position: absolute;
+}
+
+.fotoImg {
+	opacity: 0;
+	filter: alpha(opacity=0);
+	width: 100%;
+	position: absolute;
+	top: 0;
+	left: 0;
+	-o-border-radius: 100%;
+	-moz-border-radius: 100%;
+	-webkit-border-radius: 100%;
+}
+
+.fotoImgAtivo {
+	opacity: 1;
+	filter: alpha(opacity=100);
+}
+
+.foto .animaFoto {
+	width: 100%;
+	height: 100%;
+	top: 0;
+	left: 0;
+	-moz-transition: all .4s ease-out;
+	-webkit-transition: all .4s ease-out;
+	-o-transition: all .4s ease-out;
+	transition: all .4s ease-out;
+}
+
+.foto1 {
+	width: 728px;
+	height: 728px;
+	top: 180px;
+	left: -10px;
+	z-index: 1;
+}
+
+.foto2 {
+	width: 695px;
+	height: 695px;
+	bottom: 375px;
+	right: -5px;
+	z-index: 2;
+}
+
+.foto3 {
+	width: 579px;
+	height: 579px;
+	bottom: 155px;
+	left: 120px;
+	z-index: 3;
+}
+
+.boxCirculo {
+	position: absolute;
+	width: 275px;
+	height: 275px;
+	top: 165px;
+	right: 185px;
+	z-index: 4;
+}
+
+.circulo {
+	background: #f17a25;
+	-o-border-radius: 100%;
+	-moz-border-radius: 100%;
+	-webkit-border-radius: 100%;
+	border-radius: 100%;
+	top: 50%;
+	left: 50%;
+	width: 0;
+	height: 0;
+	position: absolute;
+	overflow: hidden;
+}
+
+.animaCirculo {
+	width: 100%;
+	height: 100%;
+	top: 0;
+	left: 0;
+	-moz-transition: all .4s ease-out;
+	-webkit-transition: all .4s ease-out;
+	-o-transition: all .4s ease-out;
+	transition: all .4s ease-out;
+}
+
+.boxCirculoFamilia {
+	top: auto;
+	bottom: 120px;
+	right: 195px;
+}
+
+.boxCirculoFamilia .circulo {
+	background: #80bd01;
+}
+
+.circulo .icone {
+	display: inline-block;
+	margin-bottom: 10px;
+}
+
+.boxCirculo .icone {
+	background: url('https://cdn.jsdelivr.net/gh/srpastel/sr@master/conversation.png?raw=true') no-repeat;
+	width: 59px;
+	height: 82px;
+	margin-top: 65px;
+}
+
+.boxCirculoFamilia .icone {
+	background: url('https://cdn.jsdelivr.net/gh/srpastel/sr@master/beach-vacation.png?raw=true') no-repeat;
+	width: 75px;
+	height: 77px;
+	margin-top: 80px;
+}
+
+.circulo .titulo {
+	font-family: 'Dancing Script', cursive;
+	font-size: 25px;
+	line-height: 1em;
+	display: block;
+}
+
+
+
+/* ============
+   SESSAO MAPA
+   ============ */
+#sessaoMapa {
+	background: #00b3e3;
+	position: relative;
+}
+
+#sessaoMapa .bg,
+#sessaoMapa .ondulado {
+	position: absolute;
+	left: 0;
+	right: 0;
+	z-index: 1000;
+}
+
+#sessaoMapa .bg {
+	background: url('https://cdn.jsdelivr.net/gh/srpastel/sr@raw/refs/heads/master/textura.webp') repeat center -60px;
+	position: absolute;
+	top: 0;
+	bottom: 0;
+	z-index: 2;
+}
+
+#sessaoMapa .ondulado {
+	background: url('https://cdn.jsdelivr.net/gh/srpastel/sr@master/ondulado.png?raw=true') repeat-x;
+	height: 49px;
+	top: -21px;
+}
+
+#sessaoMapa .containerBloco {
+	background: #00b3e3;
+	position: relative;
+	z-index: 5;
+	padding: 110px 65px 125px;
+}
+
+#sessaoMapa .titulo {
+	background: url('https://cdn.jsdelivr.net/gh/srpastel/sr@master/mapa.png?raw=true') no-repeat;
+	font-size: 63px;
+	line-height: 0.8em;
+	min-height: 110px;
+	text-align: left;
+	padding: 10px 0 0 100px;
+	/*float: left;*/
+	display: inline-block;
+	margin: 0 50px 0 35px;
+}
+
+#sessaoMapa .titulo span {
+	display: block;
+	font-size: 40px;
+}
+
+#sessaoMapa .descricao {
+	font-family: 'source_sans_proregular', arial, sans-serif;
+	font-size: 16px;
+	line-height: 20px;
+	text-align: left;
+	padding-top: 5px;
+}
+
+#sessaoMapa .descricao span {
+	display: block;
+}
+
+#mapa {
+	background: #D4D4D4;
+	min-height: 440px;
+	position: relative;
+	z-index: 3;
+}
+
+#mapa .infoBox,
+#mapa .infoBox .marcador {
+	border: 2px solid #febf32;
+	-o-border-radius: 100%;
+	-moz-border-radius: 100%;
+	-webkit-border-radius: 100%;
+	border-radius: 100%;
+}
+
+#mapa .infoBox {
+	color: #6e6e6e;
+	background: #FFF;
+	width: 243px;
+	height: 243px;
+	position: relative;
+	font-family: 'source_sans_proregular', arial, sans-serif;
+	font-size: 13px;
+}
+
+#mapa .containerInfoBox {
+	padding: 40px 30px 0;
+}
+
+#mapa .tituloLocal {
+	color: #f17a25;
+	font-size: 24px;
+	font-family: 'theoremregular', arial, sans-serif;
+	line-height: 1em;
+}
+
+#mapa .tituloLocal span {
+	display: block;
+}
+
+#mapa .enderecoLocal {
+	line-height: 15px;
+	margin: 10px 0;
+}
+
+#mapa .foneLocal {
+	font-family: 'source_sans_prosemibold', arial, sans-serif;
+	font-size: 16px;
+	padding-bottom: 12px;
+	display: block;
+}
+
+#mapa .atendimentoLocal span {
+	display: block;
+	line-height: 15px;
+}
+
+#mapa .infoBox .marcador {
+	background: #f17a25;
+	position: absolute;
+	width: 26px;
+	height: 26px;
+	top: 50%;
+	margin-top: -15px;
+}
+
+#mapa .infoBox .marcador1 {
+	top: auto;
+	margin-top: 0;
+	bottom: -15px;
+	left: 50%;
+	margin-left: -15px;
+}
+
+#mapa .infoBox .marcador2 {
+	right: -15px;
+}
+
+#mapa .infoBox .marcador3 {
+	left: -15px;
+}
+
+img[src="http://www.google.com/intl/en_us/mapfiles/close.gif"] {
+    display: none;
+}
+
+
+/* ============
+   SESSAO CONTATO
+   ============ */
+#sessaoContato {
+	background: #f17a25 url('https://cdn.jsdelivr.net/gh/srpastel/sr@raw/refs/heads/master/textura.webp') repeat;
+}
+
+.bgContato {
+	background: #f17a25;
+	height: 50px;
+}
+
+#sessaoContato .titulo {
+	max-width: 415px;
+	margin: 0 auto;
+	text-align: center;
+	padding-bottom: 65px;
+}
+
+#sessaoContato .titulo img {
+	display: inline-block;
+	margin-bottom: 20px;
+	width: 159px;
+}
+
+#sessaoContato .titulo span {
+	font-size: 45px;
+	line-height: 1em;
+	display: block;
+}
+
+.linha {
+	background: url('https://cdn.jsdelivr.net/gh/srpastel/sr@master/linha.png?raw=true') repeat;
+	display: block;
+	height: 3px;
+}
+
+.locaisUl {
+	padding: 40px 0 20px;
+	display: inline-block;
+	font-size: 0;
+}
+
+.locaisLi {
+	display: inline-block;
+	vertical-align: top;
+	background: url('https://cdn.jsdelivr.net/gh/srpastel/sr@48a4892b/locais.png?raw=true') no-repeat top center;
+	/*float: left;*/
+	margin: 0 35px 20px;
+	padding-top: 87px;
+	min-width: 60px;
+}
+
+.locaisLi span,
+.locaisLi span a {
+	color: #FFF;
+	display: block;
+	font-size: 24px;
+	line-height: 1em;
+}
+
+.locaisLi span {
+	padding-bottom: 5px;
+}
+
+.locaisLi .fone a {
+	font-family: 'source_sans_prosemibold', arial, sans-serif;
+	font-size: 20px;
+	padding-bottom: 0;
+}
+
+#blocoForm {
+	width: 100%;
+	margin-top: 80px;
+}
+
+#blocoMensagem {
+	float: left;
+	text-align: left;
+	max-width: 300px;
+}
+
+#blocoMensagem img {
+	display: inline-block;
+	width: 214px;
+}
+
+#blocoMensagem .texto {
+	padding-left: 35px;
+}
+
+#blocoMensagem .tituloMensagem {
+	display: block;
+	font-size: 32px;
+	line-height: 1.1em;
+	padding: 25px 0;
+}
+
+#blocoMensagem .tituloMensagem span {
+	font-size: 45px;
+}
+
+#blocoMensagem p {
+	display: block;
+	font-family: 'source_sans_proregular', arial, sans-serif;
+	font-size: 14px;
+	line-height: 16px;
+}
+
+#blocoMensagem p span {
+	display: block;
+}
+
+#blocoMensagem p a {
+	color: #FFF;
+}
+
+#blocoMensagem p a:hover {
+	text-decoration: underline;
+}
+
+#blocoFormulario {
+	float: left;
+	width: 380px;
+}
+
+#contatoForm .relative {
+	position: relative;
+	margin-bottom: 5px;
+}
+
+#contatoForm .label,
+#contatoForm .input,
+#contatoForm .textarea {
+	font-family: 'source_sans_proregular', arial, sans-serif;
+	color: #FFF;
+	font-size: 14px;
+}
+
+#contatoForm .label {
+	left: 30px;
+	position: absolute;
+	top: 20px;
+}
+
+#contatoForm .input,
+#contatoForm .textarea,
+.btSubmit,
+.btEnviandoContato {
+	-o-border-radius: 30px;
+	-moz-border-radius: 30px;
+	-webkit-border-radius: 30px;
+	border-radius: 30px;
+}
+
+#contatoForm .input,
+#contatoForm .textarea {
+	background: none;
+	border: 1px solid #f49b5b;
+	height: 48px;
+	outline: none;
+	padding: 0 30px;
+	width: 100%;
+	-o-box-sizing: border-box;
+	-webkit-box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	box-sizing: border-box;
+	-webkit-appearance:none;
+    -moz-appearance:none;
+    appearance:none;
+}
+
+#contatoForm .input {
+	line-height: 18px;
+}
+
+#contatoForm .textarea {
+	height: 133px;
+	padding-top: 14px;
+	resize: none;
+}
+
+#contatoForm .relativeFile {
+	display: none;
+	border: 1px solid #f49b5b;
+	height: 48px;
+	outline: none;
+	-o-border-radius: 30px;
+	-moz-border-radius: 30px;
+	-webkit-border-radius: 30px;
+	border-radius: 30px;
+	background: url('https://cdn.jsdelivr.net/gh/srpastel/sr@master/anexo.png?raw=true') no-repeat center right;
+}
+
+#contatoForm .file {
+	width: 100%;
+	height: 100%;
+	position: absolute;
+	top: 0;
+	left: 0;
+}
+
+#contatoForm .input.error,
+#contatoForm .textarea.error {
+	border-color: #ff0000;
+}
+
+#contatoForm .detalhe {
+	background: #f17a25;
+	width: 8px;
+	height: 8px;
+	position: absolute;
+	right: 17px;
+	bottom: -4px;
+}
+
+.btSubmit,
+.btEnviandoContato {
+	background: #febf32;
+	display: block;
+	width: 100%;
+	height: 50px;
+	position: relative;
+}
+
+.btEnviandoContato {
+	display: none;
+}
+
+.btSubmit:hover,
+.btEnviandoContato {
+	background: #FFF;
+}
+
+.btSubmit .icone {
+	background: url('https://cdn.jsdelivr.net/gh/srpastel/sr@master/enviar.png?raw=true') no-repeat;
+	position: absolute;
+	top: 50%;
+	left: 50%;
+	margin: -10px 0 0 -15px;
+	width: 30px;
+	height: 21px;
+}
+
+.btSubmit:hover .icone {
+	background-position: 0 -21px;
+}
+
+.btEnviandoContato .icone {
+	background: url('https://cdn.jsdelivr.net/gh/srpastel/sr@master/enviando.gif?raw=true') no-repeat;
+	position: absolute;
+	top: 50%;
+	left: 50%;
+	margin: -15px 0 0 -15px;
+	width: 31px;
+	height: 31px;
+}
+
+#contatoResposta {
+	height: 50px;
+	position: relative;
+}
+
+.message {
+	background: #81b11c;
+	color: #FFF;
+	display: none;
+	font-size: 15px;
+	height: 50px;
+	line-height: 1.2em;
+	-o-border-radius: 30px;
+	-moz-border-radius: 30px;
+	-webkit-border-radius: 30px;
+	border-radius: 30px;
+	text-align: left;
+	padding: 0 30px 0 65px;
+	position: absolute;
+	top: 0;
+	left: 0;
+	right: 0;
+	bottom: 0;
+}
+
+.message .table {
+	width: 100%;
+	height: 100%;
+}
+
+#invalidoContato,
+#erroContato {
+	background: #d9232e;
+}
+
+.message .icone {
+	background: url('https://cdn.jsdelivr.net/gh/srpastel/sr@master/respostas.png?raw=true') no-repeat;
+	width: 23px;
+	height: 23px;
+	position: absolute;
+	top: 50%;
+	left: 24px;
+	margin-top: -11px;
+}
+
+#invalidoContato .icone,
+#erroContato .icone {
+	background-position: 0 -23px;
+}
+
+.trabalhe {
+	display: block;
+	margin-top: 15px;
+}
+
+
+/* ============
+   MEDIA QUERIES
+   ============ */
+@media only screen and (max-width: 1275px) {
+	/* ============
+	   SESSAO TELENTREGA
+	   ============ */
+	.blocoBolhas {
+		top: -225px;
+	}
+
+	.foto1 {
+		left: -100px
+	}
+
+	.foto2 {
+		right: -150px
+	}
+
+	.foto3 {
+		left: 10px;
+	}
+
+	.boxCirculo {
+		top: 165px;
+		right: 75px;
+	}
+
+	.boxCirculoFamilia {
+		top: auto;
+		bottom: 80px;
+		right: 175px;
+	}
+}
+
+@media only screen and (max-width: 1160px) {
+	/* ============
+	   SESSAO TELENTREGA
+	   ============ */
+	.containerModal {
+		padding: 50px 0 30px;
+	}
+
+	/* ============
+	   SESSAO CARDAPIO
+	   ============ */
+	#cardapio {
+		max-width: 985px;
+	}
+
+	.produtosLi .linha {
+		width: 115px;
+	}
+}
+
+@media only screen and (max-width: 1023px) {
+	/* ============
+	   SESSAO TELENTREGA
+	   ============ */
+	.blocoBolhas {
+		top: -150px;
+	}
+
+	.containerTeleEntrega {
+		max-width: 700px;
+	}
+
+	#modalTelentrega {
+		margin-top: 0;
+	}
+
+	.modalBloco {
+		float: none;
+	}
+
+	.modalBlocoTelentrega {
+		margin-right: 0;
+		margin-bottom: 50px;
+	}
+
+	#btVerCardapio {
+		margin-top: 40px;
+	}
+
+
+
+	/* ============
+	   SESSAO CARDAPIO
+	   ============ */
+	#cardapio {
+		max-width: 100%;
+		top: 0;
+	}
+
+	.blocoSelect {
+		display: block;
+	}
+
+	#locais {
+		float: none;
+		max-width: 280px;
+		margin: 0 auto;
+		width: auto;
+	}
+
+	#locais .titulo {
+		text-align: center;
+		margin-left: 0;
+		margin-bottom: 20px;
+	}
+
+	#locais .titulo img {
+		display: inline-block;
+	}
+
+	#encontrarUl {
+		display: none;
+	}
+
+	#blocoProdutos {
+		float: none;
+		width: 100%;
+		border-radius: 0;
+	}
+
+	.contentProdutos {
+		padding: 20px 20px 60px;
+	}
+
+	.filtroUl {
+		display: none;
+	}
+
+	.produtosUl {
+		height: 100%;
+	}
+
+	.produtosLi {
+		padding-right: 0;
+	}
+
+	#sectionTextura {
+		top: 0;
+		height: 255px;
+	}
+
+
+	/* ============
+	   SESSAO FOTOS
+	   ============ */
+	.foto1 {
+		left: -95px;
+		width: 540px;
+		height: 540px;
+	}
+
+	.foto2 {
+		bottom: 520px;
+		right: -80px;
+		width: 570px;
+		height: 570px;
+	}
+
+	.foto3 {
+		left: -120px;
+		width: 550px;
+		height: 550px;
+	}
+
+	.boxCirculo {
+		right: 10px;
+	}
+
+	.boxCirculoFamilia {
+		top: auto;
+		bottom: 180px;
+		right: 35px;
+	}
+
+
+	/* ============
+	   SESSAO CONTATO
+	   ============ */
+	.bgContato {
+		height: 30px;
+	}
+}
+
+
+@media only screen and (max-width: 767px) {
+	/* ============
+	   SESSAO TELENTREGA
+	   ============ */
+	#sessaoTeleEntrega {
+		padding: 40px 0 45px;
+	}
+
+	.blocoBolhas {
+		top: -100px;
+	}
+
+	.bolhaStyle1 {
+		width: 24px;
+		height: 24px;
+	}
+
+	.bolhaStyle2 {
+		width: 10px;
+		height: 10px;
+	}
+
+	.bolhaStyle3 {
+		width: 28px;
+		height: 28px;
+	}
+
+	.bolhaStyle4 {
+		width: 5px;
+		height: 5px;
+	}
+
+	.containerTeleEntrega {
+		text-align: center;
+		max-width: 221px;
+	}
+
+	#sessaoTeleEntrega .titulo {
+		font-size: 42px;
+	}
+
+	#sessaoTeleEntrega .titulo .sabor {
+		font-size: 72px;
+	}
+
+	#sessaoTeleEntrega .entregaImg {
+		width: 102px;
+	}
+
+	#maisSabor,
+	#teleEntrega {
+		float: none;
+	}
+
+	#maisSabor {
+		margin-bottom: 55px;
+	}
+
+	.teleEntregaLi {
+		margin-bottom: 25px;
+		padding-left: 75px;
+	}
+
+	.teleEntregaLi .icone {
+		width: 60px;
+	}
+
+	.teleEntregaLi .iconeFone {
+		top: 7px;
+	}
+
+	.teleEntregaLi span {
+		font-size: 26px;
+	}
+
+	#btVerCardapio span {
+		font-size: 16px;
+		padding-left: 60px;
+	}
+
+	.tituloLocais span {
+		font-size: 16px;
+	}
+
+	.bairrosUl {
+		margin-right: 10px;
+	}
+
+	.bairrosLi {
+		font-size: 12px;
+	}
+
+
+	.containerModal {
+		padding-left: 25px;
+		padding-right: 25px;
+	}
+
+
+	/* ============
+	   SESSAO CARDAPIO
+	   ============ */
+	.produtosLi .numero {
+		width: 40px;
+		height: 40px;
+		line-height: 40px;
+	}
+
+	.produtosLi .produtoInfo {
+		max-width: 125px;
+		padding: 5px 0 0 10px;
+	}
+
+	.blocoValor {
+		padding-top: 10px;
+	}
+
+	.produtosLi .linha {
+		width: 20px;
+		margin-right: 5px;
+	}
+
+
+
+	/* ============
+	   SESSAO FOTOS
+	   ============ */
+	.containerFotos {
+		height: 1825px;
+	}
+
+	.foto1 {
+		left: -85px;
+		top: 365px;
+		width: 465px;
+		height: 465px;
+	}
+
+	.foto2 {
+		bottom: 570px;
+		right: -225px;
+		width: 500px;
+		height: 500px;
+	}
+
+	.foto3 {
+		bottom: 280px;
+		left: -115px;
+		width: 400px;
+		height: 400px;
+	}
+
+	.boxCirculo {
+		right: -35px;
+	}
+
+	.boxCirculoFamilia {
+		top: auto;
+		bottom: 70px;
+		right: -35px;
+	}
+
+
+
+	/* ============
+	   SESSAO + DIVERSAO
+	   ============ */
+	#sessaoDiversao {
+		background-position: 50% 50%;
+		width: 100%;
+		height: 415px;
+		position: relative;
+		background-attachment: inherit;
+	}
+
+	#blocoMaisDiversao {
+		width: 280px;
+		height: 530px;
+		top: -180px;
+		margin-left: -140px;
+		padding: 50px 0 0;
+	}
+
+	#blocoMaisDiversao .titulo {
+		padding: 20px 0 25px;
+	}
+
+	#blocoMaisDiversao .titulo span {
+		font-size: 38px;
+	}
+
+	#blocoMaisDiversao .titulo .diversao {
+		font-size: 52px;
+	}
+
+	.unirTxt {
+		padding-bottom: 25px;
+	}
+
+	.diversaoDescricao {
+		font-size: 15px;
+	}
+
+
+
+	/* ============
+	   SESSAO MAPA
+	   ============ */
+	#sessaoMapa .bg {
+		background-image: none;
+	}
+
+	#sessaoMapa .containerBloco {
+		padding: 90px 0;
+	}
+
+	#sessaoMapa .titulo {
+		float: none;
+		display: inline-block;
+		margin-right: 0;
+		margin-left: -15px;
+	}
+
+	#sessaoMapa .descricao {
+		margin: 35px auto 0;
+		max-width: 220px;
+		text-align: center;
+	}
+
+	#sessaoMapa .descricao span {
+		display: inline;
+	}
+
+
+	/* ============
+	   SESSAO CONTATO
+	   ============ */
+	#sessaoContato {
+		margin-bottom: 0;
+	}
+
+	.containerContato {
+		padding: 75px 30px 10px;
+		width: auto;
+	}
+
+	#sessaoContato .titulo {
+		max-width: 220px;
+	}
+
+	#sessaoContato .titulo img {
+		width: 143px;
+	}
+
+	#sessaoContato .titulo span {
+		font-size: 35px;
+	}
+
+	.locaisUl {
+		text-align: left;
+		padding-left: 20px;
+		padding-right: 20px;
+	}
+
+	.locaisLi {
+		display: block;
+		background-position: top left;
+		min-height: 75px;
+		padding-top: 0;
+		padding-left: 75px;
+		text-align: left;
+		margin: 0 20px 20px;
+	}
+
+	.locaisLiLast {
+		margin-bottom: 0;
+	}
+
+	.locaisLi span,
+	.locaisLi span a {
+		font-size: 20px;
+	}
+
+	#blocoMensagem {
+		float: none;
+		margin: 0 auto 30px;
+	}
+
+	#blocoMensagem p {
+		text-align: center;
+		margin-left: -60px;
+	}
+
+	#blocoFormulario {
+		float: none;
+		margin: 0 auto;
+		width: 235px;
+	}
+}
+
+@media only screen and (max-width: 480px) {
+	/* ============
+	   SESSAO TELENTREGA
+	   ============ */
+	.blocoBolhas {
+		top: -70px;
+	}
+}
+
+
+
+
+/* ============
+   RETINA
+   ============ */
+@media only screen and (min--moz-device-pixel-ratio: 2), only screen and (-o-min-device-pixel-ratio: 2/1), only screen and (-webkit-min-device-pixel-ratio: 2), only screen and (min-device-pixel-ratio: 2) {
+	.btSelect .icone {
+		background-image: url('https://cdn.jsdelivr.net/gh/srpastel/sr@master/seta_select_2x.png?raw=true');
+		background-size: 26px 26px;
+	}
+
+	.btSelectCardapio .icone {
+		background-image: url('https://cdn.jsdelivr.net/gh/srpastel/sr@master/seta_select_cardapio_2x.png?raw=true');
+		background-size: 26px 26px;
+	}
+
+	.selectLink {
+		background-image: url('https://cdn.jsdelivr.net/gh/srpastel/sr@master/lista_select_2x.png?raw=true');
+		background-size: 26px 26px;
+	}
+
+	.blocoSelectCardapio .txtSelect {
+		background-image: url('https://cdn.jsdelivr.net/gh/srpastel/sr@master/menu_filtro_mobile_2x.png?raw=true');
+		background-size: 19px 15px;
+	}
+
+	.styleCheckbox {
+		background-image: url('https://cdn.jsdelivr.net/gh/srpastel/sr@master/filtros_2x.png?raw=true');
+		background-size: 26px 52px;
+	}
+
+	.circuloBatePapo .icone {
+		background-image: url('https://cdn.jsdelivr.net/gh/srpastel/sr@master/bate_papo_2x.png?raw=true');
+		background-size: 59px 82px;
+	}
+
+	.circuloFamilia .icone {
+		background-image: url('https://cdn.jsdelivr.net/gh/srpastel/sr@master/mais_familia_2x.png?raw=true');
+		background-size: 75px 77px;
+	}
+
+	#sessaoMapa .titulo {
+		background-image: url('https://cdn.jsdelivr.net/gh/srpastel/sr@master/mapa_2x.png?raw=true');
+		background-size: 89px 110px;
+	}
+
+	.locaisLi {
+		background-image: url('https://cdn.jsdelivr.net/gh/srpastel/sr@master/locais_2x.png?raw=true');
+		background-size: 60px 72px;
+	}
+
+	.btSubmit .icone {
+		background-image: url('https://cdn.jsdelivr.net/gh/srpastel/sr@master/enviar_2x.png?raw=true');
+		background-size: 30px 42px;
+	}
+
+	.message .icone {
+		background-image: url('https://cdn.jsdelivr.net/gh/srpastel/sr@master/respostas_2x.png?raw=true');
+		background-size: 23px 46px;
+	}
+
+	#contatoForm .relativeFile {
+		background-image: url('https://cdn.jsdelivr.net/gh/srpastel/sr@master/anexo_2x.png?raw=true');
+		background-size: 50px 18px;
+	}
+
+}
