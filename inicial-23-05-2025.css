@@ -2,7 +2,7 @@
    SESSAO TELE ENTREGA
    ============ */
 #sessaoTeleEntrega {
-	background: #febf32;
+	background: url('https://cdn.jsdelivr.net/gh/srpastel/sr@b6dc5999/textura.png?raw=true') repeat;
 	padding: 95px 0 100px;
 	position: relative;
 }
