@@ -268,7 +268,7 @@
    MODAL TELENTREGA
    ============ */
 #modalTelentrega {
-	background: #febf32;
+	background: url('https://cdn.jsdelivr.net/gh/srpastel/sr@b6dc5999/textura.png?raw=true') repeat;
 	position: relative;
 	display: none;
 	margin-top: 80px;
@@ -361,7 +361,7 @@
    SESSAO CARDAPIO
    ============ */
 #sessaoCardapio {
-	background: #febf32 url('https://cdn.jsdelivr.net/gh/srpastel/sr@b6dc5999/textura.png?raw=true') repeat;
+	background: #febf32;
 	
 }
 
