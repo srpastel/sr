@@ -2,7 +2,7 @@
    SESSAO TELE ENTREGA
    ============ */
 #sessaoTeleEntrega {
-	background: url('https://cdn.jsdelivr.net/gh/srpastel/sr@b6dc5999/textura.png?raw=true') repeat;
+	background: url('https://cdn.jsdelivr.net/gh/srpastel/sr@refs/heads/master/textura.webp') repeat;
 	padding: 95px 0 100px;
 	position: relative;
 }
@@ -268,7 +268,7 @@
    MODAL TELENTREGA
    ============ */
 #modalTelentrega {
-	background: url('https://cdn.jsdelivr.net/gh/srpastel/sr@b6dc5999/textura.png?raw=true') repeat;
+	background: url('https://cdn.jsdelivr.net/gh/srpastel/sr@refs/heads/master/textura.webp') repeat;
 	position: relative;
 	display: none;
 	margin-top: 80px;
@@ -702,7 +702,7 @@
    SESSAO TEXTURA
    ============ */
 #sectionTextura {
-	background: #f17a25 url(url('https://cdn.jsdelivr.net/gh/srpastel/sr@b6dc5999/textura.png?raw=true') repeat;
+	background: #f17a25 url(url('https://cdn.jsdelivr.net/gh/srpastel/sr@refs/heads/master/textura.webp') repeat;
 	height: 315px;
 	position: relative;
 	margin-top: -75px;
@@ -955,7 +955,7 @@
 }
 
 #sessaoMapa .bg {
-	background: url('https://cdn.jsdelivr.net/gh/srpastel/sr@b6dc5999/textura.png?raw=true') repeat center -60px;
+	background: url('https://cdn.jsdelivr.net/gh/srpastel/sr@refs/heads/master/textura.webp') repeat center -60px;
 	position: absolute;
 	top: 0;
 	bottom: 0;
@@ -1096,7 +1096,7 @@ img[src="http://www.google.com/intl/en_us/mapfiles/close.gif"] {
    SESSAO CONTATO
    ============ */
 #sessaoContato {
-	background: #f17a25 url('https://cdn.jsdelivr.net/gh/srpastel/sr@b6dc5999/textura.png?raw=true') repeat;
+	background: #f17a25 url('https://cdn.jsdelivr.net/gh/srpastel/sr@refs/heads/master/textura.webp') repeat;
 }
 
 .bgContato {
