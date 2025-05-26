@@ -123,6 +123,7 @@ a,a:hover {
 
 
 body {
+	background: transparent;
 	color: #FFF;
 	font-family: 'Architects Daughter', cursive;
 }
