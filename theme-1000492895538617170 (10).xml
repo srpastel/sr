@@ -1,0 +1,2469 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE html>
+<html lang='pt-BR' xmlns='http://www.w3.org/1999/xhtml' xmlns:b='http://www.google.com/2005/gml/b' xmlns:data='http://www.google.com/2005/gml/data' xmlns:expr='http://www.google.com/2005/gml/expr'>
+<head>
+<meta charset='UTF-8'/>
+<title>Sr. Pastel Pastelaria</title>
+<meta content='Sr. Pastel,sr pastel pastelaria,pastelaria em Araçoiaba da Serra,pastéis,salgados,mini salgados,salgadinhos para festas,pastel por encomenda,sucos,senhor pastel,refrigerantes,restaurante fast-food,pastel em Araçoiaba da Serra,encomenda de salgadinhos araçoiaba,pastelaria em Araçoiaba da Serra' name='keywords'/>
+<meta content='Sr. Pastel Pastelaria. Mais sabor e qualidade. Sr. Pastel é a sua pastelaria em Araçoiaba da Serra.' name='Description'/>
+<meta content='index,follow,noodp,noydir' name='robots'/>
+<meta content='General' name='Rating'/>
+<meta content='Sr. Pastel' name='author'/>
+<meta content='Sr. Pastel Pastelaria' property='og:title'/>
+<meta content='Sr. Pastel Pastelaria. Mais sabor e qualidade. Sr. Pastel é a sua pastelaria em Araçoiaba da Serra.' property='og:description'/>
+<meta content='https://www.srpastel.com.br' property='og:url'/>
+<meta content='R. Sete de Setembro, 27 - Centro' property='og:street-address'/>
+<meta content='Araçoiaba da Serra' property='og:city'/>
+<meta content='18119-011' property='og:postal-code'/>
+<meta content='Brazil' property='og:country-name'/>
+<meta content='1532811102' property='og:phone_number'/>
+<meta content='https://lh3.googleusercontent.com/d/1X2rkBNGYToOQfzgK_AdWjwfqj3LzcG9D' property='og:image'/>
+<meta content='website' property='og:type'/>
+<meta content='width=device-width, initial-scale=1' name='viewport'/>
+<link href='https://cdn.jsdelivr.net/gh/srpastel/sr@master/Sr.pastel.ico' rel='shortcut icon'/>
+<meta content='ucIz-vzSwGiCBJOotQWXGXThLptDh6tYZLTWbZS-Y28' name='google-site-verification'/>
+<link href='//fonts.googleapis.com' rel='dns-prefetch'/>
+<link href='//fonts.gstatic.com' rel='dns-prefetch'/>  
+<link as='image' href='https://cdn.jsdelivr.net/gh/srpastel/sr@refs/heads/master/logo-oficial.webp' loading='lazy' rel='preload'/>
+
+<script type='application/ld+json'>
+{
+}  &#39;@context&#39; : &#39;http://schema.org&#39;,
+  &#39;@type&#39; : &#39;Restaurant&#39;,
+  &#39;@type&#39; : &#39;LocalBusiness&#39;,
+  &#39;name&#39; : &#39;Sr. Pastel&#39;,
+  &#39;image&#39; : &#39;https://cdn.jsdelivr.net/gh/srpastel/sr@refs/heads/master/logo-oficial.webp&#39;,
+  &#39;telephone&#39; : &#39;15 3281-1102&#39;,
+  &#39;address&#39; : &#39;Rua Sete de Setembro, 27 - Centro - Araçoiaba da Serra - SP&#39;,
+}
+{    
+  &#39;@type&#39; : &#39;PostalAddress&#39;,
+  &#39;streetAddress&#39; : &#39;Rua Sete de Setembro, 27&#39;,
+  &#39;addressLocality&#39; : &#39;Centro - Araçoiaba da Serra - SP&#39;,
+  &#39;menu&#39; : &#39;https://www.srpastel.com.br/#cardapio&#39;
+  &#39;openingHoursSpecification&#39; : 
+}
+{ 
+  &#39;@type&#39; : &#39;OpeningHoursSpecification&#39;,
+  &#39;dayOfWeek&#39; : 
+  &#39;@type&#39; : &#39;DayOfWeek&#39;,
+  &#39;name&#39; : &#39;Horário de funcionamento: De Segunda à Sexta: das 8:30h às 18h e aos Sábados até às 15h&#39;
+}
+ </script>
+  
+<link as='style' display='swap;' fetchpriority='high' href='https://fonts.googleapis.com/css2?family=Architects+Daughter' rel='stylesheet preload' type='text/css'/>	
+  
+<link as='style' href='https://cdn.jsdelivr.net/gh/srpastel/sr@9ddf38d9ca2d7124401a9d56017d4b02cef02c61/templateoriginal.css' media='screen' rel='stylesheet preload' type='text/css'/>
+
+<link as='style' href='https://cdn.jsdelivr.net/gh/srpastel/sr@refs/heads/master/inicial-23-05-2025.css' media='screen' rel='stylesheet preload' type='text/css'/>
+  
+<link as='style' href='https://www.blogger.com/static/v1/widgets/55013136-widget_css_bundle.css' media='screen' rel='stylesheet preload' type='text/css'/>
+  
+<!-- carregamento assíncrono CSS-->  
+<link href='http://fonts.googleapis.com/css?family=Dancing+Script' media='none' onload='if(media!=&apos;all&apos;)media=&apos;all&apos;' rel='stylesheet'/>
+<noscript><link display='swap' href='http://fonts.googleapis.com/css?family=Dancing+Script' rel='stylesheet'/></noscript> 
+  
+<link href='https://cdn.jsdelivr.net/gh/srpastel/sr@master/jquery.fancybox.css' media='none' onload='if(media!=&apos;all&apos;)media=&apos;all&apos;' rel='stylesheet'/>
+<noscript><link href='https://cdn.jsdelivr.net/gh/srpastel/sr@master/jquery.fancybox.css' rel='stylesheet'/></noscript> 
+  
+<link href='https://cdn.jsdelivr.net/gh/srpastel/sr@master/jquery.jscrollpane.css' media='none' onload='if(media!=&apos;all&apos;)media=&apos;all&apos;' rel='stylesheet'/>
+<noscript>
+ 
+<link href='https://cdn.jsdelivr.net/gh/srpastel/sr@master/jquery.jscrollpane.css' rel='stylesheet'/></noscript>
+
+<script type='text/javascript'>var $BASE_DIR = &#39;http://www.srpastel.com.br/&#39;, $CLIENTE = &#39;srpastel&#39;, isiPad = &#39;&#39;, isiPhone = &#39;&#39;, isiAndroid = &#39;&#39;;</script>
+  
+	
+    <b:skin><![CDATA[/*
+  
+]]></b:skin>
+
+     
+   
+    <b:include data='blog' name='google-analytics'/>
+  
+
+
+<style>
+html {
+    overflow: hidden;
+    height: 100%;
+    scroll-behavior: smooth;
+}
+body {
+    height: 100%;
+    overflow: auto;
+    background: transparent;
+}
+  
+#botaogeral {
+	background: #febf32;
+	border: 2px solid #febf32;
+	display: block;
+	margin-top: 85px;
+	border: 2px solid #febf32;
+	display: block;
+	-o-border-radius: 50px;
+	-moz-border-radius: 50px;
+	-webkit-border-radius: 50px;
+	border-radius: 50px;
+  	max-width: 250px;
+    min-width: 250px;
+  	margin: 0 auto;
+}
+
+#botaogeral span {
+	color: #000000;
+	display: inline-block;
+	font-size: 20px;
+	min-height: 34px;
+	line-height: 34px;
+  	max-width: 250px;
+    min-width: 250px;
+  	place-items: center;
+  	margin: 0 auto;
+}
+
+#botaogeral:hover {
+	background: #999071;
+	border-color: #f17a25;
+}
+
+#botaowhatsapp {
+	position: fixed;
+  	z-index: 1000;
+    right: 1%;
+  	bottom: 1%;
+  	background: #a8cf45;
+	border: 2px solid #febf32;
+	display: block;
+	margin-top: 85px;
+	padding: 20px 0;
+	-o-border-radius: 50px;
+	-moz-border-radius: 50px;
+	-webkit-border-radius: 50px;
+	border-radius: 50px;
+  	max-width: 250px;
+  	margin: 0 auto;
+}
+
+#botaowhatsapp span {
+	background: url(&#39;https://cdn.jsdelivr.net/gh/srpastel/sr@refs/heads/master/whatsappbotao.webp?raw=true&#39;) no-repeat 25px center;
+	color: #FFFF;
+	display: inline-block;
+	font-size: 20px;
+	padding: 0 25px 0 75px;
+	min-height: 34px;
+	line-height: 34px;
+  	max-width: 250px;
+  	place-items: center;
+  	margin: 0 auto;
+}
+
+#botaowhatsapp:hover {
+	background: #008000;
+	border-color: #f17a25;
+}
+img {
+  max-inline-size: 100%;
+  block-size: auto;
+  aspect-ratio:attr(auto)/attr(auto);
+} 
+  .logo {
+      max-width: 247px;
+      max-height: 247px;
+      width: 100%;
+      height: auto;
+      text-align: center;
+      aspect-ratio: 1 / 1; /* Proporção quadrada */
+    }
+  .nuvem {
+      width: 100%;
+      height: auto;
+      text-align: center;
+      aspect-ratio: auto;
+    }
+</style>
+
+</head>
+  
+<body>
+
+<style>  
+{
+  font-family: &#39;Architects Daughter&#39;, cursive;
+}
+  @font-face {
+  font-family: &#39;Architects Daughter&#39;;
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(&#39;https://fonts.gstatic.com/s/architectsdaughter/v19/KtkxAKiDZI_td1Lkx62xHZHDtgO_Y-bvTYlg4-7jA-U.woff2&#39;) format(&#39;woff2&#39;);
+}
+
+</style>
+  <b:if cond='data:blog.pageType != &quot;item&quot;'>
+  
+</b:if>
+<script>
+  // Torna todos os eventos de scroll e toque passive na página
+(function() {
+  const addEvent = EventTarget.prototype.addEventListener;
+  EventTarget.prototype.addEventListener = function(type, listener, options) {
+    const defaultOptions = { passive: true };
+    if (type === &#39;touchstart&#39; || type === &#39;touchmove&#39; || type === &#39;wheel&#39; || type === &#39;scroll&#39;) {
+      if (typeof options === &#39;boolean&#39;) {
+        options = { capture: options, passive: true };
+      } else if (typeof options === &#39;object&#39;) {
+        options.passive = true;
+      } else {
+        options = defaultOptions;
+      }
+    }
+    addEvent.call(this, type, listener, options);
+  };
+})();
+  </script>
+<!-- Botão Whatsapp fixo inicio -->
+<div class='blocoLogoMobile'>
+<span class='logoMobile'>
+  <a alt='whatsapp' class='geralTransition' href='https://wa.me/+551532811102' id='botaowhatsapp'><span>Whatsapp</span></a></span></div>	
+<!-- Botão Whatsapp fixo fim -->
+	
+  <noscript>
+	<div id='boxNoscript'>
+		<div id='boxSemScript'>
+			<span class='arrowLeft arrowSemScript'/>
+			<span class='arrowRight arrowSemScript'/>
+			<div class='box'>
+				<p class='txtOops'>Oops!</p>
+				<p class='boxTxtErro replace'>
+					<span class='txtErro txtErroSemScript'>Parece que o JavaScript do seu navegador</span> 
+					<span class='txtErro txtErroSemScript'>está desabilitado e assim o site não </span> 
+					<span class='txtErro txtErroSemScript'>funcionará corretamente. Tente habilitá-lo </span> 
+					<span class='txtErro txtErroSemScript'>e carregue a página novamente.</span>
+				</p>
+				<p class='boxGoogle'>
+					<span class='txtGoogle txtErroSemScript'>Caso não consiga sozinho,</span>
+					<span class='txtGoogle txtErroSemScript'>o Google pode te ajudar,</span>
+					<span class='txtGoogle txtErroSemScript'>é só <a class='linkSemScript' href='http://www.enable-javascript.com/pt/' target='_blank'>clicar aqui.</a></span>	 
+				</p> 
+			</div>
+		</div>
+	</div>
+</noscript>
+
+<div id='wrapper'>
+<header class='geralTransition' id='header'>
+
+  <div class='container'>
+		<div class='banner'>
+			<div id='banners'>
+<div class='liSlider' id='slide1'>
+<div class='sliderUm'>
+<div class='blocoCoracao blocoImagem'>
+<img alt='Sr. Pastel' class='sliderImg geralTransition' data-src2x='https://raw.githubusercontent.com/srpastel/sr/refs/heads/master/sr-pastel.webp' loading='lazy' src='https://raw.githubusercontent.com/srpastel/sr/refs/heads/master/sr-pastel.webp' style='position: relative; bottom: 50px; left: 110px'/>
+						</div>
+
+<div class='blocoSorvete blocoImagem'>
+<img alt='big' as='image' class='sliderImg geralTransition' loading='lazy' src='https://cdn.jsdelivr.net/gh/srpastel/sr@refs/heads/master/srofpc.webp' style='position: relative; bottom: 50px; left: 110px'/>
+						</div>
+                      
+                      
+<div class='blocoCoracao blocoImagem'>
+<img alt='pastelaria' as='image' class='sliderImg geralTransition' loading='lazy' src='https://cdn.jsdelivr.net/gh/srpastel/sr@refs/heads/master/pastelaria10.webp' style='position: relative; bottom: 50px; left: 110px'/>
+						</div>
+  
+                     <span class='txtslider'><span/><span><span><span><span>
+<!-- png slider medalha1 --><img alt='garantido' height='100px' loading='lazy' src='https://cdn.jsdelivr.net/gh/srpastel/sr@master/badge%20(1).png?raw=true' style='max-width: 100px; max-height: 100px; position: relative; bottom: 60px; left: 110px' width='100px'/>
+                       </span></span></span></span></span>
+					</div>
+				</div>
+				<div class='liSlider' id='slide2'>
+					<div class='sliderDois'>
+						<div class='blocoTaca blocoImagem'>
+							<img alt='garrafa' class='sliderImg geralTransition' loading='lazy' src='https://cdn.jsdelivr.net/gh/srpastel/sr@refs/heads/master/garrafa-_1_.webp' style='position: relative; bottom: 50px; left: 110px'/>
+						</div>
+						<div class='blocoTaca2 blocoImagem'>
+							<img alt='pastel' class='sliderImg geralTransition' src='https://cdn.jsdelivr.net/gh/srpastel/sr@master/pst%20(1).png?raw=true' style='position: relative; bottom: 40px; left: 130px'/>
+						</div>
+						<div class='blocoCoracao blocoImagem'>
+							<img alt='coracoes' class='sliderImg geralTransition' loading='lazy' src='https://cdn.jsdelivr.net/gh/srpastel/sr@refs/heads/master/coracao.webp' style='position: relative; top: 20px; left: 130px'/>
+						</div>
+						<span class='txtslider'><span/><span><span><span><span>
+<!-- png slider medalha2 --><img alt='best' as='image' height='100px' loading='lazy' src='https://cdn.jsdelivr.net/gh/srpastel/sr@master/best%20(1).png?raw=true' style='max-width: 100px; max-height: 100px; position: relative; bottom: 20px; left: 110px' width='100px'/>
+                          </span></span></span></span></span>
+					</div>
+				</div>
+			</div>
+
+			
+		</div>
+	</div>
+ 
+<!-- menu smarphone -->
+<div class='blocoLogoMobile'>
+  <!-- Logo smarphone -->
+<img alt='logo' class='logo' fetchpriority='high' height='auto' src='https://cdn.jsdelivr.net/gh/srpastel/sr@refs/heads/master/logo-oficial.webp' style='min-width: 247px; min-height: 247px;' width='auto'/>
+
+  
+  
+<a class='btMenu' href='javascript:;'>
+<span class='titulo' style='color: #2eb5c7;'>menu</span>
+<span class='linha'/>
+		</a>
+	</div>
+<div class='menu'>
+<span class='linha'/>
+<div class='container containerMenu'>
+  
+<nav>
+  
+<ul class='menuUl clearfix'>
+  
+<li class='menuLi clearfix geralTransition'>
+<a class='geralTransition menulink' href='#cardapio' id='botaogeral' style='display: inline-block; margin: 10px 0 0 0px;'><span>Cardápio</span></a>
+</li>
+  
+  <li class='menuLi clearfix geralTransition'>
+<a class='geralTransition menulink' href='#sessaoMapa' id='botaogeral' style='display: inline-block; margin: 10px 0 0 0px;'><span>Mapa</span></a>
+</li>
+  
+<li class='menuLi clearfix geralTransition'>
+<a class='geralTransition menulink fancybox' href='https://cdn.jsdelivr.net/gh/srpastel/sr@4e1c101c42d451643699922d5e16b2940061d942/batata-combo.webp' id='botaogeral' loading='lazy' style='display: inline-block; margin: 10px 0 0 0px;' target='_blank'><span>Ofertas</span></a>
+</li>
+
+</ul>
+
+			</nav>
+		</div>
+		<span class='linha linhaBottom'/>
+	</div>
+  <!-- menu  smartphone e pc fim -->
+  
+  
+  </header>
+
+
+		 <div id='content'>
+<!-- SESSAO TELENTREGA --> 
+<section class='sessao' id='sessaoTeleEntrega'>
+	<div class='blocoBolhas'>
+<img alt='nuvem' as='image' class='nuvem' fetchpriority='high' height='auto' rel='preload' src='https://cdn.jsdelivr.net/gh/srpastel/sr@9b393b48/bolhas.png' width='auto'/>		
+      
+
+		<div class='containerBolhas'>
+		<span class='bolha bolhaStyle3 bolha17'><span class='animabolha'/></span>
+		<span class='bolha bolhaStyle1 bolha1'><span class='animabolha'/></span>
+		<span class='bolha bolhaStyle2 bolha2'><span class='animabolha'/></span>
+		<span class='bolha bolhaStyle2 bolha3'><span class='animabolha'/></span>
+		<span class='bolha bolhaStyle4 bolha4'><span class='animabolha'/></span>
+		<span class='bolha bolhaStyle3 bolha5'><span class='animabolha'/></span>
+		<span class='bolha bolhaStyle1 bolha6'><span class='animabolha'/></span>
+		<span class='bolha bolhaStyle4 bolha7'><span class='animabolha'/></span>
+		<span class='bolha bolhaStyle3 bolha8'><span class='animabolha'/></span>
+		<span class='bolha bolhaStyle2 bolha9'><span class='animabolha'/></span>
+		<span class='bolha bolhaStyle3 bolha10'><span class='animabolha'/></span>
+		<span class='bolha bolhaStyle2 bolha11'><span class='animabolha'/></span>
+		<span class='bolha bolhaStyle3 bolha12'><span class='animabolha'/></span>
+		<span class='bolha bolhaStyle4 bolha13'><span class='animabolha'/></span>
+		<span class='bolha bolhaStyle1 bolha14'><span class='animabolha'/></span>
+		<span class='bolha bolhaStyle3 bolha15'><span class='animabolha'/></span>
+		<span class='bolha bolhaStyle4 bolha16'><span class='animabolha'/></span>
+		<span class='bolha bolhaStyle3 bolha18'><span class='animabolha'/></span>
+          </div></div>
+<div class='container containerTeleEntrega clearfix'>
+<div class='geralTransition' id='maisSabor'>
+			
+<h2 class='titulo geralTransition'>
+				<span class='sabor'/>
+				<span style='color: brown;'>Sr. Pastel Araçoiaba da Serra</span>
+              
+              <p style='color: brown; font-size: 20px; text-align: left;'>Desde 2014, a Pastelaria Sr. Pastel de Araçoiaba da Serra se destaca pela qualidade incomparável, conquistando uma clientela fiel e sendo reconhecida como referência no sabor que faz história.</p>
+			</h2>
+		</div>
+<span><img alt='selo qualidade' height='300px' src='https://cdn.jsdelivr.net/gh/srpastel/sr@92e04f791c72137b61473a520e8326ee4ac2cc43/8ce99509-d17a-4306-a1f3-c3ff16f0d791-_2_.webp' width='300px'/></span>
+
+<div class='geralTransition' id='teleEntrega'>
+<ul id='teleEntregaUl'>
+<!-- imagem e texto com hyperlink -->
+<li class='teleEntregaLi geralTransition'>
+<div class='table'>
+<div class='tableCell'>
+ <a href='tel:01532811102' target='_blank'>
+  <img alt='ligue' class='icone iconeFone' height='auto' src='https://cdn.jsdelivr.net/gh/srpastel/sr@refs/heads/master/phone-call%20(1).png'/><span style='font-size:20pt;color: brown'>Ligue: (15) 3281-1102</span><span><img alt='clique' height='45px' src='https://cdn.jsdelivr.net/gh/srpastel/sr@master/cursor-finger-click.png?raw=true' width='45px'/></span>
+</a>
+</div>
+</div>
+</li>
+  
+<li class='teleEntregaLi geralTransition'>
+<div class='table'>
+<div class='tableCell'>
+ <a href='https://wa.me/551532811102' target='_blank'>
+  <img alt='whatsapp' class='icone iconeFone' height='auto' src='https://cdn.jsdelivr.net/gh/srpastel/sr@refs/heads/master/whatsapp.png'/><span style='font-size:20pt;color: brown'>Peça pelo Whatsapp</span><span><img alt='clique' height='45px' src='https://cdn.jsdelivr.net/gh/srpastel/sr@master/cursor-finger-click.png?raw=true' width='45px'/></span>
+</a>
+</div>
+</div>
+</li>
+  
+<li class='teleEntregaLi geralTransition'>
+<div class='table'>
+<div class='tableCell'>
+<img alt='horário de atendimento' class='icone iconeFone' height='auto' src='https://cdn.jsdelivr.net/gh/srpastel/sr@refs/heads/master/clock.png'/><span class='texto' style='font-size:25pt; color: brown'>Segunda a Sexta:</span>
+<span class='texto' style='font-size:19pt;color: brown'>8:30h às 18h</span>
+<span class='texto' style='font-size:25pt;color: brown'>Sábados até 15h</span>
+</div>
+</div>
+</li>
+              
+<li class='teleEntregaLi geralTransition'>
+<div class='table'>
+<div class='tableCell'>
+ <a class='fancybox' href='#modalTelentrega' target='_blank'>
+<img alt='ofertas' class='icone iconeFone' height='auto' src='https://cdn.jsdelivr.net/gh/srpastel/sr@refs/heads/master/megaphone.png' style='display: inline-block;'/><span style='font-size:20pt;color: brown'>Promoções e Ofertas<span><img alt='clique' height='45px' src='https://cdn.jsdelivr.net/gh/srpastel/sr@master/cursor-finger-click.png?raw=true' width='45px'/></span></span>
+</a>
+</div>
+</div>
+</li>
+
+
+</ul>
+</div>
+</div>
+</section>
+
+<section class='sessao' id='sessaoCardapio'>          
+  
+<div class='containerCardapio'>
+<div class='clearfix container geralTransition'>
+<aside id='locais'>
+<div class='titulo'>
+<img alt='pedir' class='geralTransition' height='522px' src='https://cdn.jsdelivr.net/gh/srpastel/sr@master/pst%20(1).png?raw=true' width='464px'/>
+<h3><span id='cardapio' style='font-size:25pt; color: brown'>O que você</span>
+<span style='font-size:25pt; color: brown'>vai pedir?</span></h3>
+</div>
+</aside>
+  
+<!-- SESSAO CARDAPIO -->
+<div id='blocoProdutos'>
+        <div class='contentProdutos' data-filial='matriz-centro' style='display:block;'>
+                                  <span class='unirTxt geralTransition'/><ul class='filtroUl'>     
+            <li class='filtroLi'>
+       <label class='styleCheckbox '>
+        <input data-categoria='pasteis-salgados' name='categoria' type='checkbox'/>
+        Pastéis
+       </label>
+      </li>
+            
+            <li class='filtroLi'>
+       <label class='styleCheckbox '>
+        <input data-categoria='salgadinhos' name='categoria' type='checkbox'/>
+        Salgados e porções
+       </label>
+      </li>
+            <li class='filtroLi'>
+       <label class='styleCheckbox '>
+        <input class='txtSelect' data-categoria='Mini Salgados' name='categoria' type='checkbox'/>
+        Mini Salgados por encomenda
+       </label>
+      </li>
+           </ul>
+
+     <form action='javascript:;' class='formLocal'>
+      <div class='blocoSelect blocoSelectCardapio'>
+       <a class='btSelectCardapio btSelect' href='javascript:;'>
+        <span class='txtSelect' style='font-size: 30px;'>Selecione</span>
+        <span class='icone geralTransition'/>
+       </a>
+
+       <div class='listaSelectCardapio listaSelect'>
+        <ul class='selectUl'>
+                  <li class='selectLi'>
+          <label class='styleCheckbox '>
+           <input data-categoria='pasteis-salgados' name='categoria' type='checkbox'/><span style='font-size: 26px'>  Pastéis</span>
+          </label>
+         </li>
+                  
+                  <li class='selectLi'>
+          <label class='styleCheckbox '>
+           <input data-categoria='salgadinhos' name='categoria' type='checkbox'/>
+<span style='font-size: 26px'>Salgados e porções</span>
+          </label>
+         </li>
+                  <li class='selectLi'>
+          <label class='styleCheckbox'>
+           <input data-categoria='Mini Salgados' name='categoria' type='checkbox'/>
+           <span style='font-size: 26px'> Mini Salgados</span>
+          </label>
+         </li>
+                 </ul>
+       </div>
+      </div>
+     </form>
+          
+<!-- sessão cardápio início -->
+<div class='listaProdutos'>
+<div class='produtosUl scroll'>
+<ul>     
+<li class='produtosLi clearfix ' data-categoria=''>
+<div class='produtoInfo geralTransition'>
+<span style='font-family: Verdana; font-size:14pt;color: grey'>Exibindo o cardápio completo</span>
+</div>
+</li>
+  
+</ul>
+<!-- INÍCIO DA LISTA -->
+<ul>
+<li><span class='produtosLi clearfix ' data-categoria=';;pasteis-salgados;;'>
+<span class='numero geralTransition'>1</span>
+<div class='produtoInfo geralTransition'>
+<span style='font-family: Architects Daughter; font-size:16pt;color: brown'>Carne</span>
+<span style='font-family: arial; font-size: 10pt; color: grey'>Carne moída de 1ª qualidade e Azeitonas</span>
+</div>
+<div class='blocoValor geralTransition'>
+<span class='linha geralTransition'/>
+<span style='font-family: Verdana; font-size:12pt; color: grey'>R$ 8,00</span>
+</div>
+</span></li></ul>
+
+          
+<ul>
+<li><span class='produtosLi clearfix ' data-categoria=';;pasteis-salgados;;'>
+<span class='numero geralTransition'>2</span>
+<div class='produtoInfo geralTransition'>
+<span style='font-family: Architects Daughter; font-size:16pt;color: brown'>Palmito</span>
+<span style='font-family: arial; font-size: 10pt; color: grey'>Palmito em pedaços com creme de palmito</span>
+</div>
+<div class='blocoValor geralTransition'>
+<span class='linha geralTransition'/>
+<span style='font-family: Verdana; font-size:12pt; color: grey'>R$ 8,00</span>
+</div>
+</span></li></ul>
+
+  
+<ul><li><span class='produtosLi clearfix ' data-categoria=';;pasteis-salgados;;'>
+        <span class='numero geralTransition'>3</span>
+        <div class='produtoInfo geralTransition'>
+         <span style='font-family: Architects Daughter; font-size:16pt;color: brown'>Queijo</span>
+         <span style='font-family: arial; font-size: 10pt; color: grey'>Queijo tipo mussarela</span>
+        </div>
+        <div class='blocoValor geralTransition'>
+         <span class='linha geralTransition'/>
+         <span style='font-family: Verdana; font-size:12pt; color: grey'>R$ 8,00</span>
+        </div>
+</span></li></ul>
+
+              
+              <ul><li><span class='produtosLi clearfix ' data-categoria=';;pasteis-salgados;;'>
+        <span class='numero geralTransition'>4</span>
+        <div class='produtoInfo geralTransition'>
+         <span style='font-family: Architects Daughter; font-size:16pt;color: brown'>Pizza</span>
+         <span style='font-family: arial; font-size: 10pt; color: grey'>Queijo Mussarela, Tomate e Orégano</span>
+        </div>
+        <div class='blocoValor geralTransition'>
+         <span class='linha geralTransition'/>
+         <span style='font-family: Verdana; font-size:12pt; color: grey'>R$ 9,00</span>
+        </div>
+       </span></li></ul>
+                          
+<ul><li><span class='produtosLi clearfix ' data-categoria=';;pasteis-salgados;;'>
+        <span class='numero geralTransition'>5</span>
+        <div class='produtoInfo geralTransition'>
+         <span style='font-family: Architects Daughter; font-size:16pt;color: brown'>Marguerita</span>
+         <span style='font-family: arial; font-size: 10pt; color: grey'>Queijo Mussarela, Manjericão e Tomate</span>
+        </div>
+        <div class='blocoValor geralTransition'>
+         <span class='linha geralTransition'/>
+         <span style='font-family: Verdana; font-size:12pt; color: grey'>R$ 9,00</span>
+        </div>
+       </span></li></ul>
+                                  <ul><li><span class='produtosLi clearfix ' data-categoria=';;pasteis-salgados;;'>
+        <span class='numero geralTransition'>6</span>
+        <div class='produtoInfo geralTransition'>
+         <span style='font-family: Architects Daughter; font-size:16pt;color: brown'>Bauru</span>
+         <span style='font-family: arial; font-size: 10pt; color: grey'>Queijo Mussarela, presunto e Tomate</span>
+        </div>
+        <div class='blocoValor geralTransition'>
+         <span class='linha geralTransition'/>
+         <span style='font-family: Verdana; font-size:12pt; color: grey'>R$ 10,00</span>
+        </div>
+       </span></li></ul>
+          <ul><li><span class='produtosLi clearfix ' data-categoria=';;pasteis-salgados;;'>
+        <span class='numero geralTransition'>7</span>
+        <div class='produtoInfo geralTransition'>
+                                  <span style='font-family: Architects Daughter; font-size:16pt;color: brown'>Frango c/ Queijo</span>
+         <span style='font-family: arial; font-size: 10pt; color: grey'>Pode ser Mussarela ou Catupiry&#174; ou Cheddar</span>
+        </div>
+        <div class='blocoValor geralTransition'>
+         <span class='linha geralTransition'/>
+         <span style='font-family: Verdana; font-size:12pt; color: grey'>R$ 10,00</span>
+        </div>
+       </span></li></ul>
+                              <ul><li><span class='produtosLi clearfix ' data-categoria=';;pasteis-salgados;;'>
+        <span class='numero geralTransition'>8</span>
+        <div class='produtoInfo geralTransition'>
+         <span style='font-family: Architects Daughter; font-size:16pt;color: brown'>Frango c/ Palmito</span>
+         <span style='font-family: arial; font-size: 10pt; color: grey'>Frango temperado com Palmito cremoso</span>
+        </div>
+        <div class='blocoValor geralTransition'>
+         <span class='linha geralTransition'/>
+         <span style='font-family: Verdana; font-size:12pt; color: grey'>R$ 10,00</span>
+        </div>
+       </span></li></ul>
+                          
+              <ul><li><span class='produtosLi clearfix ' data-categoria=';;pasteis-salgados;;'>
+        <span class='numero geralTransition'>9</span>
+        <div class='produtoInfo geralTransition'>
+                                  <span style='font-family: Architects Daughter; font-size:16pt;color: brown'>Carne c/ Queijo </span>
+         <span style='font-family: arial; font-size: 10pt; color: grey'>Pode ser Mussarela ou Catupiry&#174; ou Cheddar</span>
+        </div>
+        <div class='blocoValor geralTransition'>
+         <span class='linha geralTransition'/>
+         <span style='font-family: Verdana; font-size:12pt; color: grey'>R$ 10,00</span>
+        </div>
+       </span></li></ul>
+                                  <ul><li><span class='produtosLi clearfix ' data-categoria=';;pasteis-salgados;;'>
+        <span class='numero geralTransition'>10</span>
+        <div class='produtoInfo geralTransition'>
+         <span style='font-family: Architects Daughter; font-size:16pt;color: brown'>Carne c/ Ovo</span>
+         <span style='font-family: arial; font-size: 10pt; color: grey'>Carne moída temperada com ovos cozidos</span>
+        </div>
+        <div class='blocoValor geralTransition'>
+         <span class='linha geralTransition'/>
+         <span style='font-family: Verdana; font-size:12pt; color: grey'>R$ 10,00</span>
+        </div>
+       </span></li></ul>      
+              
+              <ul><li><span class='produtosLi clearfix ' data-categoria=';;pasteis-salgados;;'>
+        <span class='numero geralTransition'>11</span>
+        <div class='produtoInfo geralTransition'>
+                                  <span style='font-family: Architects Daughter; font-size:16pt;color: brown'>Calabresa c/ Queijo</span>
+         <span style='font-family: arial; font-size: 10pt; color: grey'>Pode ser Mussarela ou Catupiry&#174; ou Cheddar</span>
+        </div>
+        <div class='blocoValor geralTransition'>
+         <span class='linha geralTransition'/>
+         <span style='font-family: Verdana; font-size:12pt; color: grey'>R$ 10,00</span>
+        </div>
+       </span></li></ul>
+              
+              <ul><li><span class='produtosLi clearfix ' data-categoria=';;pasteis-salgados;;'>
+        <span class='numero geralTransition'>12</span>
+        <div class='produtoInfo geralTransition'>
+                                  <span style='font-family: Architects Daughter; font-size:16pt;color: brown'>Salame c/ Queijo</span>
+                                  <span style='font-family: arial; font-size: 10pt; color: grey'>Pode ser Mussarela ou Catupiry&#174; ou Cheddar</span>
+        </div>
+        <div class='blocoValor geralTransition'>
+         <span class='linha geralTransition'/>
+         <span style='font-family: Verdana; font-size:12pt; color: grey'>R$ 12,50</span>
+        </div>
+       </span></li></ul>
+                                  
+              <ul><li><span class='produtosLi clearfix ' data-categoria=';;pasteis-salgados;;'>
+        <span class='numero geralTransition'>13</span>
+        <div class='produtoInfo geralTransition'>
+         <span style='font-family: Architects Daughter; font-size:16pt;color: brown'>Quatro Queijos</span>
+         <span style='font-family: arial; font-size: 10pt; color: grey'>Queijo Mussarela, Provolone, Parmesão, Gorgonzola e Orégano</span>
+        </div>
+        <div class='blocoValor geralTransition'>
+         <span class='linha geralTransition'/>
+         <span style='font-family: Verdana; font-size:12pt; color: grey'>R$ 12,50</span>
+        </div>
+       </span></li></ul>
+                          
+                                   <ul><li><span class='produtosLi clearfix ' data-categoria=';;pasteis-salgados;;'>
+        <span class='numero geralTransition'>14</span>
+        <div class='produtoInfo geralTransition'>
+         <span style='font-family: Architects Daughter; font-size:16pt;color: brown'>Napolitano</span>
+         <span style='font-family: arial; font-size: 10pt; color: grey'>Presunto, Queijo Mussarela, Parmesão, Tomate, Azeite e Orégano</span>
+        </div>
+        <div class='blocoValor geralTransition'>
+         <span class='linha geralTransition'/>
+         <span style='font-family: Verdana; font-size:12pt; color: grey'>R$ 12,50</span>
+        </div>
+       </span></li></ul>
+                          
+                                   <ul><li><span class='produtosLi clearfix ' data-categoria=';;pasteis-salgados;;'>
+        <span class='numero geralTransition'>15</span>
+        <div class='produtoInfo geralTransition'>
+         <span style='font-family: Architects Daughter; font-size:16pt;color: brown'>Portuguesa</span>
+         <span style='font-family: arial; font-size: 10pt; color: grey'>Presunto, Mussarela, Ovo, Azeitonas, Ervilhas e Orégano</span>
+        </div>
+        <div class='blocoValor geralTransition'>
+         <span class='linha geralTransition'/>
+         <span style='font-family: Verdana; font-size:12pt; color: grey'>R$ 12,50</span>
+        </div>
+       </span></li></ul>
+                          
+                                   <ul><li><span class='produtosLi clearfix ' data-categoria=';;pasteis-salgados;;'>
+        <span class='numero geralTransition'>16</span>
+        <div class='produtoInfo geralTransition'>
+         <span style='font-family: Architects Daughter; font-size:16pt;color: brown'>Brócolis</span>
+         <span style='font-family: arial; font-size: 10pt; color: grey'>Brócolis à moda da casa com queijo tipo Catupiry&#174; ao Molho de Alho</span>
+        </div>
+        <div class='blocoValor geralTransition'>
+         <span class='linha geralTransition'/>
+         <span style='font-family: Verdana; font-size:12pt; color: grey'>R$ 12,50</span>
+        </div>
+       </span></li></ul>
+                          
+                                   <ul><li><span class='produtosLi clearfix ' data-categoria=';;pasteis-salgados;;'>
+        <span class='numero geralTransition'>17</span>
+        <div class='produtoInfo geralTransition'>
+                                  <span style='font-family: Architects Daughter; font-size:16pt;color: brown'>Brócolis c/ Bacon</span>
+         <span style='font-family: arial; font-size: 10pt; color: grey'>Brócolis, Catupiry&#174; e Bacon</span>
+        </div>
+        <div class='blocoValor geralTransition'>
+         <span class='linha geralTransition'/>
+         <span style='font-family: Verdana; font-size:12pt; color: grey'>R$ 15,00</span>
+        </div>
+       </span></li></ul>
+                          
+                                <ul><li><span class='produtosLi clearfix ' data-categoria=';;pasteis-salgados;;'>
+        <span class='numero geralTransition'>18</span>
+        <div class='produtoInfo geralTransition'>
+                                  <span style='font-family: Architects Daughter; font-size:16pt;color: brown'>Bacon c/ Queijo</span>
+         <span style='font-family: arial; font-size: 10pt; color: grey'>Bacon, Milho, Mussarela e Catupiry&#174;</span>
+        </div>
+        <div class='blocoValor geralTransition'>
+         <span class='linha geralTransition'/>
+         <span style='font-family: Verdana; font-size:12pt; color: grey'>R$ 15,00</span>
+        </div>
+       </span></li></ul>
+                                  <ul><li><span class='produtosLi clearfix ' data-categoria=';;pasteis-salgados;;'>
+        <span class='numero geralTransition'>19</span>
+        <div class='produtoInfo geralTransition'>
+         <span style='font-family: Architects Daughter; font-size:16pt;color: brown'>Quatro Queijos c/ Bacon</span>
+         <span style='font-family: arial; font-size: 10pt; color: grey'>Queijo Mussarela, Provolone, Parmesão, Gorgonzola e Orégano + Bacon)</span>
+        </div>
+        <div class='blocoValor geralTransition'>
+         <span class='linha geralTransition'/>
+         <span style='font-family: Verdana; font-size:12pt; color: grey'>R$ 15,00</span>
+        </div>
+       </span></li></ul>
+              
+              <ul><li><span class='produtosLi clearfix ' data-categoria=';;pasteis-salgados;;'>
+        <span class='numero geralTransition'>20</span>
+        <div class='produtoInfo geralTransition'>
+         <span style='font-family: Architects Daughter; font-size:16pt;color: brown'>Vegetariano</span>
+         <span style='font-family: arial; font-size: 10pt; color: grey'>Palmito, Brócolis, Molho de Alho, Milho, Ervilhas, Tomate e Catupiry&#174;</span>
+        </div>
+        <div class='blocoValor geralTransition'>
+         <span class='linha geralTransition'/>
+         <span style='font-family: Verdana; font-size:12pt; color: grey'>R$ 17,00</span>
+        </div>
+       </span></li></ul>
+              <ul><li><span class='produtosLi clearfix ' data-categoria=';;pasteis-salgados;;'>
+        <span class='numero geralTransition'>21</span>
+        <div class='produtoInfo geralTransition'>
+                                  <span style='font-family: Architects Daughter; font-size:16pt;color: brown'><strong>Sr. Pastel</strong></span>
+         <span style='font-family: arial; font-size: 10pt; color: grey'>Frango, Calabresa, Bacon, Mussarela, Tomate, Azeitona e Orégano</span>
+        </div>
+        <div class='blocoValor geralTransition'>
+         <span class='linha geralTransition'/>
+         <span style='font-family: Verdana; font-size:12pt; color: grey'>R$ 19,50</span>
+        </div>
+       </span></li></ul>
+                          
+                                  <ul><li><span class='produtosLi clearfix ' data-categoria=';;pasteis-salgados;;'>
+        <span class='numero geralTransition'>22</span>
+        <div class='produtoInfo geralTransition'>
+                                  <span style='font-family: Architects Daughter; font-size:16pt;color: brown'><strong>Sr. Pastel especial</strong></span>
+         <span style='font-family: arial; font-size: 10pt; color: grey'>Carne moída, Ovo, Calabresa, Bacon, Mussarela e Azeitonas</span>
+        </div>
+        <div class='blocoValor geralTransition'>
+         <span class='linha geralTransition'/>
+         <span style='font-family: Verdana; font-size:12pt; color: grey'>R$ 19,50</span>
+        </div>
+       </span></li></ul>
+                         
+        <ul><li><span class='produtosLi clearfix ' data-categoria=';;salgadinhos;;'>
+        <div class='produtoInfo geralTransition'>
+         <span style='font-family: Verdana; font-size:14pt;color: grey'>Salgados e porções</span>
+        </div>
+       </span></li></ul>
+        
+                          <ul><li><span class='produtosLi clearfix ' data-categoria=';;salgadinhos;;'>
+        <span class='numero geralTransition'>23</span>
+        <div class='produtoInfo geralTransition'>
+         <span style='font-family: Architects Daughter; font-size:16pt;color: brown'>Salsicha</span>
+         <span style='font-family: arial; font-size: 10pt; color: grey'>Salgado empanado de salsicha</span>
+        </div>
+        <div class='blocoValor geralTransition'>
+         <span class='linha geralTransition'/>
+         <span style='font-family: Verdana; font-size:12pt; color: grey'>R$ 7,00</span>
+        </div>
+       </span></li></ul>
+              
+              <ul><li><span class='produtosLi clearfix ' data-categoria=';;salgadinhos;;'>
+        <span class='numero geralTransition'>24</span>
+        <div class='produtoInfo geralTransition'>
+         <span style='font-family: Architects Daughter; font-size:16pt;color: brown'>Coxinha</span>
+         <span style='font-family: arial; font-size: 10pt; color: grey'>Frango temperado especial em Massa Tradicional</span>
+        </div>
+        <div class='blocoValor geralTransition'>
+         <span class='linha geralTransition'/>
+         <span style='font-family: Verdana; font-size:12pt; color: grey'>R$ 7,00</span>
+        </div>
+       </span></li></ul>
+              <ul><li><span class='produtosLi clearfix ' data-categoria=';;salgadinhos;;'>
+        <span class='numero geralTransition'>25</span>
+        <div class='produtoInfo geralTransition'>
+         <span style='font-family: Architects Daughter; font-size:16pt;color: brown'>Risoles</span>
+         <span style='font-family: arial; font-size: 10pt; color: grey'>Queijo Mussarela e Apresuntado em Massa Tradicional</span>
+        </div>
+        <div class='blocoValor geralTransition'>
+         <span class='linha geralTransition'/>
+         <span style='font-family: Verdana; font-size:12pt; color: grey'>R$ 7,00</span>
+        </div>
+       </span></li></ul>
+              <ul><li><span class='produtosLi clearfix ' data-categoria=';;salgadinhos;;'>
+        <span class='numero geralTransition'>26</span>
+        <div class='produtoInfo geralTransition'>
+                                  <span style='font-family: Architects Daughter; font-size:16pt;color: brown'>Espeto de Frango c/ catupiry</span>
+         <span style='font-family: arial; font-size: 10pt; color: grey'>Frango em cubos temperado à moda da casa em Massa Tradicional no espeto</span>
+        </div>
+        <div class='blocoValor geralTransition'>
+         <span class='linha geralTransition'/>
+         <span style='font-family: Verdana; font-size:12pt; color: grey'>R$ 7,00</span>
+        </div>
+       </span></li></ul>
+              <ul><li><span class='produtosLi clearfix ' data-categoria=';;salgadinhos;;'>
+        <span class='numero geralTransition'>27</span>
+        <div class='produtoInfo geralTransition'>
+         <span style='font-family: Architects Daughter; font-size:16pt;color: brown'>Kibe</span>
+         <span style='font-family: arial; font-size: 10pt; color: grey'>Recheado com Carne moída temperada à moda da casa</span>
+        </div>
+        <div class='blocoValor geralTransition'>
+         <span class='linha geralTransition'/>
+         <span style='font-family: Verdana; font-size:12pt; color: grey'>R$ 7,00</span>
+        </div>
+       </span></li></ul>
+              <ul><li><span class='produtosLi clearfix ' data-categoria=';;salgadinhos;;'>
+        <span class='numero geralTransition'>28</span>
+        <div class='produtoInfo geralTransition'>
+         <span style='font-family: Architects Daughter; font-size:16pt;color: brown'>Empada</span>
+<span style='font-family: arial; font-size: 10pt; color: grey'>Recheada c/ Palmito ou Frango em Clássica massa de empada</span>
+        </div>
+        <div class='blocoValor geralTransition'>
+         <span class='linha geralTransition'/>
+         <span style='font-family: Verdana; font-size:12pt; color: grey'>R$ 7,00</span>
+        </div>
+       </span></li></ul>
+              <ul><li><span class='produtosLi clearfix ' data-categoria=';;salgadinhos;;'>
+        <span class='numero geralTransition'>29</span>
+        <div class='produtoInfo geralTransition'>
+         <span style='font-family: Architects Daughter; font-size:16pt;color: brown'>Esfiha de Carne, Frango ou Calabresa</span>
+   <span style='font-family: arial; font-size: 10pt; color: grey'>Massa clássica e recheio temperado à moda da casa.</span>      
+          </div>
+        <div class='blocoValor geralTransition'>
+         <span class='linha geralTransition'/>
+         <span style='font-family: Verdana; font-size:12pt; color: grey'>R$ 7,00</span>
+        </div>
+       </span></li></ul>
+                      
+       <ul><li><span class='produtosLi clearfix ' data-categoria=';;salgadinhos;;'>
+        <span class='numero geralTransition'>30</span>
+        <div class='produtoInfo geralTransition'>
+         <span style='font-family: Architects Daughter; font-size:16pt;color: brown'>Enroladinho</span>
+         <span style='font-family: arial; font-size: 10pt; color: grey'>Recheado com Apresuntado e queijo Mussarela</span>
+        </div>
+        <div class='blocoValor geralTransition'>
+         <span class='linha geralTransition'/>
+         <span style='font-family: Verdana; font-size:12pt; color: grey'>R$ 7,00</span>
+        </div>
+       </span></li></ul>
+
+       <ul><li><span class='produtosLi clearfix ' data-categoria=';;salgadinhos;;'>
+        <span class='numero geralTransition'>31</span>
+        <div class='produtoInfo geralTransition'>
+         <span style='font-family: Architects Daughter; font-size:16pt;color: brown'>Pão de Hambúrguer</span>
+         <span style='font-family: arial; font-size: 10pt; color: grey'>Recheado com Hambúrguer, queijo Mussarela, tomate e orégano</span>
+        </div>
+        <div class='blocoValor geralTransition'>
+         <span class='linha geralTransition'/>
+         <span style='font-family: Verdana; font-size:12pt; color: grey'>R$ 7,00</span>
+        </div>
+       </span></li></ul>
+
+       <ul><li><span class='produtosLi clearfix ' data-categoria=';;salgadinhos;;'>
+        <span class='numero geralTransition'>32</span>
+        <div class='produtoInfo geralTransition'>
+                                  <span style='font-family: Architects Daughter; font-size:16pt;color: brown'>Mini Salgados - Porção com 10 unidades </span>
+          <span style='font-family: arial; font-size: 10pt; color: grey'>(Coxinhas, Risoles, Bolinhas de queijo ou kibes)</span>
+        </div>
+        <div class='blocoValor geralTransition'>
+         <span class='linha geralTransition'/>
+         <span style='font-family: Verdana; font-size:12pt; color: grey'>R$ 8,00</span>
+        </div>
+       </span></li></ul>
+        
+  <ul><li><span class='produtosLi clearfix ' data-categoria=';;pasteis-salgados;;'>
+        <div class='produtoInfo geralTransition'>
+         <span style='font-family: Verdana; font-size:14pt;color: grey'>Pastéis doces</span>
+        </div>
+       </span></li></ul>      
+        
+              
+              <ul><li><span class='produtosLi clearfix ' data-categoria=';;pasteis-salgados;;'>
+        <span class='numero geralTransition'>34</span>
+        <div class='produtoInfo geralTransition'>
+         <span style='font-family: Architects Daughter; font-size:16pt;color: brown'>Pastel Brigadeiro</span>
+         <span style='font-family: arial; font-size: 10pt; color: grey'>Tradicional Doce Brigadeiro com cobertura de Açúcar e Canela</span>
+        </div>
+        <div class='blocoValor geralTransition'>
+         <span class='linha geralTransition'/>
+         <span style='font-family: Verdana; font-size:12pt; color: grey'>R$ 8,00</span>
+        </div>
+       </span></li></ul>
+              
+              <ul><li><span class='produtosLi clearfix ' data-categoria=';;pasteis-salgados;;'>
+        <span class='numero geralTransition'>35</span>
+        <div class='produtoInfo geralTransition'>
+         <span style='font-family: Architects Daughter; font-size:16pt;color: brown'>Pastel Doce de Leite</span>
+         <span style='font-family: arial; font-size: 10pt; color: grey'>Com cobertura de Açúcar e Canela</span>
+        </div>
+        <div class='blocoValor geralTransition'>
+         <span class='linha geralTransition'/>
+         <span style='font-family: Verdana; font-size:12pt; color: grey'>R$ 8,00</span>
+        </div>
+       </span></li></ul>
+             
+               
+               <ul><li><span class='produtosLi clearfix ' data-categoria=';;pasteis-salgados;;'>
+        <span class='numero geralTransition'>36</span>
+        <div class='produtoInfo geralTransition'>
+         <span style='font-family: Architects Daughter; font-size:16pt;color: brown'>Pastel Chocolate</span>
+         <span style='font-family: arial; font-size: 10pt; color: grey'/>
+        </div>
+        <div class='blocoValor geralTransition'>
+         <span class='linha geralTransition'/>
+         <span style='font-family: Verdana; font-size:12pt; color: grey'>R$ 8,00</span>
+        </div>
+       </span></li></ul>
+        
+              
+              <ul><li><span class='produtosLi clearfix ' data-categoria=';;Mini Salgados;;'>
+        <div class='produtoInfo geralTransition'>
+         <span style='font-family: Verdana; font-size:14pt;color: grey'>Mini Salgados e Mini Pastéis por encomenda</span>
+ 
+        </div>
+        
+       </span></li></ul>
+              
+       
+       <ul><li><span class='produtosLi clearfix ' data-categoria=';;Mini Salgados;;'>
+        <span class='numero geralTransition'>&#10003;</span>
+        <div class='produtoInfo geralTransition'>
+         <span style='font-family: Architects Daughter; font-size:16pt;color: brown'>Mini Coxinhas</span>
+         <span style='font-family: arial; font-size: 10pt; color: grey'>Recheio de frango - 100 unidades</span>
+        </div>
+        <div class='blocoValor geralTransition'>
+         <span class='linha geralTransition'/>
+         <span style='font-family: Verdana; font-size:12pt; color: grey'>R$ 80,00</span>
+        </div>
+       </span></li></ul>
+       
+       <ul><li><span class='produtosLi clearfix ' data-categoria=';;Mini Salgados;;'>
+        <span class='numero geralTransition'>&#10003;</span>
+        <div class='produtoInfo geralTransition'>
+         <span style='font-family: Architects Daughter; font-size:16pt;color: brown'>Bolinhas de Queijo</span>
+         <span style='font-family: arial; font-size: 10pt; color: grey'>Queijo tipo mussarela - 100 unidades</span>
+        </div>
+        <div class='blocoValor geralTransition'>
+         <span class='linha geralTransition'/>
+         <span style='font-family: Verdana; font-size:12pt; color: grey'>R$ 80,00</span>
+        </div>
+       </span></li></ul>
+       
+       <ul><li><span class='produtosLi clearfix ' data-categoria=';;Mini Salgados;;'>
+        <span class='numero geralTransition'>&#10003;</span>
+        <div class='produtoInfo geralTransition'>
+         <span style='font-family: Architects Daughter; font-size:16pt;color: brown'>Mini Risoles</span>
+         <span style='font-family: arial; font-size: 10pt; color: grey'>Presunto e Queijo - 100 unidades</span>
+        </div>
+        <div class='blocoValor geralTransition'>
+         <span class='linha geralTransition'/>
+         <span style='font-family: Verdana; font-size:12pt; color: grey'>R$ 80,00</span>
+        </div>
+       </span></li></ul>
+       
+       <ul><li><span class='produtosLi clearfix ' data-categoria=';;Mini Salgados;;'>
+        <span class='numero geralTransition'>&#10003;</span>
+        <div class='produtoInfo geralTransition'>
+         <span style='font-family: Architects Daughter; font-size:16pt;color: brown'>Mini Kibes</span>
+                                  <span style='font-family: arial; font-size: 10pt; color: grey'>Recheado com carne moída - 100 unidades</span>
+        </div>
+        <div class='blocoValor geralTransition'>
+         <span class='linha geralTransition'/>
+         <span style='font-family: Verdana; font-size:12pt; color: grey'>R$ 80,00</span>
+        </div>
+       </span></li></ul>
+       
+       <ul><li><span class='produtosLi clearfix ' data-categoria=';;Mini Salgados;;'>
+        <span class='numero geralTransition'>&#10003;</span>
+        <div class='produtoInfo geralTransition'>
+         <span style='font-family: Architects Daughter; font-size:16pt;color: brown'>Mini Esfihas</span>
+         <span style='font-family: arial; font-size: 10pt; color: grey'>Recheadas com carne, frango ou calabresa - 100 unidades</span>
+        </div>
+        <div class='blocoValor geralTransition'>
+         <span class='linha geralTransition'/>
+         <span style='font-family: Verdana; font-size:12pt; color: grey'>R$ 90,00</span>
+        </div>
+       </span></li></ul>
+       
+       <ul><li><span class='produtosLi clearfix ' data-categoria=';;Mini Salgados;;'>
+        <span class='numero geralTransition'>&#10003;</span>
+        <div class='produtoInfo geralTransition'>
+         <span style='font-family: Architects Daughter; font-size:16pt;color: brown'>Mini Enroladinhos assados</span>
+                                  <span style='font-family: arial; font-size: 10pt; color: grey'>Recheados com presunto e queijo ou com salsicha - 100 unidades</span>
+        </div>
+        <div class='blocoValor geralTransition'>
+         <span class='linha geralTransition'/>
+         <span style='font-family: Verdana; font-size:12pt; color: grey'>R$ 90,00</span>
+        </div>
+       </span></li></ul>
+       
+       <ul><li><span class='produtosLi clearfix ' data-categoria=';;Mini Salgados;;'>
+        <span class='numero geralTransition'>&#10003;</span>
+        <div class='produtoInfo geralTransition'>
+         <span style='font-family: Architects Daughter; font-size:16pt;color: brown'>Mini Empadinhas</span>
+                                  <span style='font-family: arial; font-size: 10pt; color: grey'>Recheio de Palmito ou Frango c/ Catupiry - 100 unidades</span>
+        </div>
+        <div class='blocoValor geralTransition'>
+         <span class='linha geralTransition'/>
+         <span style='font-family: Verdana; font-size:12pt; color: grey'>R$ 90,00</span>
+        </div>
+       </span></li></ul>
+              
+       
+       
+       <ul><li><span class='produtosLi clearfix ' data-categoria=';;salgadinhos;;'>
+        <span class='numero geralTransition'>&#10003;</span>
+        <div class='produtoInfo geralTransition'>
+                                  <span style='font-family: Architects Daughter; font-size:16pt;color: brown'>Mini Pastéis - porção c/ 12 unidades</span>
+         <span style='font-family: arial; font-size: 10pt; color: grey'>Carne, Queijo ou Palmito (pode ser sortido)</span>
+        </div>
+        <div class='blocoValor geralTransition'>
+         <span class='linha geralTransition'/>
+         <span style='font-family: Verdana; font-size:12pt; color: grey'>R$ 16,00</span>
+        </div>
+       </span></li></ul>
+        
+  <ul><li><span class='produtosLi clearfix ' data-categoria=';;Mini Salgados;;'>
+        <span class='numero geralTransition'>&#10003;</span>
+        <div class='produtoInfo geralTransition'>
+                                  <span style='font-family: Architects Daughter; font-size:16pt;color: brown'>Mini Pastéis - caixa c/ 50 unidades</span>
+         <span style='font-family: arial; font-size: 10pt; color: grey'>Carne, Queijo ou Palmito (pode ser sortido)</span>
+        </div>
+        <div class='blocoValor geralTransition'>
+         <span class='linha geralTransition'/>
+         <span style='font-family: Verdana; font-size:12pt; color: grey'>R$ 67,00</span>
+        </div>
+       </span></li></ul>      
+        
+       
+<ul><li><span class='produtosLi clearfix ' data-categoria=';;Mini Salgados;;'>
+        <span class='numero geralTransition'>&#10003;</span>
+        <div class='produtoInfo geralTransition'>
+<span style='font-family: Architects Daughter; font-size:16pt;color: brown'>Mini Salgados Especiais</span>
+<span style='font-family: arial; font-size: 10pt; color: grey'>Peça por uma massa e/ou recheio especial</span>
+</div>
+<div class='blocoValor geralTransition'>
+<span class='linha geralTransition'/>
+<span style='font-family: Verdana; font-size:12pt; color: grey'>Consulte $</span>
+</div>
+</span></li></ul>
+        
+        <ul><li><span class='produtosLi clearfix' data-categoria=';;salgadinhos;;'>
+        <span class='numero geralTransition'>&#10003;</span>
+        <div class='produtoInfo geralTransition'>
+<span style='font-family: Architects Daughter; font-size:16pt;color: brown'>Combo 1 Batata frita + 1 mini refri 200ml</span>
+<span style='font-family: arial; font-size: 10pt; color: grey'>Batata frita fininha e crocante + 1 refrigerante 200ml a escolher o sabor.</span>
+</div>
+<div class='blocoValor geralTransition'>
+<span class='linha geralTransition'/>
+<span style='font-family: Verdana; font-size:12pt; color: grey'>R$ 9,90</span>
+</div>
+</span></li></ul>
+        
+<ul><li><span class='produtosLi clearfix ' data-categoria=';;Mini Salgados;;'>
+        <span class='numero geralTransition'>&#10003;</span>
+        <div class='produtoInfo geralTransition'>
+<span style='font-family: Architects Daughter; font-size:16pt;color: brown'>Massa para pastel</span>
+<span style='font-family: arial; font-size: 10pt; color: grey'>Tradicional massa fresca para pastel de fabricação própria sem conservantes. (Rolo de 1 kg)</span>
+</div>
+<div class='blocoValor geralTransition'>
+<span class='linha geralTransition'/>
+<span style='font-family: Verdana; font-size:12pt; color: grey'>R$ 19,50</span>
+</div>
+</span></li></ul>        
+        
+        <!-- FIM DA LISTA -->
+       
+       
+     </div></div></div></div></div></div>
+  <section class='sessao' id='sectionTextura'/>
+</section>
+
+
+
+<!-- SESSAO TEXTURA -->
+           
+<span class='linha'/>
+<!-- SESSAO + DIVERSAO -->
+<section class='sessao bgFixo geralTransition' id='sessaoDiversao'>
+	<div class='container'>
+		<div class='geralTransition' id='blocoMaisDiversao'>
+          <img alt='opções Sr.Pastel' height='120' loading='lazy' src='https://raw.githubusercontent.com/srpastel/sr/refs/heads/master/pastelaria.webp?raw=true' width='250px'/>
+			<h2 class='titulo geralTransition'>
+				<span class='diversao'>Qualidade</span>
+				<span>e sabor!</span>
+			</h2>
+
+			<p class='unirTxt geralTransition'>
+				<span>Pastéis, salgados e sucos!</span>
+				<span>Uma pastelaria completa</span>
+             	<span>para toda a família.</span>
+			</p>
+
+			<p class='diversaoDescricao geralTransition'>
+				<span>O Sr. Pastel está com tudo!</span>
+				<span>Um lugar para se reunir</span>
+				<span>e encontrar o sabor do </span>
+				<span>verdadeiro pastel e muito mais.</span>
+				<span>Um lugar para trocar ideias,</span>
+				<span>tomar um suco e curtir.</span>
+              <span><strong>Sr. Pastel</strong> é a opção</span>
+				<span>para a família!</span>
+              <span>Vamos lá!</span>
+              </p>
+		</div>
+	</div>
+</section>
+
+<!-- SESSAO MAPA -->
+<section class='sessao' id='sessaoMapa'>
+	<div class='bg'/>
+	<span class='ondulado'/>
+	<div class='container containerBloco clearfix'>
+     
+<!-- Botão maps rotas -->
+<span class='logoMobile'>
+  <a class='geralTransition' href='https://maps.app.goo.gl/4n5biMueqtM9vBij6?g_st=aw' id='botaogeral' target='_blank'><span>rotas</span></a></span></div>	
+<!-- Botão mapas rotas fim -->
+</section>
+           
+<span class='linha'/>
+           
+<!-- Mapa responsivo -->
+<iframe allowfullscreen='n' height='450' loading='lazy' referrerpolicy='no-referrer-when-downgrade' src='https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d914.6851226847049!2d-47.615525039451484!3d-23.505854984031235!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x94c5ed7b16c043ed%3A0xf3e05dad97b61204!2sSr.%20Pastel%20Pastelaria!5e0!3m2!1spt-BR!2sbr!4v1748198760641!5m2!1spt-BR!2sbr' style='border:0;' title='Mapa da localização da Sr. Pastel Pastelaria' width='100%'>
+</iframe>      
+<!-- Mapa responsivo fim -->
+           
+<span class='linha'/>
+  </div>
+<!-- SESSAO MAPA FIM -->
+           
+<!-- SESSAO CONTATO -->
+<br/>
+<img alt='pin-mapa' height='100px' src='https://cdn.jsdelivr.net/gh/srpastel/sr@master/pin.png?raw=true' width='100px'/>
+<br/><br/><br/>
+<p><span style='font-size:27pt; color: grey'>Pastelaria Sr. Pastel</span></p>
+<br/>
+<p><a class='geralTransition' href='https://maps.app.goo.gl/4n5biMueqtM9vBij6?g_st=aw' id='botaogeral' target='_blank'><span style='font-size:14pt; color: black'>Rua Sete de Setembro, 27</span></a></p>
+<br/>  
+<p><span style='font-size:14pt; color: grey'>Centro - Araçoiaba da Serra - SP</span></p>
+<br/>
+<p><a href='tel:01532811102' id='botaogeral' target='_blank'><span style='font-size:14pt; color: black'>Tel: (15) 3281-1102</span></a></p>
+<br/><br/><br/><br/><br/><br/><br/><br/>
+  <!-- SESSAO CONTATO FIM -->
+  
+
+
+<b:if cond='data:blog.pageType == &quot;item&quot;'>
+  
+<footer id='footer'>
+
+</footer>
+</b:if>
+<!-- MODAL TELENTREGA -->
+<div id='modalTelentrega'>
+	<div class='containerModal clearfix'>
+		
+
+		<div class='modalBloco modalBlocoLocais'>
+			<div class='teleEntregaLi teleEntregaLocais geralTransition'>
+				<div class='table'>
+					<div class='tableCell'>
+						<img alt='locais' class='icone' data-src2x='https://cdn.rawgit.com/srpastel/sr/master/entrega_locais_2x.png' src='https://cdn.rawgit.com/srpastel/sr/master/entrega_locais.png'/>
+						<span class='teleEntregaLocaisTitulo'>Aproveite nossas ofertas!</span>
+<div class='listaLocais clearfix'>
+							<div class='tituloLocais'>
+								<span><img alt='mini salgados Sr. Pastel' loading='lazy' src='https://cdn.jsdelivr.net/gh/srpastel/sr@refs/heads/master/combo1.webp'/></span>
+                              <span><img alt='mini salgados Sr. Pastel' loading='lazy' src='https://cdn.jsdelivr.net/gh/srpastel/sr@refs/heads/master/minif.webp'/></span>
+                              <span><img alt='mini salgados Sr. Pastel' loading='lazy' src='https://cdn.jsdelivr.net/gh/srpastel/sr@refs/heads/master/batata-combo.webp'/></span>
+                              <a class='geralTransition' href='#sessaoCardapio' id='btVerCardapio'><span>cardápio</span></a>
+                              <span/>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+</div>
+	</div>
+  
+<!-- bibliotecas javascript -->
+<script as='script' defer='defer' rel='preload' src='https://cdnjs.cloudflare.com/ajax/libs/jquery/3.7.1/jquery.min.js'/>
+  
+<script as='script' defer='defer' rel='preload' src='https://cdn.rawgit.com/srpastel/sr/master/plugins.js'/>
+  
+<script as='script' defer='defer' rel='preload' src='https://cdn.rawgit.com/srpastel/sr/master/funcoes.js'/>
+  
+<script as='script' defer='defer' rel='preload' src='https://cdn.rawgit.com/srpastel/sr/master/inicial.js'/>
+<!-- fim bibliotecas javascript -->    	
+ 
+</body>
+  
+
+<b:if cond='data:blog.pageType == &quot;item&quot;'>
+  <b:if cond='data:blog.pageType == &quot;index&quot;'>
+    <div itemscope='itemscope' itemtype='http://schema.org/Blog' style='display: none;'>
+      <meta expr:content='data:blog.title' itemprop='name'/>
+      <b:if cond='data:blog.metaDescription'>
+        <meta expr:content='data:blog.metaDescription' itemprop='description'/>
+      </b:if>
+    </div>
+  </b:if>
+  <div class='body-fauxcolumns'>
+    <div class='fauxcolumn-outer body-fauxcolumn-outer'>
+    <div class='cap-top'>
+      <div class='cap-left'/>
+      <div class='cap-right'/>
+    </div>
+    <div class='fauxborder-left'>
+    <div class='fauxborder-right'/>
+    <div class='fauxcolumn-inner'>
+    </div>
+    </div>
+    <div class='cap-bottom'>
+      <div class='cap-left'/>
+      <div class='cap-right'/>
+    </div>
+    </div>
+  </div>
+
+  <div class='content'>
+  <div class='content-fauxcolumns'>
+    <div class='fauxcolumn-outer content-fauxcolumn-outer'>
+    <div class='cap-top'>
+      <div class='cap-left'/>
+      <div class='cap-right'/>
+    </div>
+    <div class='fauxborder-left'>
+    <div class='fauxborder-right'/>
+    <div class='fauxcolumn-inner'>
+    </div>
+    </div>
+    <div class='cap-bottom'>
+      <div class='cap-left'/>
+      <div class='cap-right'/>
+    </div>
+    </div>
+  </div>
+
+  <div class='content-outer'>
+  <div class='content-cap-top cap-top'>
+    <div class='cap-left'/>
+    <div class='cap-right'/>
+  </div>
+  <div class='fauxborder-left content-fauxborder-left'>
+  <div class='fauxborder-right content-fauxborder-right'/>
+  <div class='content-inner'>
+
+    <header>
+    <div class='header-outer'>
+    <div class='header-cap-top cap-top'>
+      <div class='cap-left'/>
+      <div class='cap-right'/>
+    </div>
+    <div class='fauxborder-left header-fauxborder-left'>
+    <div class='fauxborder-right header-fauxborder-right'/>
+    <div class='region-inner header-inner'>
+      <b:section class='header' id='header' maxwidgets='1' showaddelement='no'>
+        <b:widget id='Header1' locked='true' title='Sr. Pastel Pastelaria (Cabeçalho)' type='Header'>
+          <b:widget-settings>
+            <b:widget-setting name='displayUrl'/>
+            <b:widget-setting name='displayHeight'>0</b:widget-setting>
+            <b:widget-setting name='sectionWidth'>-1</b:widget-setting>
+            <b:widget-setting name='useImage'>false</b:widget-setting>
+            <b:widget-setting name='shrinkToFit'>false</b:widget-setting>
+            <b:widget-setting name='imagePlacement'>BEHIND</b:widget-setting>
+            <b:widget-setting name='displayWidth'>0</b:widget-setting>
+          </b:widget-settings>
+          <b:includable id='main'>
+
+  <b:if cond='data:useImage'>
+    <b:if cond='data:imagePlacement == &quot;BEHIND&quot;'>
+      <!--
+      Show image as background to text. You can't really calculate the width
+      reliably in JS because margins are not taken into account by any of
+      clientWidth, offsetWidth or scrollWidth, so we don't force a minimum
+      width if the user is using shrink to fit.
+      This results in a margin-width's worth of pixels being cropped. If the
+      user is not using shrink to fit then we expand the header.
+      -->
+      <b:if cond='data:mobile'>
+        <div id='header-inner'>
+          <div class='titlewrapper' style='background: transparent'>
+            <h1 class='title' style='background: transparent; border-width: 0px'>
+              <b:include name='title'/>
+            </h1>
+          </div>
+          <b:include name='description'/>
+        </div>
+      <b:else/>
+        <div expr:style='&quot;background-image: url(\&quot;&quot; + data:sourceUrl + &quot;\&quot;); &quot;                      + &quot;background-position: &quot;                      + data:backgroundPositionStyleStr + &quot;; &quot;                      + data:widthStyleStr                      + &quot;min-height: &quot; + data:height                      + &quot;_height: &quot; + data:height                      + &quot;background-repeat: no-repeat; &quot;' id='header-inner'>
+          <div class='titlewrapper' style='background: transparent'>
+            <h1 class='title' style='background: transparent; border-width: 0px'>
+              <b:include name='title'/>
+            </h1>
+          </div>
+          <b:include name='description'/>
+        </div>
+      </b:if>
+    <b:else/>
+      <!--Show the image only-->
+      <div id='header-inner'>
+        <a expr:href='data:blog.homepageUrl' style='display: block'>
+          <img expr:alt='data:title' expr:height='data:height' expr:id='data:widget.instanceId + &quot;_headerimg&quot;' expr:src='data:sourceUrl' expr:width='data:width' style='display: block'/>
+        </a>
+        <!--Show the description-->
+        <b:if cond='data:imagePlacement == &quot;BEFORE_DESCRIPTION&quot;'>
+          <b:include name='description'/>
+        </b:if>
+      </div>
+    </b:if>
+  <b:else/>
+    <!--No header image -->
+    <div id='header-inner'>
+      <div class='titlewrapper'>
+        <h1 class='title'>
+          <b:include name='title'/>
+        </h1>
+      </div>
+      <b:include name='description'/>
+    </div>
+  </b:if>
+</b:includable>
+          <b:includable id='description'>
+  <div class='descriptionwrapper'>
+    <p class='description'><span><data:description/></span></p>
+  </div>
+</b:includable>
+          <b:includable id='title'>
+  <b:tag cond='data:blog.url != data:blog.homepageUrl' expr:href='data:blog.homepageUrl' name='a'>
+    <data:title/>
+  </b:tag>
+</b:includable>
+        </b:widget>
+      </b:section>
+    </div>
+    </div>
+    <div class='header-cap-bottom cap-bottom'>
+      <div class='cap-left'/>
+      <div class='cap-right'/>
+    </div>
+    </div>
+    </header>
+
+    <div class='tabs-outer'>
+    <div class='tabs-cap-top cap-top'>
+      <div class='cap-left'/>
+      <div class='cap-right'/>
+    </div>
+    <div class='fauxborder-left tabs-fauxborder-left'>
+    <div class='fauxborder-right tabs-fauxborder-right'/>
+    <div class='region-inner tabs-inner'>
+      <b:section class='tabs' id='crosscol' maxwidgets='1' showaddelement='yes'/>
+      <b:section class='tabs' id='crosscol-overflow' showaddelement='no'/>
+    </div>
+    </div>
+    <div class='tabs-cap-bottom cap-bottom'>
+      <div class='cap-left'/>
+      <div class='cap-right'/>
+    </div>
+    </div>
+
+    <div class='main-outer'>
+    <div class='main-cap-top cap-top'>
+      <div class='cap-left'/>
+      <div class='cap-right'/>
+    </div>
+
+    <div class='fauxborder-left main-fauxborder-left'>
+    <div class='fauxborder-right main-fauxborder-right'/>
+    <div class='region-inner main-inner'>
+
+      <div class='columns fauxcolumns'>
+
+        <div class='fauxcolumn-outer fauxcolumn-center-outer'>
+        <div class='cap-top'>
+          <div class='cap-left'/>
+          <div class='cap-right'/>
+        </div>
+        <div class='fauxborder-left'>
+        <div class='fauxborder-right'/>
+        <div class='fauxcolumn-inner'>
+        </div>
+        </div>
+        <div class='cap-bottom'>
+          <div class='cap-left'/>
+          <div class='cap-right'/>
+        </div>
+        </div>
+
+        <div class='fauxcolumn-outer fauxcolumn-left-outer'>
+        <div class='cap-top'>
+          <div class='cap-left'/>
+          <div class='cap-right'/>
+        </div>
+        <div class='fauxborder-left'>
+        <div class='fauxborder-right'/>
+        <div class='fauxcolumn-inner'>
+        </div>
+        </div>
+        <div class='cap-bottom'>
+          <div class='cap-left'/>
+          <div class='cap-right'/>
+        </div>
+        </div>
+
+        <div class='fauxcolumn-outer fauxcolumn-right-outer'>
+        <div class='cap-top'>
+          <div class='cap-left'/>
+          <div class='cap-right'/>
+        </div>
+        <div class='fauxborder-left'>
+        <div class='fauxborder-right'/>
+        <div class='fauxcolumn-inner'>
+        </div>
+        </div>
+        <div class='cap-bottom'>
+          <div class='cap-left'/>
+          <div class='cap-right'/>
+        </div>
+        </div>
+
+        <!-- corrects IE6 width calculation -->
+        <div class='columns-inner'>
+
+        <div class='column-center-outer'>
+        <div class='column-center-inner'>
+          <b:section class='main' id='main' showaddelement='no'>
+            <b:widget id='Blog1' locked='true' title='Postagens no blog' type='Blog' version='1'>
+              <b:widget-settings>
+                <b:widget-setting name='showDateHeader'>true</b:widget-setting>
+                <b:widget-setting name='style.textcolor'>#ffffff</b:widget-setting>
+                <b:widget-setting name='showShareButtons'>true</b:widget-setting>
+                <b:widget-setting name='authorLabel'>By</b:widget-setting>
+                <b:widget-setting name='showCommentLink'>false</b:widget-setting>
+                <b:widget-setting name='style.urlcolor'>#ffffff</b:widget-setting>
+                <b:widget-setting name='showAuthor'>true</b:widget-setting>
+                <b:widget-setting name='style.linkcolor'>#ffffff</b:widget-setting>
+                <b:widget-setting name='style.unittype'>TextAndImage</b:widget-setting>
+                <b:widget-setting name='style.bgcolor'>#ffffff</b:widget-setting>
+                <b:widget-setting name='reactionsLabel'/>
+                <b:widget-setting name='showAuthorProfile'>false</b:widget-setting>
+                <b:widget-setting name='style.layout'>1x1</b:widget-setting>
+                <b:widget-setting name='showLabels'>true</b:widget-setting>
+                <b:widget-setting name='showLocation'>true</b:widget-setting>
+                <b:widget-setting name='showTimestamp'>true</b:widget-setting>
+                <b:widget-setting name='postsPerAd'>1</b:widget-setting>
+                <b:widget-setting name='showBacklinks'>false</b:widget-setting>
+                <b:widget-setting name='style.bordercolor'>#ffffff</b:widget-setting>
+                <b:widget-setting name='showInlineAds'>false</b:widget-setting>
+                <b:widget-setting name='showReactions'>false</b:widget-setting>
+              </b:widget-settings>
+              <b:includable id='main' var='top'>
+  <b:if cond='!data:mobile'>
+    <!-- posts -->
+    <div class='blog-posts hfeed'>
+
+      <b:include data='top' name='status-message'/>
+
+      <b:loop values='data:posts' var='post'>
+        <b:if cond='data:post.isDateStart and not data:post.isFirstPost'>
+          &lt;/div&gt;&lt;/div&gt;
+        </b:if>
+        <b:if cond='data:post.isDateStart'>
+          &lt;div class=&quot;date-outer&quot;&gt;
+        </b:if>
+        <b:if cond='data:post.dateHeader'>
+          <h2 class='date-header'><span><data:post.dateHeader/></span></h2>
+        </b:if>
+        <b:if cond='data:post.isDateStart'>
+          &lt;div class=&quot;date-posts&quot;&gt;
+        </b:if>
+        <div class='post-outer'>
+          <b:include data='post' name='post'/>
+          <b:include cond='data:blog.pageType in {&quot;static_page&quot;,&quot;item&quot;}' data='post' name='comment_picker'/>
+        </div>
+
+        <!-- Ad -->
+        <b:if cond='data:post.includeAd'>
+          <div class='inline-ad'>
+            <data:adCode/>
+          </div>
+        </b:if>
+      </b:loop>
+      <b:if cond='data:numPosts != 0'>
+        &lt;/div&gt;&lt;/div&gt;
+      </b:if>
+    </div>
+
+    <!-- navigation -->
+    <b:include name='nextprev'/>
+
+    <!-- feed links -->
+    <b:include name='feedLinks'/>
+
+  <b:else/>
+    <b:include name='mobile-main'/>
+  </b:if>
+
+  <b:if cond='data:top.showPlusOne'>
+    <data:top.googlePlusBootstrap/>
+  </b:if>
+
+</b:includable>
+              <b:includable id='backlinkDeleteIcon' var='backlink'/>
+              <b:includable id='backlinks' var='post'/>
+              <b:includable id='comment-form' var='post'>
+  <div class='comment-form'>
+    <a name='comment-form'/>
+    <b:if cond='data:mobile'>
+      <h4 id='comment-post-message'>
+        <a expr:id='data:widget.instanceId + &quot;_comment-editor-toggle-link&quot;' href='javascript:void(0)'><data:postCommentMsg/></a></h4>
+      <p><data:blogCommentMessage/></p>
+      <data:blogTeamBlogMessage/>
+      <a expr:href='data:post.commentFormIframeSrc' id='comment-editor-src'/>
+      <iframe allowtransparency='true' class='blogger-iframe-colorize blogger-comment-from-post' expr:height='data:cmtIframeInitialHeight' frameborder='0' id='comment-editor' name='comment-editor' src='' style='display: none' width='100%'/>
+    <b:else/>
+      <h4 id='comment-post-message'><data:postCommentMsg/></h4>
+      <p><data:blogCommentMessage/></p>
+      <data:blogTeamBlogMessage/>
+      <a expr:href='data:post.commentFormIframeSrc' id='comment-editor-src'/>
+      <iframe allowtransparency='true' class='blogger-iframe-colorize blogger-comment-from-post' expr:height='data:cmtIframeInitialHeight' frameborder='0' id='comment-editor' name='comment-editor' src='' width='100%'/>
+    </b:if>
+    <data:post.friendConnectJs/>
+    <data:post.cmtfpIframe/>
+    <script type='text/javascript'>
+      BLOG_CMT_createIframe(&#39;<data:post.appRpcRelayPath/>&#39;);
+    </script>
+  </div>
+</b:includable>
+              <b:includable id='commentDeleteIcon' var='comment'>
+  <span expr:class='&quot;item-control &quot; + data:comment.adminClass'>
+    <b:if cond='data:showCmtPopup'>
+      <div class='goog-toggle-button'>
+        <div class='goog-inline-block comment-action-icon'/>
+      </div>
+    <b:else/>
+      <a class='comment-delete' expr:href='data:comment.deleteUrl' expr:title='data:top.deleteCommentMsg'>
+        <img alt='delete' src='https://resources.blogblog.com/img/icon_delete13.gif'/>
+      </a>
+    </b:if>
+  </span>
+</b:includable>
+              <b:includable id='comment_count_picker' var='post'>
+  <a class='comment-link' expr:href='data:post.addCommentUrl' expr:onclick='data:post.addCommentOnclick'>
+    <data:post.commentLabelFull/>:
+  </a>
+</b:includable>
+              <b:includable id='comment_picker' var='post'>
+  <b:if cond='data:post.showThreadedComments'>
+    <b:include data='post' name='threaded_comments'/>
+  <b:else/>
+    <b:include data='post' name='comments'/>
+  </b:if>
+</b:includable>
+              <b:includable id='comments' var='post'>
+  <div class='comments' id='comments'>
+    <a name='comments'/>
+    <b:if cond='data:post.allowComments'>
+      <h4><data:post.commentLabelFull/>:</h4>
+
+      <b:if cond='data:post.commentPagingRequired'>
+        <span class='paging-control-container'>
+          <b:if cond='data:post.hasOlderLinks'>
+            <a expr:class='data:post.oldLinkClass' expr:href='data:post.oldestLinkUrl'><data:post.oldestLinkText/></a>
+              &#160;
+            <a expr:class='data:post.oldLinkClass' expr:href='data:post.olderLinkUrl'><data:post.olderLinkText/></a>
+              &#160;
+          </b:if>
+
+          <data:post.commentRangeText/>
+
+          <b:if cond='data:post.hasNewerLinks'>
+            &#160;
+            <a expr:class='data:post.newLinkClass' expr:href='data:post.newerLinkUrl'><data:post.newerLinkText/></a>
+            &#160;
+            <a expr:class='data:post.newLinkClass' expr:href='data:post.newestLinkUrl'><data:post.newestLinkText/></a>
+          </b:if>
+        </span>
+      </b:if>
+
+      <div expr:id='data:widget.instanceId + &quot;_comments-block-wrapper&quot;'>
+        <dl expr:class='data:post.avatarIndentClass' id='comments-block'>
+          <b:loop values='data:post.comments' var='comment'>
+            <dt expr:class='&quot;comment-author &quot; + data:comment.authorClass' expr:id='data:comment.anchorName'>
+              <b:if cond='data:comment.favicon'>
+                <img expr:src='data:comment.favicon' height='16px' style='margin-bottom:-2px;' width='16px'/>
+              </b:if>
+              <a expr:name='data:comment.anchorName'/>
+              <b:if cond='data:blog.enabledCommentProfileImages'>
+                <data:comment.authorAvatarImage/>
+              </b:if>
+              <b:if cond='data:comment.authorUrl'>
+                <a expr:href='data:comment.authorUrl' rel='nofollow'><data:comment.author/></a>
+              <b:else/>
+                <data:comment.author/>
+              </b:if>
+              <data:commentPostedByMsg/>
+            </dt>
+            <dd class='comment-body' expr:id='data:widget.instanceId + data:comment.cmtBodyIdPostfix'>
+              <b:if cond='data:comment.isDeleted'>
+                <span class='deleted-comment'><data:comment.body/></span>
+              <b:else/>
+                <p>
+                  <data:comment.body/>
+                </p>
+              </b:if>
+            </dd>
+            <dd class='comment-footer'>
+              <span class='comment-timestamp'>
+                <a expr:href='data:comment.url' title='comment permalink'>
+                  <data:comment.timestamp/>
+                </a>
+                <b:include data='comment' name='commentDeleteIcon'/>
+              </span>
+            </dd>
+          </b:loop>
+        </dl>
+      </div>
+
+      <b:if cond='data:post.commentPagingRequired'>
+        <span class='paging-control-container'>
+          <a expr:class='data:post.oldLinkClass' expr:href='data:post.oldestLinkUrl'>
+            <data:post.oldestLinkText/>
+          </a>
+          <a expr:class='data:post.oldLinkClass' expr:href='data:post.olderLinkUrl'>
+            <data:post.olderLinkText/>
+          </a>
+          &#160;
+          <data:post.commentRangeText/>
+          &#160;
+          <a expr:class='data:post.newLinkClass' expr:href='data:post.newerLinkUrl'>
+            <data:post.newerLinkText/>
+          </a>
+          <a expr:class='data:post.newLinkClass' expr:href='data:post.newestLinkUrl'>
+            <data:post.newestLinkText/>
+          </a>
+        </span>
+      </b:if>
+
+      <p class='comment-footer'>
+        <b:if cond='data:post.embedCommentForm'>
+          <b:if cond='data:post.allowNewComments'>
+            <b:include data='post' name='comment-form'/>
+          <b:else/>
+            <data:post.noNewCommentsText/>
+          </b:if>
+        <b:elseif cond='data:post.allowComments'/>
+          <a expr:href='data:post.addCommentUrl' expr:onclick='data:post.addCommentOnclick'><data:postCommentMsg/></a>
+        </b:if>
+      </p>
+    </b:if>
+    <b:if cond='data:showCmtPopup'>
+      <div id='comment-popup'>
+        <iframe allowtransparency='true' frameborder='0' id='comment-actions' name='comment-actions' scrolling='no'>
+        </iframe>
+      </div>
+    </b:if>
+
+  </div>
+</b:includable>
+              <b:includable id='feedLinks'>
+  <b:if cond='data:blog.pageType != &quot;item&quot;'> <!-- Blog feed links -->
+    <b:if cond='data:feedLinks'>
+      <div class='blog-feeds'>
+        <b:include data='feedLinks' name='feedLinksBody'/>
+      </div>
+    </b:if>
+
+  <b:else/> <!--Post feed links -->
+    <div class='post-feeds'>
+      <b:loop values='data:posts' var='post'>
+        <b:include cond='data:post.allowComments and data:post.feedLinks' data='post.feedLinks' name='feedLinksBody'/>
+      </b:loop>
+    </div>
+  </b:if>
+</b:includable>
+              <b:includable id='feedLinksBody' var='links'>
+  <div class='feed-links'>
+  <data:feedLinksMsg/>
+  <b:loop values='data:links' var='f'>
+     <a class='feed-link' expr:href='data:f.url' expr:type='data:f.mimeType' target='_blank'><data:f.name/> (<data:f.feedType/>)</a>
+  </b:loop>
+  </div>
+</b:includable>
+              <b:includable id='iframe_comments' var='post'>
+  <!-- G+ comments, no longer available. The includable is retained for backwards-compatibility. -->
+</b:includable>
+              <b:includable id='mobile-index-post' var='post'>
+  <div class='mobile-date-outer date-outer'>
+    <b:if cond='data:post.dateHeader'>
+      <div class='date-header'>
+        <span><data:post.dateHeader/></span>
+      </div>
+    </b:if>
+
+    <div class='mobile-post-outer'>
+      <a expr:href='data:post.url'>
+        <h3 class='mobile-index-title entry-title' itemprop='name'>
+          <data:post.title/>
+        </h3>
+
+        <div class='mobile-index-arrow'>&amp;rsaquo;</div>
+
+        <div class='mobile-index-contents'>
+          <b:if cond='data:post.thumbnailUrl'>
+            <div class='mobile-index-thumbnail'>
+              <div class='Image'>
+                <img expr:src='data:post.thumbnailUrl'/>
+              </div>
+            </div>
+          </b:if>
+
+          <div class='post-body'>
+            <b:if cond='data:post.snippet'><data:post.snippet/></b:if>
+          </div>
+        </div>
+
+        <div style='clear: both;'/>
+      </a>
+
+      <div class='mobile-index-comment'>
+        <b:include cond='data:blog.pageType != &quot;static_page&quot;                          and data:post.allowComments                          and data:post.numComments != 0' data='post' name='comment_count_picker'/>
+      </div>
+    </div>
+  </div>
+</b:includable>
+              <b:includable id='mobile-main' var='top'>
+    <!-- posts -->
+    <div class='blog-posts hfeed'>
+
+      <b:include data='top' name='status-message'/>
+
+      <b:if cond='data:blog.pageType == &quot;index&quot;'>
+        <b:loop values='data:posts' var='post'>
+          <b:include data='post' name='mobile-index-post'/>
+        </b:loop>
+      <b:else/>
+        <b:loop values='data:posts' var='post'>
+          <b:include data='post' name='mobile-post'/>
+        </b:loop>
+      </b:if>
+    </div>
+
+   <b:include name='mobile-nextprev'/>
+</b:includable>
+              <b:includable id='mobile-nextprev'>
+  <div class='blog-pager' id='blog-pager'>
+    <b:if cond='data:newerPageUrl'>
+      <div class='mobile-link-button' id='blog-pager-newer-link'>
+      <a class='blog-pager-newer-link' expr:href='data:newerPageUrl' expr:id='data:widget.instanceId + &quot;_blog-pager-newer-link&quot;' expr:title='data:newerPageTitle'>&amp;lsaquo;</a>
+      </div>
+    </b:if>
+
+    <b:if cond='data:olderPageUrl'>
+      <div class='mobile-link-button' id='blog-pager-older-link'>
+      <a class='blog-pager-older-link' expr:href='data:olderPageUrl' expr:id='data:widget.instanceId + &quot;_blog-pager-older-link&quot;' expr:title='data:olderPageTitle'>&amp;rsaquo;</a>
+      </div>
+    </b:if>
+
+    <div class='mobile-link-button' id='blog-pager-home-link'>
+    <a class='home-link' expr:href='data:blog.homepageUrl'><data:homeMsg/></a>
+    </div>
+
+    <div class='mobile-desktop-link'>
+      <a class='home-link' expr:href='data:desktopLinkUrl'><data:desktopLinkMsg/></a>
+    </div>
+
+  </div>
+  <div class='clear'/>
+</b:includable>
+              <b:includable id='mobile-post' var='post'>
+  <div class='date-outer'>
+    <b:if cond='data:post.dateHeader'>
+      <h2 class='date-header'><span><data:post.dateHeader/></span></h2>
+    </b:if>
+    <div class='date-posts'>
+      <div class='post-outer'>
+
+        <div class='post hentry uncustomized-post-template' itemscope='itemscope' itemtype='http://schema.org/BlogPosting'>
+          <b:if cond='data:post.thumbnailUrl'>
+            <meta expr:content='data:post.thumbnailUrl' itemprop='image_url'/>
+          </b:if>
+          <meta expr:content='data:blog.blogId' itemprop='blogId'/>
+          <meta expr:content='data:post.id' itemprop='postId'/>
+
+          <a expr:name='data:post.id'/>
+          <b:if cond='data:post.title'>
+            <h3 class='post-title entry-title' itemprop='name'>
+              <b:if cond='data:post.link'>
+                <a expr:href='data:post.link'><data:post.title/></a>
+              <b:elseif cond='data:post.url and data:blog.url != data:post.url'/>
+                <a expr:href='data:post.url'><data:post.title/></a>
+              <b:else/>
+                <data:post.title/>
+              </b:if>
+            </h3>
+          </b:if>
+
+          <div class='post-header'>
+            <div class='post-header-line-1'/>
+          </div>
+
+          <div class='post-body entry-content' expr:id='&quot;post-body-&quot; + data:post.id' itemprop='articleBody'>
+            <data:post.body/>
+            <div style='clear: both;'/> <!-- clear for photos floats -->
+          </div>
+
+          <div class='post-footer'>
+            <div class='post-footer-line post-footer-line-1'>
+              <span class='post-author vcard'>
+                <b:if cond='data:top.showAuthor'>
+                  <b:if cond='data:post.authorProfileUrl'>
+                    <span class='fn' itemprop='author' itemscope='itemscope' itemtype='http://schema.org/Person'>
+                      <meta expr:content='data:post.authorProfileUrl' itemprop='url'/>
+                      <a expr:href='data:post.authorProfileUrl' rel='author' title='author profile'>
+                        <span itemprop='name'><data:post.author/></span>
+                      </a>
+                    </span>
+                  <b:else/>
+                    <span class='fn' itemprop='author' itemscope='itemscope' itemtype='http://schema.org/Person'>
+                      <span itemprop='name'><data:post.author/></span>
+                    </span>
+                  </b:if>
+                </b:if>
+              </span>
+
+              <span class='post-timestamp'>
+                <b:if cond='data:top.showTimestamp'>
+                  <data:top.timestampLabel/>
+                  <b:if cond='data:post.url'>
+                    <meta expr:content='data:post.url.canonical' itemprop='url'/>
+                    <a class='timestamp-link' expr:href='data:post.url' rel='bookmark' title='permanent link'><abbr class='published' expr:title='data:post.timestampISO8601' itemprop='datePublished'><data:post.timestamp/></abbr></a>
+                  </b:if>
+                </b:if>
+              </span>
+
+              <span class='post-comment-link'>
+                <b:include cond='data:blog.pageType not in {&quot;item&quot;,&quot;static_page&quot;}                                  and data:post.allowComments' data='post' name='comment_count_picker'/>
+              </span>
+            </div>
+
+            <div class='post-footer-line post-footer-line-2'>
+              <b:if cond='data:top.showMobileShare'>
+                <div class='mobile-link-button goog-inline-block' id='mobile-share-button'>
+                  <a href='javascript:void(0);'><data:shareMsg/></a>
+                </div>
+              </b:if>
+            </div>
+
+          </div>
+        </div>
+
+        <b:include cond='data:blog.pageType in {&quot;static_page&quot;,&quot;item&quot;}' data='post' name='comment_picker'/>
+      </div>
+    </div>
+  </div>
+</b:includable>
+              <b:includable id='nextprev'>
+  <div class='blog-pager' id='blog-pager'>
+    <b:if cond='data:newerPageUrl'>
+      <span id='blog-pager-newer-link'>
+      <a class='blog-pager-newer-link' expr:href='data:newerPageUrl' expr:id='data:widget.instanceId + &quot;_blog-pager-newer-link&quot;' expr:title='data:newerPageTitle'><data:newerPageTitle/></a>
+      </span>
+    </b:if>
+
+    <b:if cond='data:olderPageUrl'>
+      <span id='blog-pager-older-link'>
+      <a class='blog-pager-older-link' expr:href='data:olderPageUrl' expr:id='data:widget.instanceId + &quot;_blog-pager-older-link&quot;' expr:title='data:olderPageTitle'><data:olderPageTitle/></a>
+      </span>
+    </b:if>
+
+    <a class='home-link' expr:href='data:blog.homepageUrl'><data:homeMsg/></a>
+
+    <b:if cond='data:mobileLinkUrl'>
+      <div class='blog-mobile-link'>
+        <a expr:href='data:mobileLinkUrl'><data:mobileLinkMsg/></a>
+      </div>
+    </b:if>
+
+  </div>
+  <div class='clear'/>
+</b:includable>
+              <b:includable id='post' var='post'>
+  <div class='post hentry' itemprop='blogPost' itemscope='itemscope' itemtype='http://schema.org/BlogPosting'>
+    <b:if cond='data:post.firstImageUrl'>
+      <meta expr:content='data:post.firstImageUrl' itemprop='image_url'/>
+    </b:if>
+    <meta expr:content='data:blog.blogId' itemprop='blogId'/>
+    <meta expr:content='data:post.id' itemprop='postId'/>
+
+    <a expr:name='data:post.id'/>
+    <b:if cond='data:post.title'>
+      <h3 class='post-title entry-title' itemprop='name'>
+      <b:if cond='data:post.link'>
+        <a expr:href='data:post.link'><data:post.title/></a>
+      <b:else/>
+        <b:if cond='data:post.url'>
+          <b:if cond='data:blog.url != data:post.url'>
+            <a expr:href='data:post.url'><data:post.title/></a>
+          <b:else/>
+            <data:post.title/>
+          </b:if>
+        <b:else/>
+          <data:post.title/>
+        </b:if>
+      </b:if>
+      </h3>
+    </b:if>
+
+    <div class='post-header'>
+    <div class='post-header-line-1'/>
+    </div>
+
+    <b:if cond='data:blog.metaDescription == &quot;&quot;'>
+      <!-- Then use the post body as the schema.org description,
+          for good G+/FB snippeting. -->
+      <div class='post-body entry-content' expr:id='&quot;post-body-&quot; + data:post.id' itemprop='description articleBody'>
+        <data:post.body/>
+        <div style='clear: both;'/> <!-- clear for photos floats -->
+      </div>
+    <b:else/>
+      <div class='post-body entry-content' expr:id='&quot;post-body-&quot; + data:post.id' itemprop='articleBody'>
+        <data:post.body/>
+        <div style='clear: both;'/> <!-- clear for photos floats -->
+      </div>
+    </b:if>
+
+    <b:if cond='data:post.hasJumpLink'>
+      <div class='jump-link'>
+        <a expr:href='data:post.url + &quot;#more&quot;' expr:title='data:post.title'><data:post.jumpText/></a>
+      </div>
+    </b:if>
+
+    <div class='post-footer'>
+    <div class='post-footer-line post-footer-line-1'><span class='post-icons'>
+        <!-- email post links -->
+        <b:if cond='data:post.emailPostUrl'>
+          <span class='item-action'>
+          <a expr:href='data:post.emailPostUrl' expr:title='data:top.emailPostMsg'>
+              <img alt='email' class='icon-action' height='13' src='http://img1.blogblog.com/img/icon18_email.gif' width='18'/>
+          </a>
+          </span>
+        </b:if>
+
+        <!-- quickedit pencil -->
+        <b:include data='post' name='postQuickEdit'/>
+      </span> <div class='post-share-buttons goog-inline-block'>
+        <b:if cond='data:post.sharePostUrl'>
+          <b:include data='post' name='shareButtons'/>
+        </b:if>
+      </div> </div>
+
+      <div class='post-footer-line post-footer-line-2'/>
+
+      <div class='post-footer-line post-footer-line-3'/>
+      <b:if cond='data:post.authorAboutMe'>
+        <div class='author-profile' itemprop='author' itemscope='itemscope' itemtype='http://schema.org/Person'>
+          <b:if cond='data:post.authorPhoto.url'>
+            <img expr:src='data:post.authorPhoto.url' itemprop='image' width='50px'/>
+          </b:if>
+          <div>
+            <a class='g-profile' expr:href='data:post.authorProfileUrl' itemprop='url' rel='author' title='author profile'>
+              <span itemprop='name'><data:post.author/></span>
+            </a>
+          </div>
+          <span itemprop='description'><data:post.authorAboutMe/></span>
+        </div>
+      </b:if>
+    </div>
+  </div>
+</b:includable>
+              <b:includable id='postQuickEdit' var='post'>
+  <b:if cond='data:post.editUrl'>
+    <span expr:class='&quot;item-control &quot; + data:post.adminClass'>
+      <a expr:href='data:post.editUrl' expr:title='data:top.editPostMsg'>
+        <img alt='all' class='icon-action' height='18' src='https://resources.blogblog.com/img/icon18_edit_allbkg.gif' width='18'/>
+      </a>
+    </span>
+  </b:if>
+</b:includable>
+              <b:includable id='shareButtons' var='post'>
+  <b:if cond='data:top.showEmailButton'><a class='goog-inline-block share-button sb-email' expr:href='data:post.sharePostUrl + &quot;&amp;target=email&quot;' expr:title='data:top.emailThisMsg' target='_blank'><span class='share-button-link-text'><data:top.emailThisMsg/></span></a></b:if><b:if cond='data:top.showBlogThisButton'><a class='goog-inline-block share-button sb-blog' expr:href='data:post.sharePostUrl + &quot;&amp;target=blog&quot;' expr:onclick='&quot;window.open(this.href, \&quot;_blank\&quot;, \&quot;height=270,width=475\&quot;); return false;&quot;' expr:title='data:top.blogThisMsg' target='_blank'><span class='share-button-link-text'><data:top.blogThisMsg/></span></a></b:if><b:if cond='data:top.showTwitterButton'><a class='goog-inline-block share-button sb-twitter' expr:href='data:post.sharePostUrl + &quot;&amp;target=twitter&quot;' expr:title='data:top.shareToTwitterMsg' target='_blank'><span class='share-button-link-text'><data:top.shareToTwitterMsg/></span></a></b:if><b:if cond='data:top.showFacebookButton'><a class='goog-inline-block share-button sb-facebook' expr:href='data:post.sharePostUrl + &quot;&amp;target=facebook&quot;' expr:onclick='&quot;window.open(this.href, \&quot;_blank\&quot;, \&quot;height=430,width=640\&quot;); return false;&quot;' expr:title='data:top.shareToFacebookMsg' target='_blank'><span class='share-button-link-text'><data:top.shareToFacebookMsg/></span></a></b:if><b:if cond='data:top.showPinterestButton'><a class='goog-inline-block share-button sb-pinterest' expr:href='data:post.sharePostUrl + &quot;&amp;target=pinterest&quot;' expr:title='data:top.shareToPinterestMsg' target='_blank'><span class='share-button-link-text'><data:top.shareToPinterestMsg/></span></a></b:if>
+</b:includable>
+              <b:includable id='status-message'>
+  <b:if cond='data:navMessage'>
+  <div class='status-msg-wrap'>
+    <div class='status-msg-body'>
+      <data:navMessage/>
+    </div>
+    <div class='status-msg-border'>
+      <div class='status-msg-bg'>
+        <div class='status-msg-hidden'><data:navMessage/></div>
+      </div>
+    </div>
+  </div>
+  <div style='clear: both;'/>
+  </b:if>
+</b:includable>
+              <b:includable id='threaded-comment-form' var='post'>
+  <div class='comment-form'>
+    <a name='comment-form'/>
+    <b:if cond='data:mobile'>
+      <p><data:blogCommentMessage/></p>
+      <data:blogTeamBlogMessage/>
+      <a expr:href='data:post.commentFormIframeSrc' id='comment-editor-src'/>
+      <iframe allowtransparency='true' class='blogger-iframe-colorize blogger-comment-from-post' expr:height='data:cmtIframeInitialHeight' frameborder='0' id='comment-editor' name='comment-editor' src='' style='display: none' width='100%'/>
+    <b:else/>
+      <p><data:blogCommentMessage/></p>
+      <data:blogTeamBlogMessage/>
+      <a expr:href='data:post.commentFormIframeSrc' id='comment-editor-src'/>
+      <iframe allowtransparency='true' class='blogger-iframe-colorize blogger-comment-from-post' expr:height='data:cmtIframeInitialHeight' frameborder='0' id='comment-editor' name='comment-editor' src='' width='100%'/>
+    </b:if>
+    <data:post.friendConnectJs/>
+    <data:post.cmtfpIframe/>
+    <script type='text/javascript'>
+      BLOG_CMT_createIframe(&#39;<data:post.appRpcRelayPath/>&#39;);
+    </script>
+  </div>
+</b:includable>
+              <b:includable id='threaded_comment_js' var='post'>
+  <script async='async' expr:src='data:post.commentSrc' type='text/javascript'/>
+
+  <script type='text/javascript'>
+    (function() {
+      var items = <data:post.commentJso/>;
+      var msgs = <data:post.commentMsgs/>;
+      var config = <data:post.commentConfig/>;
+
+// <![CDATA[
+      var cursor = null;
+      if (items && items.length > 0) {
+        cursor = parseInt(items[items.length - 1].timestamp) + 1;
+      }
+
+      var bodyFromEntry = function(entry) {
+        var text = (entry &&
+                    ((entry.content && entry.content.$t) ||
+                     (entry.summary && entry.summary.$t))) ||
+            '';
+        if (entry && entry.gd$extendedProperty) {
+          for (var k in entry.gd$extendedProperty) {
+            if (entry.gd$extendedProperty[k].name == 'blogger.contentRemoved') {
+              return '<span class="deleted-comment">' + text + '</span>';
+            }
+          }
+        }
+        return text;
+      }
+
+      var parse = function(data) {
+        cursor = null;
+        var comments = [];
+        if (data && data.feed && data.feed.entry) {
+          for (var i = 0, entry; entry = data.feed.entry[i]; i++) {
+            var comment = {};
+            // comment ID, parsed out of the original id format
+            var id = /blog-(\d+).post-(\d+)/.exec(entry.id.$t);
+            comment.id = id ? id[2] : null;
+            comment.body = bodyFromEntry(entry);
+            comment.timestamp = Date.parse(entry.published.$t) + '';
+            if (entry.author && entry.author.constructor === Array) {
+              var auth = entry.author[0];
+              if (auth) {
+                comment.author = {
+                  name: (auth.name ? auth.name.$t : undefined),
+                  profileUrl: (auth.uri ? auth.uri.$t : undefined),
+                  avatarUrl: (auth.gd$image ? auth.gd$image.src : undefined)
+                };
+              }
+            }
+            if (entry.link) {
+              if (entry.link[2]) {
+                comment.link = comment.permalink = entry.link[2].href;
+              }
+              if (entry.link[3]) {
+                var pid = /.*comments\/default\/(\d+)\?.*/.exec(entry.link[3].href);
+                if (pid && pid[1]) {
+                  comment.parentId = pid[1];
+                }
+              }
+            }
+            comment.deleteclass = 'item-control blog-admin';
+            if (entry.gd$extendedProperty) {
+              for (var k in entry.gd$extendedProperty) {
+                if (entry.gd$extendedProperty[k].name == 'blogger.itemClass') {
+                  comment.deleteclass += ' ' + entry.gd$extendedProperty[k].value;
+                } else if (entry.gd$extendedProperty[k].name == 'blogger.displayTime') {
+                  comment.displayTime = entry.gd$extendedProperty[k].value;
+                }
+              }
+            }
+            comments.push(comment);
+          }
+        }
+        return comments;
+      };
+
+      var paginator = function(callback) {
+        if (hasMore()) {
+          var url = config.feed + '?alt=json&v=2&orderby=published&reverse=false&max-results=50';
+          if (cursor) {
+            url += '&published-min=' + new Date(cursor).toISOString();
+          }
+          window.bloggercomments = function(data) {
+            var parsed = parse(data);
+            cursor = parsed.length < 50 ? null
+                : parseInt(parsed[parsed.length - 1].timestamp) + 1
+            callback(parsed);
+            window.bloggercomments = null;
+          }
+          url += '&callback=bloggercomments';
+          var script = document.createElement('script');
+          script.type = 'text/javascript';
+          script.src = url;
+          document.getElementsByTagName('head')[0].appendChild(script);
+        }
+      };
+      var hasMore = function() {
+        return !!cursor;
+      };
+      var getMeta = function(key, comment) {
+        if ('iswriter' == key) {
+          var matches = !!comment.author
+              && comment.author.name == config.authorName
+              && comment.author.profileUrl == config.authorUrl;
+          return matches ? 'true' : '';
+        } else if ('deletelink' == key) {
+          return config.baseUri + '/delete-comment.g?blogID='
+               + config.blogId + '&postID=' + comment.id;
+        } else if ('deleteclass' == key) {
+          return comment.deleteclass;
+        }
+        return '';
+      };
+
+      var replybox = null;
+      var replyUrlParts = null;
+      var replyParent = undefined;
+
+      var onReply = function(commentId, domId) {
+        if (replybox == null) {
+          // lazily cache replybox, and adjust to suit this style:
+          replybox = document.getElementById('comment-editor');
+          if (replybox != null) {
+            replybox.height = '250px';
+            replybox.style.display = 'block';
+            replyUrlParts = replybox.src.split('#');
+          }
+        }
+        if (replybox && (commentId !== replyParent)) {
+          replybox.src = '';
+          document.getElementById(domId).insertBefore(replybox, null);
+          replybox.src = replyUrlParts[0]
+              + (commentId ? '&parentID=' + commentId : '')
+              + '#' + replyUrlParts[1];
+          replyParent = commentId;
+        }
+      };
+
+      var hash = (window.location.hash || '#').substring(1);
+      var startThread, targetComment;
+      if (/^comment-form_/.test(hash)) {
+        startThread = hash.substring('comment-form_'.length);
+      } else if (/^c[0-9]+$/.test(hash)) {
+        targetComment = hash.substring(1);
+      }
+
+      // Configure commenting API:
+      var configJso = {
+        'maxDepth': config.maxThreadDepth
+      };
+      var provider = {
+        'id': config.postId,
+        'data': items,
+        'loadNext': paginator,
+        'hasMore': hasMore,
+        'getMeta': getMeta,
+        'onReply': onReply,
+        'rendered': true,
+        'initComment': targetComment,
+        'initReplyThread': startThread,
+        'config': configJso,
+        'messages': msgs
+      };
+
+      var render = function() {
+        if (window.goog && window.goog.comments) {
+          var holder = document.getElementById('comment-holder');
+          window.goog.comments.render(holder, provider);
+        }
+      };
+
+      // render now, or queue to render when library loads:
+      if (window.goog && window.goog.comments) {
+        render();
+      } else {
+        window.goog = window.goog || {};
+        window.goog.comments = window.goog.comments || {};
+        window.goog.comments.loadQueue = window.goog.comments.loadQueue || [];
+        window.goog.comments.loadQueue.push(render);
+      }
+    })();
+// ]]>
+  </script>
+</b:includable>
+              <b:includable id='threaded_comments' var='post'>
+  <div class='comments' id='comments'>
+    <a name='comments'/>
+    <h4><data:post.commentLabelFull/>:</h4>
+
+    <div class='comments-content'>
+      <b:include cond='data:post.embedCommentForm' data='post' name='threaded_comment_js'/>
+      <div id='comment-holder'>
+         <data:post.commentHtml/>
+      </div>
+    </div>
+
+    <p class='comment-footer'>
+      <b:if cond='data:post.allowNewComments'>
+        <b:include data='post' name='threaded-comment-form'/>
+      <b:else/>
+        <data:post.noNewCommentsText/>
+      </b:if>
+    </p>
+
+    <b:if cond='data:showCmtPopup'>
+      <div id='comment-popup'>
+        <iframe allowtransparency='true' frameborder='0' id='comment-actions' name='comment-actions' scrolling='no'>
+        </iframe>
+      </div>
+    </b:if>
+
+    <div id='backlinks-container'>
+    <div expr:id='data:widget.instanceId + &quot;_backlinks-container&quot;'>
+    </div>
+    </div>
+  </div>
+</b:includable>
+            </b:widget>
+            <b:widget id='Feed1' locked='false' title='Blogger Templates' type='Feed'>
+              <b:includable id='main'>
+    <h2><data:title/></h2>
+    <div class='widget-content' expr:id='data:widget.instanceId + &quot;_feedItemListDisplay&quot;'>
+      <span style='filter: alpha(25); opacity: 0.25;'>
+        <a expr:href='data:feedUrl'><data:loadingMsg/></a>
+      </span>
+    </div>
+    <b:include name='quickedit'/>
+  </b:includable>
+            </b:widget>
+          </b:section>
+        </div>
+        </div>
+
+        <div class='column-left-outer'>
+        <div class='column-left-inner'>
+          <aside>
+          <macro:include id='main-column-left-sections' name='sections'>
+            <macro:param default='0' name='num'/>
+            <macro:param default='sidebar-left' name='idPrefix'/>
+            <macro:param default='sidebar' name='class'/>
+            <macro:param default='true' name='includeBottom'/>
+          </macro:include>
+          </aside>
+        </div>
+        </div>
+
+        <div class='column-right-outer'>
+        <div class='column-right-inner'>
+          <aside>
+          <macro:include id='main-column-right-sections' name='sections'>
+            <macro:param default='2' name='num'/>
+            <macro:param default='sidebar-right' name='idPrefix'/>
+            <macro:param default='sidebar' name='class'/>
+            <macro:param default='true' name='includeBottom'/>
+          </macro:include>
+          </aside>
+        </div>
+        </div>
+
+        </div>
+
+        <div style='clear: both'/>
+      <!-- columns -->
+      </div>
+
+    <!-- main -->
+    </div>
+    </div>
+    <div class='main-cap-bottom cap-bottom'>
+      <div class='cap-left'/>
+      <div class='cap-right'/>
+    </div>
+    </div>
+
+    <footer>
+    <div class='footer-outer'>
+    <div class='footer-cap-top cap-top'>
+      <div class='cap-left'/>
+      <div class='cap-right'/>
+    </div>
+    <div class='fauxborder-left footer-fauxborder-left'>
+    <div class='fauxborder-right footer-fauxborder-right'/>
+    <div class='region-inner footer-inner'>
+      <macro:include id='footer-sections' name='sections'>
+        <macro:param default='2' name='num'/>
+        <macro:param default='footer' name='idPrefix'/>
+        <macro:param default='foot' name='class'/>
+        <macro:param default='false' name='includeBottom'/>
+      </macro:include>
+      <!-- outside of the include in order to lock Attribution widget -->
+      <b:section class='foot' id='footer-3' showaddelement='no'>
+        <b:widget id='Attribution1' locked='true' title='' type='Attribution'>
+          <b:widget-settings>
+            <b:widget-setting name='copyright'/>
+          </b:widget-settings>
+          <b:includable id='main'>
+    <div class='widget-content' style='text-align: center;'>
+      <b:if cond='data:attribution != &quot;&quot;'>
+       <data:attribution/>
+      </b:if>
+    </div>
+
+    <b:include name='quickedit'/>
+  </b:includable>
+        </b:widget>
+      </b:section>
+    </div>
+    </div>
+    <div class='footer-cap-bottom cap-bottom'>
+      <div class='cap-left'/>
+      <div class='cap-right'/>
+    </div>
+    </div>
+    </footer>
+
+  <!-- content -->
+  </div>
+  </div>
+  <div class='content-cap-bottom cap-bottom'>
+    <div class='cap-left'/>
+    <div class='cap-right'/>
+  </div>
+  </div>
+  </div>
+
+  <script type='text/javascript'>
+    window.setTimeout(function() {
+        document.body.className = document.body.className.replace(&#39;loading&#39;, &#39;&#39;);
+      }, 10);
+  </script>
+
+
+<macro:includable id='sections' var='col'>
+  <macro:if cond='data:col.num == 0'>
+  <macro:else/>
+    <b:section mexpr:class='data:col.class' mexpr:id='data:col.idPrefix + &quot;-1&quot;' preferred='yes' showaddelement='yes'/>
+
+    <macro:if cond='data:col.num &gt;= 2'>
+      <table border='0' cellpadding='0' cellspacing='0' mexpr:class='&quot;section-columns columns-&quot; + data:col.num'>
+      <tbody>
+      <tr>
+        <td class='first columns-cell'>
+          <b:section mexpr:class='data:col.class' mexpr:id='data:col.idPrefix + &quot;-2-1&quot;'/>
+        </td>
+
+        <td class='columns-cell'>
+          <b:section mexpr:class='data:col.class' mexpr:id='data:col.idPrefix + &quot;-2-2&quot;'/>
+        </td>
+
+        <macro:if cond='data:col.num &gt;= 3'>
+          <td class='columns-cell'>
+            <b:section mexpr:class='data:col.class' mexpr:id='data:col.idPrefix + &quot;-2-3&quot;'/>
+          </td>
+        </macro:if>
+
+        <macro:if cond='data:col.num &gt;= 4'>
+          <td class='columns-cell'>
+            <b:section mexpr:class='data:col.class' mexpr:id='data:col.idPrefix + &quot;-2-4&quot;'/>
+          </td>
+        </macro:if>
+      </tr>
+      </tbody>
+      </table>
+
+      <macro:if cond='data:col.includeBottom'>
+        <b:section mexpr:class='data:col.class' mexpr:id='data:col.idPrefix + &quot;-3&quot;' showaddelement='no'/>
+      </macro:if>
+    </macro:if>
+  </macro:if>
+</macro:includable>
+
+ </b:if>
+
+
+
+<b:section-contents id='sidebar-right-1'/><b:section-contents id='sidebar-right-2-1'/><b:section-contents id='sidebar-right-2-2'/><b:section-contents id='sidebar-right-3'/><b:section-contents id='footer-1'>
+  <b:widget id='ContactForm1' locked='false' title='Formulário de contato' type='ContactForm'>
+    <b:includable id='main'>
+  <b:if cond='data:title != &quot;&quot;'>
+    <h2 class='title'><data:title/></h2>
+  </b:if>
+  <div class='contact-form-widget'>
+    <div class='form'>
+      <form name='contact-form'>
+        <p/>
+        <data:contactFormNameMsg/>
+        <br/>
+        <input class='contact-form-name' expr:id='data:widget.instanceId + &quot;_contact-form-name&quot;' name='name' size='30' type='text' value=''/>
+        <p/>
+        <data:contactFormEmailMsg/> <span style='font-weight: bolder;'>*</span>
+        <br/>
+        <input class='contact-form-email' expr:id='data:widget.instanceId + &quot;_contact-form-email&quot;' name='email' size='30' type='text' value=''/>
+        <p/>
+        <data:contactFormMessageMsg/> <span style='font-weight: bolder;'>*</span>
+        <br/>
+        <textarea class='contact-form-email-message' cols='25' expr:id='data:widget.instanceId + &quot;_contact-form-email-message&quot;' name='email-message' rows='5'/>
+        <p/>
+        <input class='contact-form-button contact-form-button-submit' expr:id='data:widget.instanceId + &quot;_contact-form-submit&quot;' expr:value='data:contactFormSendMsg' type='button'/>
+        <p/>
+        <div style='text-align: center; max-width: 222px; width: 100%'>
+          <p class='contact-form-error-message' expr:id='data:widget.instanceId + &quot;_contact-form-error-message&quot;'/>
+          <p class='contact-form-success-message' expr:id='data:widget.instanceId + &quot;_contact-form-success-message&quot;'/>
+        </div>
+      </form>
+    </div>
+  </div>
+  <b:include name='quickedit'/>
+</b:includable>
+  </b:widget>
+</b:section-contents><b:section-contents id='footer-2-1'/><b:section-contents id='footer-2-2'/></html>
