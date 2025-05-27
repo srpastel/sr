@@ -1,4 +1,4 @@
-﻿/*! fancyBox v2.1.5 fancyapps.com | fancyapps.com/fancybox/#license */
+/*! fancyBox v2.1.5 fancyapps.com | fancyapps.com/fancybox/#license */
 .fancybox-wrap,
 .fancybox-skin,
 .fancybox-outer,
@@ -76,7 +76,7 @@
 }
 
 #fancybox-loading, .fancybox-close, .fancybox-prev span, .fancybox-next span {
-	background-image: url('../fancybox_sprite@2x.png');
+	background-image: url('/web/20141228202902im_/http://maispastel.com.br/css/fancybox_sprite.png');
 }
 
 #fancybox-loading {
@@ -94,14 +94,14 @@
 #fancybox-loading div {
 	width: 44px;
 	height: 44px;
-	background: url('https://cdn.rawgit.com/srpastel/sr/1f24fd2a/loading.gif?raw=true') center center no-repeat;
+	background: url('/web/20141228202902im_/http://maispastel.com.br/css/fancybox_loading.gif') center center no-repeat;
 }
 
 .fancybox-close {
-	background: #f17a25 url('https://cdn.rawgit.com/srpastel/sr/8a9727c6/close_modal.png?raw=true') no-repeat;
+	background: #f17a25 url('/web/20141228202902im_/http://maispastel.com.br/img/icons/close_modal.png') no-repeat;
 	position: fixed;
 	top: 15px;
-	right: 50px;
+	right: 15px;
 	width: 52px;
 	height: 52px;
 	cursor: pointer;
@@ -132,7 +132,7 @@
 	height: 100%;
 	cursor: pointer;
 	text-decoration: none;
-	background: transparent url('blank.gif'); /* helps IE */
+	background: transparent url('/web/20141228202902im_/http://maispastel.com.br/css/blank.gif'); /* helps IE */
 	-webkit-tap-highlight-color: rgba(0,0,0,0);
 	z-index: 8040;
 }
@@ -196,7 +196,7 @@
 }
 
 .fancybox-overlay {
-	background: #febf32 url('https://cdn.rawgit.com/srpastel/sr/8a9727c6/textura.png?raw=true') repeat;
+	background: #febf32 url('/web/20141228202902im_/http://maispastel.com.br/img/backgrounds/textura.png') repeat;
 	position: absolute;
 	top: 0;
 	left: 0;
@@ -281,17 +281,17 @@
 	   only screen and (min-device-pixel-ratio: 1.5){
 
 	#fancybox-loading, .fancybox-close, .fancybox-prev span, .fancybox-next span {
-		background-image: url('../fancybox_sprite@2x.png');
+		background-image: url('/web/20141228202902im_/http://maispastel.com.br/css/fancybox_sprite@2x.png');
 		background-size: 44px 152px; /*The size of the normal image, half the size of the hi-res image*/
 	}
 
 	.fancybox-close {
-		background-image: url('https://cdn.rawgit.com/srpastel/sr/8a9727c6/close_modal_2x.png?raw=true');
+		background-image: url('/web/20141228202902im_/http://maispastel.com.br/img/icons/close_modal_2x.png');
 		background-size: 52px 104px;
 	}
 
 	#fancybox-loading div {
-		background-image: url('https://cdn.rawgit.com/srpastel/sr/c5a5196b/loading.gif?raw=true');
+		background-image: url('/web/20141228202902im_/http://maispastel.com.br/css/fancybox_loading@2x.gif');
 		background-size: 24px 24px; /*The size of the normal image, half the size of the hi-res image*/
 	}
 }
@@ -309,3 +309,24 @@
 		top: -10px;
 	}
 }
+
+/*
+     FILE ARCHIVED ON 20:29:02 Dec 28, 2014 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 00:36:37 May 27, 2025.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+*/
+/*
+playback timings (ms):
+  captures_list: 0.576
+  exclusion.robots: 0.038
+  exclusion.robots.policy: 0.022
+  esindex: 0.011
+  cdx.remote: 24.472
+  LoadShardBlock: 315.158 (3)
+  PetaboxLoader3.datanode: 133.787 (4)
+  PetaboxLoader3.resolve: 398.051 (2)
+  load_resource: 255.098
+*/
