@@ -1,4 +1,4 @@
-﻿.jspContainer {
+.jspContainer {
 	overflow:hidden;
 	position:relative;
 }
@@ -103,7 +103,7 @@
 	bottom:0;
 	left:0;
 	width:100%;
-	background:url('../img/bg_scroll.png') repeat-x;
+	background:url('/web/20141228214004im_/http://maispastel.com.br/img/backgrounds/bg_scroll.png') repeat-x;
 	height:32px;
 	z-index:101;
 }
@@ -117,7 +117,7 @@
 
 .jspHorizontalBar .jspDragLeft,
 .jspHorizontalBar .jspDragRight {
-	background:#505052 url('../img/bg_scroll.png') no-repeat top left;
+	background:#505052 url('/web/20141228214004im_/http://maispastel.com.br/img/backgrounds/scroll.png') no-repeat top left;
 	width:32px;
 	height:30px;
 	position:absolute;
@@ -165,3 +165,24 @@
 	left: 0;
 	cursor: pointer;
 }
+
+/*
+     FILE ARCHIVED ON 21:40:04 Dec 28, 2014 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 00:36:39 May 27, 2025.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+*/
+/*
+playback timings (ms):
+  captures_list: 0.51
+  exclusion.robots: 0.028
+  exclusion.robots.policy: 0.017
+  esindex: 0.01
+  cdx.remote: 7.511
+  LoadShardBlock: 570.097 (3)
+  PetaboxLoader3.datanode: 547.821 (4)
+  PetaboxLoader3.resolve: 249.853 (2)
+  load_resource: 267.721
+*/
